@@ -1,6 +1,6 @@
---------------------------------------------------
+==================================================
 MASKULINUM/MASCHILE
---------------------------------------------------
+==================================================
 
 SINGOLARE | PLURALE
 ----------|----------
@@ -8,17 +8,28 @@ Mann      | Männer
 Junge     | Jungen
 Apfel     |
 Tag       |
+Der Hund  |
+
 
 ==================================================
 FEMININUM/FEMMINILE
 ==================================================
+Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine. 
+So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
+-ITIS, -ION, -ENZ, -TÄT, -IE. 
 
-SINGOLARE          | PLURALE
--------------------|----------
-Frau               | Frauen
-Milch              |
-Zeitung            |
-Frange: question
+SINGOLARE            | PLURALE
+---------------------|---------------------
+Frau                 | Frauen
+Milch                |
+Zeitung              |
+Frange: question     |
+die Katze            |
+die Berlinerin       | die Berlinerinnen
+die Universität      |
+die Mannschaft: team |
+die Pommes           | die Pommes: patatine fritte
+
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -33,6 +44,9 @@ Brot          |
 Buch          |
 Stadtviertel  | 
 Wort          | Worte
+das Deutsch   |
+das Haus      |
+das Café      | die Cafés
 
 
 ==================================================

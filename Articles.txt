@@ -1,27 +1,57 @@
+##################################################
 ==================================================
-ARTICOLI INDETERMINATIVI: un/uno/una/un'
+[1st - CASE]: SINGULAR NOUN, NOMINATIVE CASE 
 ==================================================
-
- CASO          | MASCHILE   | FEMMINILE  | NEUTRO
----------------|------------|------------|------------
- NOMINATIVO    | Ein        | Eine       | Ein
----------------|------------|------------|------------
- ACCUSATIVO*   | Einen      | Eine       | Ein
+##################################################
 
 
+The nominative is the basic form of the noun and describes the subject, 
+thus the person or object which acts.
+You ask for the nominative case with Wer oder was? (Who?)
 
-==================================================
-ARTICOLI DETERMINATIVI: il/lo/la/l'/i/gli/le
-==================================================
+E.G. Nominative as subject:
+Das Mädchen trägt ein Kleid: The girl is wearing a dress.
 
- CASO          | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
+The nominative case also occurs after the verbs SEIN, WERDEN 
+(to be, to become) and BLEIBEN (to stay). 
+it is not a subject in this case, but a predicative. 
+
+E.G. Object as predicative:
+Ich bin eine Frau: I am a woman
+
+ NOMINATIVE    | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
 ---------------|------------|------------|------------|------------
- NOMINATIVO    | Der        | Die        | Das        | Die
+ DEFINITE      | Der        | Die        | Das        | Die
 ---------------|------------|------------|------------|------------
- ACCUSATIVO*   | Den        | Die        | Das        | Die
+ INDEFINITE    | Ein        | Eine       | Ein        | -
 
 
 
+##################################################
+==================================================
+[4th - CASE]: SINGULAR NOUN, ACCUSATIVE CASE* 
+==================================================
+##################################################
+
+The accusative is used for the direct object. 
+The direct object is the object/person which is used for the action, 
+it does not perform any action itself. 
+You ask for the direct object with Wen oder was? (Who? or What?).
+
+E.G.:
+Ich mache den Fernseher aus: I turn off the TV
+
+
+The prepositions UM, DURCH, OHNE, FÜR and gegen always require the accusative.
+
+E.G.:
+Ich fahre durch die Stadt: I drive through the city
+
+ ACCUSATIVE    | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ DEFINITE      | Den        | Die        | Das        | Die
+---------------|------------|------------|------------|------------
+ INDEFINITE    | Einen      | Eine       | Ein        | -
 
 
 

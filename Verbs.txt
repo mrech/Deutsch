@@ -1,3 +1,8 @@
+##################################################
+################# IRREGULAR VERB #################
+##################################################
+
+
 ==================================================
 SEIN: essere
 ==================================================
@@ -11,6 +16,9 @@ Wir       | sind      |
 Ihr       | seid      |
 Sie       | sind      |
 
+E.G.: 
+Ich bin Cindy: Io sono Cindy
+Wer bist du?: Who are you?
 
 ==================================================
 HABEN: avere
@@ -24,6 +32,26 @@ Er/Sie/Es | hat
 Wir       | haben          
 Ihr       | habt         
 Sie       | haben           
+
+E.G.: 
+
+
+==================================================
+SPRECHEN: parlare|speak
+==================================================
+
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | sprech-E     
+Du        | sprich-ST     
+Er/Sie/Es | sprich-T    
+Wir       | sprech-EN     
+Ihr       | sprech-T     
+Sie       | sprech-EN   
+
+E.G.: 
+Du sprichst fließend Deutsch!: You speak german fluently
 
 
 ==================================================
@@ -39,6 +67,7 @@ Wir       | essen     |
 Ihr       | esst      |
 Sie       | essen     |
 
+E.G.: 
 
 ==================================================
 TRINKEN: bere
@@ -52,6 +81,8 @@ Er/Sie/Es | trinkt    |
 Wir       | trinken   |
 Ihr       | trinkt    |
 Sie       | trinken   |
+
+E.G.: 
 
 
 ==================================================
@@ -67,19 +98,78 @@ Wir       | lesen     |
 Ihr       |           |
 Sie       | lesen     |
 
+E.G.: 
+
+
+##################################################
+################## REGULAR VERB ##################
+##################################################
 
 ==================================================
-: 
+HEIßEN: mi chiamo|am called 
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | heiß-E     
+Du        | heiß-T     
+Er/Sie/Es | heiß-T     
+Wir       | heiß-EN     
+Ihr       | heiß-T     
+Sie       | heiß-EN   
+
+E.G.: 
+Ich heiße Emma: Mi chiamo Emma
+
+
+==================================================
+KOMMEN: venire|arrivare 
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | komm-E     
+Du        | komm-ST     
+Er/Sie/Es | komm-T     
+Wir       | komm-EN     
+Ihr       | komm-T     
+Sie       | komm-EN   
+
+E.G.: 
+Ich komme aus Verona: I vengo da Verona
+
+
+
+==================================================
+BEANTWORTEN: rispondere 
+==================================================
+
+          | PRÄSENS   | IMPERTATIVE
+----------|-----------|-----------  
+Ich       |           | Beantworte
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+
+==================================================
+WERDEN: become 
 ==================================================
 
           | PRÄSENS   |
-----------| ----------| 
-Ich       | heiſsSſ     |
-Du        |      |
-Er/Sie/Es |      |
-Wir       |      |
-Ihr       |           |
-Sie       |    |
+----------|-----------|  
+Ich       |           |
+Du        | wirst      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+
+
+
 
 __________________________________________________
 ==================================================
