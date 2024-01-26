@@ -1,0 +1,77 @@
+--------------------------------------------------
+
+der Mann: l'uomo
+der Junge: il ragazzo
+Ein Mann: un uomo
+Ein Junge: un ragazzo
+
+die Frau: la donna
+Eine Frau: una donna
+
+das Mädchen: la ragazza
+Ein Mädchen: una ragazza
+das Kind: Il bambino
+Ein Kind: un bambino
+
+Ich bin Anna: Io sono Anna
+Ich bin Lukas: Io sono Lukas
+Ich bin eine Frau: Io sono una donna
+Ich bin ein Kind: Sono un bambino
+Du bist: Tu sei
+Bist du Maria?: Sei tu Maria?
+Lukas ist ein Junge: Lukas è un ragazzo
+Er ist ein Mann: Lui è un uomo
+Sie ist ein Kind: Lei è una bambina
+Er ist ein Kind: Lui è un bambino
+Sie ist ein Mädchen: Lei è una ragazza
+
+--------------------------------------------------
+
+das Brot: il pane
+das Wasser: l'acqua
+der Apfel: la mela
+den Apfel: la mela
+einen Apfel: una mela
+
+die Milch: il latte
+
+Ich esse: Io mangio
+Ich esse Brot: Mangio pane
+Ich esse viel: Io mangio tanto
+Ich esse einen Apfel: io mangio una mela
+Du isst: Tu mangi
+Er isst: Lui mangia
+Er isst Brot: Lui mangia del pane
+der junge isst den Apfel: il ragazzo mangia la mela
+Sie isst den Apfel: Lei mangia la mela
+Sie isst das Brot: Mangia il pane
+Ein Kind isst den Apfel: Un bambino mangia la mela
+Eine Frau isst den Apfel: Una donna mangia la mela
+Ein Junge isst das Brot: un ragazzo mangia il pane
+Er isst einen Apfel: mangia una mela
+Isst sie?: Mangia lei?
+Isst er? Mangia lui?
+
+
+Ich trinke Wasser: Bevo acqua
+Ich trinke die Milch: Bevo il latte
+Trinke ich Wasser: Bevo dell'acqua?
+Trinke ich Wasser?: Bevo dell'acqua
+Du trinkst Wasser: Bevi dell'acqua
+Du trinkst die Milch: Tu bevi il latte
+Trinkst du viel Wasser: Bevi molta acqua?
+Er trinkt Wasser: Lui beve acqua
+Er trinkt das Wasser: Beve l'acqua
+Der Junge trinkt die Milch: il ragazzo beve il latte
+Trinkt er viel Wasser?: Lui beve molta acqua
+Eine Frau trinkt Wasser: Una donna beve dell'acqua
+Die Frau trinkt Milch: la donna beve il latte
+Der Junge trinkt die Milch: il ragazzo beve il latte
+
+
+--------------------------------------------------
+
+Gut!: Fantastico
+Ich bin gut: io sono bravo
+Er/Sie ist gut: Lui/Lei è buono
+Du bist gut: Sei bravo

@@ -1,0 +1,55 @@
+--------------------------------------------------
+MASKULINUM/MASCHILE
+--------------------------------------------------
+
+SINGOLARE | PLURALE
+----------|----------
+Mann      | Männer
+Junge     | Jungen
+Apfel     |
+Tag       |
+
+==================================================
+FEMININUM/FEMMINILE
+==================================================
+
+SINGOLARE          | PLURALE
+-------------------|----------
+Frau               | Frauen
+Milch              |
+Zeitung            |
+Frange: question
+
+==================================================
+NEUTRUM/NEUTRO
+==================================================
+
+SINGOLARE     | PLURALE
+--------------|--------------
+Mädchen       | Mädchen
+Kind          | Kinder
+Wasser        |
+Brot          |
+Buch          |
+Stadtviertel  | 
+Wort          | Worte
+
+
+==================================================
+DATIVE CASE*
+==================================================  
+
+               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ ENDING        | -em        | -er        | -em        | -en
+
+
+NOTE:
+--------------------------------------------------
+*: oggetto che subisce l'azione
+
+
+
+
+REFS:
+https://it.pons.com/traduzione/tedesco-italiano/viel

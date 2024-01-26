@@ -1,0 +1,33 @@
+==================================================
+ARTICOLI INDETERMINATIVI: un/uno/una/un'
+==================================================
+
+ CASO          | MASCHILE   | FEMMINILE  | NEUTRO
+---------------|------------|------------|------------
+ NOMINATIVO    | Ein        | Eine       | Ein
+---------------|------------|------------|------------
+ ACCUSATIVO*   | Einen      | Eine       | Ein
+
+
+
+==================================================
+ARTICOLI DETERMINATIVI: il/lo/la/l'/i/gli/le
+==================================================
+
+ CASO          | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ NOMINATIVO    | Der        | Die        | Das        | Die
+---------------|------------|------------|------------|------------
+ ACCUSATIVO*   | Den        | Die        | Das        | Die
+
+
+
+
+
+
+NOTE:
+--------------------------------------------------
+*: oggetto che subisce l'azione
+
+REFS:
+https://it.wikipedia.org/wiki/Articoli_tedeschi
