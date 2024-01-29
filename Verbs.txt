@@ -20,6 +20,7 @@ E.G.:
 Ich bin Cindy: Io sono Cindy
 Wer bist du?: Who are you?
 
+
 ==================================================
 HABEN: avere
 ==================================================
@@ -39,7 +40,6 @@ E.G.:
 ==================================================
 SPRECHEN: parlare|speak
 ==================================================
-
 
           | PRÄSENS   
 ----------| ---------- 
@@ -67,22 +67,7 @@ Wir       | essen     |
 Ihr       | esst      |
 Sie       | essen     |
 
-E.G.: 
-
-==================================================
-TRINKEN: bere
-==================================================
-
-          | PRÄSENS   |
-----------| ----------| 
-Ich       | trinke    |
-Du        | trinkst   |
-Er/Sie/Es | trinkt    |
-Wir       | trinken   |
-Ihr       | trinkt    |
-Sie       | trinken   |
-
-E.G.: 
+E.G.: Ich esse ein apfel
 
 
 ==================================================
@@ -98,7 +83,42 @@ Wir       | lesen     |
 Ihr       |           |
 Sie       | lesen     |
 
-E.G.: 
+E.G.: Sie leseb ein bog
+
+
+==================================================
+WEISSEN: to know | sapere
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | weiß
+Du        | weißt         
+Er/Sie/Es | weiß          
+Wir       | wissen          
+Ihr       | wisst          
+Sie       | wissen
+
+E.G.: Weißt du noch, als du kein Deutsch konntest?: 
+Do you still remember when you could not speak German?
+
+
+==================================================
+WERDEN: become | get
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | werde
+Du        | wirst      
+Er/Sie/Es | wird     
+Wir       | werden     
+Ihr       | werdet     
+Sie       | werden 
+
+E.G.: Du wirst immer besser!: You get getting better and better!
+
+
 
 
 ##################################################
@@ -106,7 +126,7 @@ E.G.:
 ##################################################
 
 ==================================================
-HEIßEN: mi chiamo|am called 
+HEIßEN: mi chiamo | am called ° to heißen
 ==================================================
 
           | PRÄSENS   
@@ -139,6 +159,72 @@ E.G.:
 Ich komme aus Verona: I vengo da Verona
 
 
+==================================================
+MACHEN: to do | to make 
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | mach-E     
+Du        | mach-ST     
+Er/Sie/Es | mach-T     
+Wir       | mach-EN     
+Ihr       | mach-T     
+Sie       | mach-EN   
+
+E.G.: 
+Du machst das richtig gut heute: Tu hai fatto molto bene oggi 
+
+
+==================================================
+TRINKEN: bere
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | trink-E   |
+Du        | trink-ST  |
+Er/Sie/Es | trink-T   |
+Wir       | trink-EN  |
+Ihr       | trink-T   |
+Sie       | trink-EN  |
+
+E.G.: Du tinkst milch. Sie trinken nichts
+
+
+==================================================
+KÖNNEN: to be able to
+==================================================
+
+          | SIMPLE PAST TENSE  
+----------| ---------- 
+Ich       | konn-TE
+Du        | konn-TEST          
+Er/Sie/Es | konn-TE          
+Wir       | konn-TEN          
+Ihr       | konn-TET          
+Sie       | konn-TEN          
+
+E.G.: Weißt du noch, als du kein Deutsch konntest?: 
+Do you still remember when you could not speak German? 
+
+
+==================================================
+TRAGEN: to carry, to wear
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | trag-E
+Du        | trÄg-ST          
+Er/Sie/Es | trÄg-T          
+Wir       | trag-EN          
+Ihr       | trag-T          
+Sie       | trag-EN 
+
+E.G.: Ich trage ein T-Shirt. 
+Eine jacke trägt man: una giacca si indossa
+
 
 ==================================================
 BEANTWORTEN: rispondere 
@@ -153,19 +239,6 @@ Wir       |
 Ihr       |      
 Sie       |    
 
-
-==================================================
-WERDEN: become 
-==================================================
-
-          | PRÄSENS   |
-----------|-----------|  
-Ich       |           |
-Du        | wirst      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
 
 
 

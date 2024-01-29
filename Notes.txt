@@ -4,13 +4,41 @@ INTRODUCTIONS
 Wer bist du?: who are you?
 Ich heiße Morena
 Ich bin Morena
+Wie heiße ich?: what's my name?
+
 --------------------------------------------------
 Wo kommst du her?: Where are you from?
 Ich komme aus Verona.
 Ich bin Veronerin.
 
+==================================================
+GREETINGS: DIE BEGRÜßUNG
+==================================================
+Guten Morgen | Morgen: Good morning
+Hallo: Salve
+Guten Tag | Tag: Good day | Good afternoon
+Hi: Ciao
+Auf Wiedersehen: Goodbye
+Tschüss: Bye| Arrivederci!
+Bis später!: A più tardi!
+Guten Abend: Buonasera
+Bis bald!: A presto
+Bis morgen!: A domani
+Mach's gut!: stammi bene
+Gute Nacht: Buonanotte
 
 --------------------------------------------------
 Du bist der Hammer!: You are awesome!
 Gib nicht auf!: non mollare/Don't give up.
 Weiter so!: keep it up
+Das war's.: That was it
+Sehr gut gemacht: Very well done
+Gut gemacht!: Well done
+Du wirst immer besser!: You get getting better and better!
+Ab zum nächsten Deck!: Off we go to the next Deck
+Super!:
+Deine Arbeit zahlt sich aus: your work is paying off
+Deine Deutsch ist beeindruckend: your german is impressive
+Du machst das richtig gut heute.: You have done really well today
+
+TODO: gemacht!!!

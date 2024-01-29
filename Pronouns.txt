@@ -18,6 +18,26 @@ Das ist gut: va bene
 Das ist ein mann: quello è un uomo
 Das sind Mädchen: Quelle sono ragazze
 
+==================================================
+ACCUSATIVE CASE
+==================================================  
+The accusative case can be found by asking "who" or 
+"what" is affected by the verb's action.
+
+--------------------------------------------------
+> DAS: that
+--------------------------------------------------
+E.G.: Du machst das richtig gut heute.
+
+--------------------------------------------------
+> ETWAS: something
+--------------------------------------------------
+E.G.: Wir trinken etwas
+
+--------------------------------------------------
+> NICHTS: nothing
+--------------------------------------------------
+E.G.: Sie trinken nichts
 
 
 ==================================================

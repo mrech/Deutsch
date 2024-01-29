@@ -2,13 +2,20 @@
 MASKULINUM/MASCHILE
 ==================================================
 
-SINGOLARE | PLURALE
-----------|----------
-Mann      | Männer
-Junge     | Jungen
-Apfel     |
-Tag       |
-Der Hund  |
+TRANSLATE | SINGOLARE   | PLURALE
+----------|-------------|----------
+            Mann        | Männer
+            Junge       | Jungen
+            Apfel       |
+            Tag         |
+            Der Hund    |
+La sera   | Der Abend   |           
+            Der Morgen  |         
+            Der Tag     |
+            Der Saft    | Die Säfte
+            Der Kaffee  |
+            Der Schuh   | Die Schuhe
+            Der Verb
 
 
 ==================================================
@@ -18,18 +25,24 @@ Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine.
 So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
 -ITIS, -ION, -ENZ, -TÄT, -IE. 
 
-SINGOLARE            | PLURALE
----------------------|---------------------
-Frau                 | Frauen
-Milch                |
-Zeitung              |
-Frange: question     |
-die Katze            |
-die Berlinerin       | die Berlinerinnen
-die Universität      |
-die Mannschaft: team |
-die Pommes           | die Pommes: patatine fritte
-
+TRANLATION      | SINGOLARE            | PLURALE
+----------------|----------------------|---------------------
+                | Frau                 | Frauen
+                | Milch                |
+                | Zeitung              |
+                | Frange: question     |
+                | die Katze            |
+                | die Berlinerin       | die Berlinerinnen
+                | die Universität      |
+team            | die Mannschaft       |
+patatine fritte | die Pommes           | die Pommes
+                | die Kartoffel        | die Kartoffeln
+                | Die Nacht            |
+                | Die Limonade         | Die Limonaden  
+                | Die Jacke            | Die Jacken
+capello         | Die Mütze            |
+                | Die Sonnenbrille     | Die Sonnenbrillen
+                | Die Person
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -39,7 +52,7 @@ SINGOLARE     | PLURALE
 --------------|--------------
 Mädchen       | Mädchen
 Kind          | Kinder
-Wasser        |
+das Wasser    |
 Brot          |
 Buch          |
 Stadtviertel  | 
@@ -47,7 +60,11 @@ Wort          | Worte
 das Deutsch   |
 das Haus      |
 das Café      | die Cafés
-
+das Hallo     |
+Gute          |
+Das Keybord   |
+Das T-shirt   | 
+Das Getränk   |
 
 ==================================================
 DATIVE CASE*
