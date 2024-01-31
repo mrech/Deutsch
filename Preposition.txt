@@ -2,3 +2,70 @@
 PREPOSITION
 ==================================================  
 Mit: with
+
+
+==================================================
+PREPOSITION, ACCUSATIVE CASE
+==================================================  
+All articles, adjectives, nouns, and pronouns following the accusative preposition 
+will take the accusative case. These are the accusative prepositions:
+
+You can remember them by FUDOG (für, um, durch, ohne, gegen)
+
+PREPOSITION  | TRANSLATION  
+-------------| ---------- 
+für          | for     
+um           | around, at (time)     
+durch        | through     
+ohne         | without     
+gegen        | against, around (time)     
+Bis          | until  
+
+E.G.:
+Wir laufen durch den Park: We walk through the Park
+Ich habe einen Brief für dich: I have a letter for you.
+Die Katze springt gegen den Tisch: The cat jumps against the table
+
+
+Some preposition can be merged with the article to make one word:
+-------------------------
+durch + das: durchs
+für + das: fürs
+um + das: ums
+-------------------------
+
+E.G.:
+Sie sind Freunde fürs Leben.: They are friends for life.
+
+
+==================================================
+TWO-WAY PREPOSITION
+==================================================  
+If the verb is describing motion from one place to another, 
+the preposition will take the accusative case. 
+
+E.G.:
+
+
+If the verb is describing a location or movement within a certain location, 
+the preposition will be dative. 
+
+E.G.:
+
+
+Two-way prepositions are below:
+
+PREPOSITION  | TRANSLATION  
+-------------| ---------- 
+an           | at, on top of     
+auf          | on, to     
+hinter       | behind     
+in           | in     
+neben        | next to     
+über         | above 
+unter        | under
+vor          | in front of
+zwischen     | between
+
+E.G.:
+Ihr macht übungen auf Seeland.

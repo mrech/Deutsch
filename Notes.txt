@@ -20,12 +20,14 @@ Guten Tag | Tag: Good day | Good afternoon
 Hi: Ciao
 Auf Wiedersehen: Goodbye
 Tschüss: Bye| Arrivederci!
-Bis später!: A più tardi!
+Bis später! /spɛ:ter/: A più tardi!
 Guten Abend: Buonasera
 Bis bald!: A presto
 Bis morgen!: A domani
 Mach's gut!: stammi bene
 Gute Nacht: Buonanotte
+Willkommen: benvenuto
+
 
 --------------------------------------------------
 Du bist der Hammer!: You are awesome!
@@ -40,5 +42,8 @@ Super!:
 Deine Arbeit zahlt sich aus: your work is paying off
 Deine Deutsch ist beeindruckend: your german is impressive
 Du machst das richtig gut heute.: You have done really well today
+Aua!: ahi! | Ouch!
+Jeden Tag wirst du ein Stückchen besser!: 
+Every day you become a bit better | Ogni giorno migliori un pochino
 
 TODO: gemacht!!!

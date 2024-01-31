@@ -1,12 +1,51 @@
+Adjectives are words that describe or modify a noun.
+
 ==================================================
 ADJECTIVE
 ==================================================  
-Eigen: own
+Eigen /[ai]gen /: own
 Besser: better
+Verrüct: crazy (/fəʁʏkt/)
 
 
 ==================================================
-DATIVE CASE*
+ADJECTIVE, NOMINATIVE CASE*
+==================================================  
+Adjectives not preceded by a determiner must show the same endings as the 
+definite article because the gender and case have to be represented somewhere.
+
+For example, the masculine ending for the definite article der is -r, 
+and in the absence of a determiner, the adjective ending takes the article ending. 
+This follows for the neuter and feminine genders as well.
+
+ GENDER        | ENDING     | E.G.           
+---------------|------------|------------
+ MASCHILE      | -er        | Guter Wein         
+ FEMMINILE     | -e         | Gute Wurst
+ NEUTRO        | -es        | Gutes Brot
+ PLURALE       | -e         | Gute Äpfel
+
+
+==================================================
+ADJECTIVE, ACCUSATIVE CASE**
+================================================== 
+Adjectives not preceded by a determiner must show the same endings as the 
+definite article because the gender and case have to be represented somewhere.
+
+For example, the masculine ending for the definite article den is -n, and in 
+the absence of a determiner, the adjective ending takes the article ending. 
+This follows for the neuter and feminine genders as well.
+
+ GENDER        | ENDING     | E.G.           
+---------------|------------|------------
+ MASCHILE      | -en        | Guten Wein         
+ FEMMINILE     | -e         | Gute Wurst
+ NEUTRO        | -es        | Gutes Brot
+ PLURALE       | -e         | Gute Äpfel
+
+
+==================================================
+DATIVE CASE***
 ==================================================  
 
                | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
@@ -16,4 +55,10 @@ DATIVE CASE*
 
 NOTE:
 --------------------------------------------------
-*: oggetto che subisce l'azione
+*: The nominative case applies to the subject of a sentence and can be found by asking
+"Who or what is performing the action?"
+
+**: The accusative case can be found by asking “who” or “what” 
+is affected by the verb's action.
+
+***: oggetto che subisce l'azione

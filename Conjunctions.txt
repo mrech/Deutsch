@@ -1,0 +1,17 @@
+==================================================
+COORDINATING CONJUNCTIONS
+==================================================
+
+IPA        | CONJUNCTIONS | TRANSLATION  
+-----------|--------------|-------------
+//         | außer        | except for
+           | denn         | because
+           | und          | and
+           | oder         | or
+           | aber         | but
+           | doch         | but
+           | sondern      | but rather
+
+
+E.G.:
+Ich höre Cari und Ana

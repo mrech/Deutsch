@@ -2,20 +2,25 @@
 MASKULINUM/MASCHILE
 ==================================================
 
-TRANSLATE | SINGOLARE   | PLURALE
-----------|-------------|----------
-            Mann        | Männer
-            Junge       | Jungen
-            Apfel       |
-            Tag         |
-            Der Hund    |
-La sera   | Der Abend   |           
-            Der Morgen  |         
-            Der Tag     |
-            Der Saft    | Die Säfte
-            Der Kaffee  |
-            Der Schuh   | Die Schuhe
-            Der Verb
+ IPA       | TRANSLATE  |  SINGOLARE   | PLURALE
+-----------|------------|--------------|----------
+                           Mann        | Männer
+                           Junge       | Jungen
+                           Apfel       | Äpfel
+                           Tag         |
+                           Der Hund    |
+             La sera     |  Der Abend  |           
+                           Der Morgen  |         
+                           Der Tag     |
+                           Der Saft    | Die Säfte
+                           Der Kaffee  |
+ /[ʃ]uhe/  |             | Der Schuh   | Die Schuhe
+                           Der Verb
+                         | Der Wein
+ /zin/     | Il senso    | Der Sinn    | Die Sinne
+           |             | Der Krach   |
+ /kvatʃ/   | nonsense/   |             |
+             stupidagini | der Quatsch | -
 
 
 ==================================================
@@ -25,46 +30,56 @@ Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine.
 So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
 -ITIS, -ION, -ENZ, -TÄT, -IE. 
 
-TRANLATION      | SINGOLARE            | PLURALE
-----------------|----------------------|---------------------
-                | Frau                 | Frauen
-                | Milch                |
-                | Zeitung              |
-                | Frange: question     |
-                | die Katze            |
-                | die Berlinerin       | die Berlinerinnen
-                | die Universität      |
-team            | die Mannschaft       |
-patatine fritte | die Pommes           | die Pommes
-                | die Kartoffel        | die Kartoffeln
-                | Die Nacht            |
-                | Die Limonade         | Die Limonaden  
-                | Die Jacke            | Die Jacken
-capello         | Die Mütze            |
-                | Die Sonnenbrille     | Die Sonnenbrillen
-                | Die Person
+ IPA       | TRANLATION      | SINGOLARE            | PLURALE
+-----------|-----------------|----------------------|---------------------
+           |                 | Frau                 | Frauen
+           |                 | Milch                |
+           |                 | Zeitung              |
+           |                 | Frange: question     |
+           |                 | die Katze            |
+           |                 | die Berlinerin       | die Berlinerinnen
+           |                 | die Universität      |
+           | team            | die Mannschaft       |
+           | patatine fritte | die Pommes           | die Pommes
+           |                 | die Kartoffel        | die Kartoffeln
+           |                 | Die Nacht            |
+           |                 | Die Limonade         | Die Limonaden  
+           |                 | Die Jacke            | Die Jacken
+           | capello         | Die Mütze            |
+/[Z].../   |                 | Die Sonnenbrille     | Die Sonnenbrillen
+/perzon/   |                 | Die Person           |
+           |                 | Wurst                |
+/ʏːbongen/ | esercizio       | die Übung            | Die Übungen
+/ʃtimme/   | voices          | die Stimme           | die Stimmen
+           |                 | die musik            |
+
 
 ==================================================
 NEUTRUM/NEUTRO
 ==================================================
+> Nouns starting with 'Ge-' such as das Getränk and das Geheime are neuter.
 
-SINGOLARE     | PLURALE
---------------|--------------
-Mädchen       | Mädchen
-Kind          | Kinder
-das Wasser    |
-Brot          |
-Buch          |
-Stadtviertel  | 
-Wort          | Worte
-das Deutsch   |
-das Haus      |
-das Café      | die Cafés
-das Hallo     |
-Gute          |
-Das Keybord   |
-Das T-shirt   | 
-Das Getränk   |
+          |          | SINGOLARE       | PLURALE
+----------|----------|-----------------|--------------
+                     | Mädchen         | Mädchen
+                     | Kind            | Kinder
+                     | das Wasser      |
+                     | Brot            |
+                     | Buch            |
+                     | Stadtviertel    | 
+                     | Wort            | Worte
+                     | das Deutsch     |
+                     | das Haus        |
+                     | das Café        | die Cafés
+                     | das Hallo       |
+                     | Gute            |
+                     | Das Keybord     |
+                     | Das T-shirt     | 
+          | Drink    | Das Getränk     |
+/gahaime/ | Secret   | Das Geheime     | -
+          |          | Das Wiedersehen |
+//        | bit/poco | das Stückchen   | -          
+
 
 ==================================================
 DATIVE CASE*

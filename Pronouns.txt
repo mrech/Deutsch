@@ -10,7 +10,6 @@ PRONOME INDEFINITO
 Viel: molto
 
 
-
 ====================
 PRONOME DIMOSTRATIVO: Das + SEIN
 ====================
@@ -18,12 +17,23 @@ Das ist gut: va bene
 Das ist ein mann: quello è un uomo
 Das sind Mädchen: Quelle sono ragazze
 
-==================================================
-ACCUSATIVE CASE
-==================================================  
-The accusative case can be found by asking "who" or 
-"what" is affected by the verb's action.
 
+==================================================
+PRONOUN, NOMINATIVE CASE*
+==================================================
+Declensions generally depend upon the type of pronoun being used.
+
+--------------------------------------------------
+> ALLES: all
+--------------------------------------------------
+E.G.: 
+Es macht alles keinen Sienn: Tutto questo non ha senso | it doesn't make any sense
+
+
+
+==================================================
+ACCUSATIVE CASE*
+==================================================  
 --------------------------------------------------
 > DAS: that
 --------------------------------------------------
@@ -41,7 +51,30 @@ E.G.: Sie trinken nichts
 
 
 ==================================================
-DATIVE CASE*
+PERSONAL PRONOUN, ACCUSATIVE CASE**
+==================================================  
+
+IPA        | PRONOUN    | TRANSLATION  
+-----------|------------|-------------
+/mɪ̯ç/      | mich       | me
+           | dich       | you (informal)
+           | Sie        | you (formal)
+           | ihn        | him
+           | sie        | her
+           | es         | it
+           | uns        | us
+/ɔɪ̯ç/      | euch       | you all      
+           | sie        | them   
+
+
+E.G.:
+Hast du Klaus gesehen? Nein, ich habe ihn nicht gesehen.
+Have you seen Klaus? No, I haven't seen him.
+
+Ihr hört mich nicht
+ 
+==================================================
+DATIVE CASE***
 ==================================================  
 
                | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
@@ -49,6 +82,42 @@ DATIVE CASE*
  ENDING        | -em        | -er        | -em        | -en
 
 
+==================================================
+PERSONAL PRONOUN, DATIVE CASE***
+==================================================  
+
+IPA        | PRONOUN    | TRANSLATION  
+-----------|------------|-------------
+/miɐ/      | mir        | me
+           | dir        | you (informal)
+           | Ihnen      | you (formal)
+           | ihm        | him
+           | ihr        | her
+           | ihm        | it
+           | uns        | us
+//         | euch       | you all      
+           | ihnen      | them   
+
+
+
+E.G.:
+Ich gebe ihm das Buch.: I gave him the book
+Ich gebe ihr ein Glas Bier.: I gave her a glass of beer
+
+The primary object is [the book|a glass of beer], 
+and the person affected is ["him"|"her"], 
+so it is the dative case.
+
+Du hörst mir nicht zu: Tu non mi ascolti
+
 NOTE:
 --------------------------------------------------
-*: oggetto che subisce l'azione
+*: The nominative case applies to the subject of a sentence and can
+be found by asking, "Who or what is performing this action?"
+
+**: The accusative case can be found by asking "who" or 
+"what" is affected by the verb's action.
+
+***: oggetto che subisce l'azione. 
+The dative case refers to someone or something that is affected by the 
+action of a verb, but is not the primary object. 

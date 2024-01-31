@@ -4,7 +4,7 @@
 
 
 ==================================================
-SEIN: essere
+SEIN /z[ai]n/: essere
 ==================================================
 
           | PRÄSENS   |
@@ -52,6 +52,23 @@ Sie       | sprech-EN
 
 E.G.: 
 Du sprichst fließend Deutsch!: You speak german fluently
+
+
+==================================================
+TRAGEN: to carry, to wear
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | trag-E    /trage/
+Du        | trÄg-ST   /trɛgst/       
+Er/Sie/Es | trÄg-T          
+Wir       | trag-EN          
+Ihr       | trag-T          
+Sie       | trag-EN 
+
+E.G.: Ich trage ein T-Shirt. 
+Eine jacke trägt man: una giacca si indossa
 
 
 ==================================================
@@ -126,7 +143,7 @@ E.G.: Du wirst immer besser!: You get getting better and better!
 ##################################################
 
 ==================================================
-HEIßEN: mi chiamo | am called ° to heißen
+HEIßEN //h[ai]sen: mi chiamo | am called 
 ==================================================
 
           | PRÄSENS   
@@ -160,7 +177,7 @@ Ich komme aus Verona: I vengo da Verona
 
 
 ==================================================
-MACHEN: to do | to make 
+MACHEN /maken/: to do | to make 
 ==================================================
 
           | PRÄSENS   
@@ -174,6 +191,7 @@ Sie       | mach-EN
 
 E.G.: 
 Du machst das richtig gut heute: Tu hai fatto molto bene oggi 
+Wir machen etwas geheimes: Noi facciamo qualcosa di segreto
 
 
 ==================================================
@@ -190,6 +208,44 @@ Ihr       | trink-T   |
 Sie       | trink-EN  |
 
 E.G.: Du tinkst milch. Sie trinken nichts
+
+
+==================================================
+HÖREN /h[øː]ʁen/: to hear
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | hör-E     |
+Du        | hör-ST    |
+Er/Sie/Es | hör-T     |
+Wir       | hör-EN    |
+Ihr       | hör-T     |
+Sie       | hör-EN    |
+
+E.G.: 
+Ich höre Cari und Ana
+Ihr hört mich nicht: voi non mi sentite | you don't hear me (ACCUSATIVE CASE)
+Du hörst mir nicht zu: tu non mi ascolti (DATIVE CASE)
+Er hört nichts: Lui non sente nulla
+
+
+==================================================
+SAGEN /zagen/: dire
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | sag-E     |
+Du        | sag-ST    |
+Er/Sie/Es | sag-T     |
+Wir       | sag-EN    |
+Ihr       | sag-T     |
+Sie       | sag-EN  |
+
+E.G.: 
+Es sagt mir nichts: Non mi dice nulla
+
 
 
 ==================================================
@@ -210,23 +266,6 @@ Do you still remember when you could not speak German?
 
 
 ==================================================
-TRAGEN: to carry, to wear
-==================================================
-
-          | PRÄSENS   
-----------| ---------- 
-Ich       | trag-E
-Du        | trÄg-ST          
-Er/Sie/Es | trÄg-T          
-Wir       | trag-EN          
-Ihr       | trag-T          
-Sie       | trag-EN 
-
-E.G.: Ich trage ein T-Shirt. 
-Eine jacke trägt man: una giacca si indossa
-
-
-==================================================
 BEANTWORTEN: rispondere 
 ==================================================
 
@@ -240,9 +279,70 @@ Ihr       |
 Sie       |    
 
 
+##################################################
+################# SEPARABLE VERB #################
+##################################################
+
+These verbs are separated from the prefix in their conjugated form.
+The respective prefix of a verb determines whether the verb is 
+separated or not. The verb is always conjugated the same way as 
+the simple verb without prefix.
+
+E.G.:
+--------------------------------------------------
+aufwachen (to wake up): 
+--------------------------------------------------
+Ich wache auf. (I wake up.)
+
+--------------------------------------------------
+losfahren (to set off): 
+--------------------------------------------------
+Das Auto fährt los. (The car begins to drive.)
+
+--------------------------------------------------
+einkaufen (to buy): 
+--------------------------------------------------
+Mein Vater kauft Tomaten ein.(My father buys tomatoes.)
 
 
+The most important prefixes that designate separable verbs: 
+ab-, an-, auf-, aus-, ein-, gegen-, hoch-, los-, mit-, nach-, 
+vor-, weg-, weiter-, zurück-, da-, hin-, her-, raus-, rein-, 
+rüber- and runter-.
 
+A separable verb separates from its prefix in the following scenarios:
+
+> when conjugated: Er macht die Tür auf. (He opens the door.)
+> when the participle II is formed, a -ge- is placed between 
+the prefix and the root: 
+Meine Tante ist mitgekommen. (My aunt came with us.)
+
+
+A separable verb does not separate from its prefix 
+if it appears together with a modal verb:
+
+Wir müssen die Polizei anrufen.: We have to call the police.
+
+
+The following prefixes never separate from their verb stem: 
+be-, emp-, ent-, er-, ge-, ver- and zer-
+
+
+==================================================
+ZUHÖREN: rispondere 
+==================================================
+
+          | PRÄSENS   
+----------|-----------
+Ich       | höre zu   
+Du        | hörst zu      
+Er/Sie/Es | hört zu     
+Wir       | hören zu     
+Ihr       | hört zu     
+Sie       | hören zu   
+
+E.G.:
+Du hörst mir nicht zu: tu non mi ascolti
 
 __________________________________________________
 ==================================================
