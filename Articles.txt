@@ -1,6 +1,154 @@
+Articles precede nouns and provide information about the gender, 
+number and case of the noun, therefore, they are always declined.
+
 ##################################################
 ==================================================
-[1st - CASE]: SINGULAR NOUN, NOMINATIVE CASE 
+DEFINITE ARTICLE
+==================================================
+##################################################
+The definite articles der, die and das (the) appear 
+together with nouns and are used when speaking of something definite, 
+generally known or already mentioned.
+
+==================================================
+ MASCULINE
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | der Hund       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+==================================================
+ FEMININE
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | die Katze       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+==================================================
+ NEUTER
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | das Haus       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+==================================================
+ PLURAL
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | die Leute       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+##################################################
+==================================================
+DEFINITE ARTICLE
+==================================================
+##################################################
+The indefinite articles ein and eine (a) appear together with nouns 
+and are used when speaking of something indefinite, non-concrete, 
+or not unique/one of many. They are declined and only used for singular nouns.
+
+
+==================================================
+ MASCULINE
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | ein Hund       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+==================================================
+ FEMININE
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | eine Katze      
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+==================================================
+ NEUTER
+==================================================  
+ CASE          | EXAMPLE  
+---------------|------------
+ NOMINATIVE    | ein Haus       
+---------------|------------
+ GENITIVE      |         
+---------------|------------
+ DATIVE        |         
+---------------|------------
+ ACCUSATIVE    |         
+
+
+
+##################################################
+==================================================
+NEGATION ARTICLE, NOMINATIVE CASE
+==================================================
+##################################################
+Negation articles are words that negate a noun. 
+It is used to negate nouns that have an INDEFINITE ARTICLE or NO ARTICLE. 
+The negation article kein translates to "no" or "not a" in English 
+and changes depending on the gender and case of the noun that they are used with.
+
+/kain/
+
+
+ GENDER     | ENDING  | EXAMPLE
+------------|---------|------------
+ MASCULINE  | \       | Kein Wein (no wine)
+------------|---------|------------
+ FEMININE   | -e      | Keine Wurst (no sausage)
+------------|---------|------------
+ NEUTER     | \       | Kein Brot (no bread)
+------------|---------|------------
+ PLURAL     | -e      | Keine Äpfel (no apples)
+
+
+E.G.:
+Das sind keine Bücher
+
+##################################################
+==================================================
+[1st - CASE]: NOMINATIVE CASE 
 ==================================================
 ##################################################
 

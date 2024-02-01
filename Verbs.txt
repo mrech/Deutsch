@@ -7,14 +7,14 @@
 SEIN /z[ai]n/: essere
 ==================================================
 
-          | PRÄSENS   |
-----------| ----------| 
-Ich       | bin       |
-Du        | bist      |
-Er/Sie/Es | ist       |
-Wir       | sind      | 
-Ihr       | seid      |
-Sie       | sind      |
+          | PRÄSENS   
+----------| ---------- 
+Ich       | bin       
+Du        | bist      
+Er/Sie/Es | ist       
+Wir       | sind       
+Ihr       | seid      
+Sie       | sind /zɛnd/     
 
 E.G.: 
 Ich bin Cindy: Io sono Cindy

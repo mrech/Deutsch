@@ -9,7 +9,7 @@ MASKULINUM/MASCHILE
                            Apfel       | Äpfel
                            Tag         |
                            Der Hund    |
-             La sera     |  Der Abend  |           
+             La sera     | Der Abend   |           
                            Der Morgen  |         
                            Der Tag     |
                            Der Saft    | Die Säfte
@@ -21,6 +21,7 @@ MASKULINUM/MASCHILE
            |             | Der Krach   |
  /kvatʃ/   | nonsense/   |             |
              stupidagini | der Quatsch | -
+ /ʁɛgan/   | pioggia     | der Regen   | die Regen
 
 
 ==================================================
@@ -30,29 +31,33 @@ Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine.
 So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
 -ITIS, -ION, -ENZ, -TÄT, -IE. 
 
- IPA       | TRANLATION      | SINGOLARE            | PLURALE
------------|-----------------|----------------------|---------------------
-           |                 | Frau                 | Frauen
-           |                 | Milch                |
-           |                 | Zeitung              |
-           |                 | Frange: question     |
-           |                 | die Katze            |
-           |                 | die Berlinerin       | die Berlinerinnen
-           |                 | die Universität      |
-           | team            | die Mannschaft       |
-           | patatine fritte | die Pommes           | die Pommes
-           |                 | die Kartoffel        | die Kartoffeln
-           |                 | Die Nacht            |
-           |                 | Die Limonade         | Die Limonaden  
-           |                 | Die Jacke            | Die Jacken
-           | capello         | Die Mütze            |
-/[Z].../   |                 | Die Sonnenbrille     | Die Sonnenbrillen
-/perzon/   |                 | Die Person           |
-           |                 | Wurst                |
-/ʏːbongen/ | esercizio       | die Übung            | Die Übungen
-/ʃtimme/   | voices          | die Stimme           | die Stimmen
-           |                 | die musik            |
-
+ IPA            | TRANLATION      | SINGOLARE            | PLURALE
+----------------|-----------------|----------------------|---------------------
+                |                 | Frau                 | Frauen
+                |                 | Milch                |
+                |                 | Zeitung              |
+                |                 | Frange: question     |
+                |                 | die Katze            |
+                |                 | die Berlinerin       | die Berlinerinnen
+                |                 | die Universität      |
+                | team            | die Mannschaft       |
+                | patatine fritte | die Pommes           | die Pommes
+                |                 | die Kartoffel        | die Kartoffeln
+                |                 | Die Nacht            |
+                |                 | Die Limonade         | Die Limonaden  
+                |                 | Die Jacke            | Die Jacken
+                | capello         | Die Mütze            |
+/[Z].../        |                 | Die Sonnenbrille     | Die Sonnenbrillen
+/perzon/        |                 | Die Person           |
+                |                 | Wurst                |
+/ʏːbongen/      | esercizio       | die Übung            | Die Übungen
+/ʃtimme/        | voices          | die Stimme           | die Stimmen
+                |                 | die musik            |
+/ʃtat/          | città           | die Stadt            | die Städte /ʃtɛ:te/ 
+                |                 | die Gitarre          | die Gitarren
+/infoɐmatzion/  |                 | die information      | die informationen
+/banan/         |                 | die banane           | die bananen
+/ʃtʁase/        | strada          | die Straße           | die Straßen
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -65,7 +70,7 @@ NEUTRUM/NEUTRO
                      | Kind            | Kinder
                      | das Wasser      |
                      | Brot            |
-                     | Buch            |
+ /buːç/   |          | Das Buch        | Die Bücher /byːçɐ/
                      | Stadtviertel    | 
                      | Wort            | Worte
                      | das Deutsch     |
@@ -79,6 +84,9 @@ NEUTRUM/NEUTRO
 /gahaime/ | Secret   | Das Geheime     | -
           |          | Das Wiedersehen |
 //        | bit/poco | das Stückchen   | -          
+          |          | das problem     | Die Probleme /pʁoblema/
+ /end/    | the end  | das Ende        | Die Enden
+          |          | das Foto        | Die Fotos
 
 
 ==================================================

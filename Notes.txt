@@ -45,5 +45,7 @@ Du machst das richtig gut heute.: You have done really well today
 Aua!: ahi! | Ouch!
 Jeden Tag wirst du ein Stückchen besser!: 
 Every day you become a bit better | Ogni giorno migliori un pochino
+Bis nächstes Mal: alla prossima | Until next time
+
 
 TODO: gemacht!!!
