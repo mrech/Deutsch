@@ -27,7 +27,27 @@ This follows for the neuter and feminine genders as well.
 
 
 ==================================================
-ADJECTIVE, ACCUSATIVE CASE**
+ADJECTIVE, DATIVE CASE***
+==================================================  
+
+E.G.:
+Ich gebe ihm das Buch: I give him the book.
+
+The primary object is the book, and the person affected is "him", 
+so it is the dative case.
+
+
+ GENDER        | ENDING     | E.G.           
+---------------|------------|------------
+ MASCHILE      | -en        | dem blauen Hut (the blue hat)         
+ FEMMINILE     | -en        | der blauen Hose (the blue pants)
+ NEUTRO        | -en        | dem blauen Hemd (the blue shirt)
+ PLURALE       | -en        | den blauen Schuhe (the blue shoes)
+
+
+
+==================================================
+ADJECTIVE, ACCUSATIVE CASE****
 ================================================== 
 Adjectives not preceded by a determiner must show the same endings as the 
 definite article because the gender and case have to be represented somewhere.
@@ -44,21 +64,15 @@ This follows for the neuter and feminine genders as well.
  PLURALE       | -e         | Gute Äpfel
 
 
-==================================================
-DATIVE CASE***
-==================================================  
-
-               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
----------------|------------|------------|------------|------------
- ENDING        | -em        | -er        | -em        | -en
-
 
 NOTE:
 --------------------------------------------------
 *: The nominative case applies to the subject of a sentence and can be found by asking
 "Who or what is performing the action?"
 
-**: The accusative case can be found by asking “who” or “what” 
+***: The dative case refers to someone or something that is affected by the 
+action of a verb, but is not the primary object.
+
+****: The accusative case can be found by asking “who” or “what” 
 is affected by the verb's action.
 
-***: oggetto che subisce l'azione

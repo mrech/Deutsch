@@ -87,21 +87,109 @@ NEUTRUM/NEUTRO
           |          | das problem     | Die Probleme /pʁoblema/
  /end/    | the end  | das Ende        | Die Enden
           |          | das Foto        | Die Fotos
+          | tune     | das Mal         | Die Male
 
 
+##################################################
 ==================================================
-DATIVE CASE*
-==================================================  
+[1st - CASE]: NOMINATIVE CASE 
+==================================================
+##################################################
 
-               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
+
+The nominative is the basic form of the noun and describes the subject, 
+thus the person or object which acts.
+You ask for the nominative case with Wer oder was? (Who?)
+
+E.G. Nominative as subject:
+Das Mädchen trägt ein Kleid: The girl is wearing a dress.
+
+The nominative case also occurs after the verbs SEIN, WERDEN 
+(to be, to become) and BLEIBEN (to stay). 
+it is not a subject in this case, but a predicative. 
+
+E.G. Object as predicative:
+Ich bin eine Frau: I am a woman
+
+ NOMINATIVE    | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ DEFINITE      | Der        | Die        | Das        | Die
+---------------|------------|------------|------------|------------
+ INDEFINITE    | Ein        | Eine       | Ein        | -
+
+
+
+##################################################
+==================================================
+[3th - CASE]: SINGULAR NOUN, DATIVE CASE 
+==================================================
+##################################################
+The dative is used for the indirect object. 
+The indirect object is usually the person who gets or receives something 
+(usually the direct object). 
+
+You ask for the indirect object with Wem? (Whom?| A chi? A che cosa?).
+
+Furthermore, some verbs require the dative exclusively, 
+regardless of whether someone gets something, e.g. GEHÖREN (to belong to), 
+ANTWORTEN (to answer), GLAUBEN (to believe). 
+
+E.G.:
+Ich gebe meiner Mutter die Blumen: I give the flowers to my mom.
+Das Handy gehört mir: That phone is mine
+
+
+ DATIVE        | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ DEFINITE      | Dem        | Der        | Dem        | Den
+---------------|------------|------------|------------|------------
+ INDEFINITE    | Einem      | Einer      | Einem      | -
+
+
+ DATIVE        | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
 ---------------|------------|------------|------------|------------
  ENDING        | -em        | -er        | -em        | -en
 
 
-NOTE:
---------------------------------------------------
-*: oggetto che subisce l'azione
+If the plural does not end with -S or -N, the plural form in the dative gets an extra -N.
 
+E.G.:
+die Bücher - den Büchern (the books)
+die Hunde - den Hunden (the dogs)
+
+The prepositions AUS, BEI, GEGENÜBER, MIT, NACH, SEIT, VON and ZU always require the dative.
+
+E.G.:
+Am Wochenende bin ich bei meinen Freunden.
+This weekend I'll be with my friends.
+
+
+
+##################################################
+==================================================
+[4th - CASE]: SINGULAR NOUN, ACCUSATIVE CASE
+==================================================
+##################################################
+
+The accusative is used for the direct object. 
+The direct object is the object/person which is used for the action, 
+it does not perform any action itself. 
+You ask for the direct object with Wen oder was? (Who? or What?).
+
+E.G.:
+Ich mache den Fernseher aus: I turn off the TV
+
+
+The prepositions UM, DURCH, OHNE, FÜR and gegen always require the accusative.
+
+E.G.:
+Ich fahre durch die Stadt: I drive through the city
+
+ ACCUSATIVE    | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ DEFINITE      | Den        | Die        | Das        | Die
+---------------|------------|------------|------------|------------
+ INDEFINITE    | Einen      | Eine       | Ein        | -
 
 
 

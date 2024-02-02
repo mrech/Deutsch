@@ -1,8 +1,45 @@
 ==================================================
-PREPOSITION
-==================================================  
-Mit: with
+PREPOSITION, DATIVE CASE
+==================================================
+A dative preposition expresses a relationship between a noun or pronoun and other 
+words in the clause. 
 
+All articles, adjectives, nouns, and pronouns following the 
+dative preposition will take the dative case. 
+
+They are listed below:
+
+PREPOSITION  | TRANSLATION  
+-------------| ---------- 
+ab           | from (point in time)     
+aus          | from     
+außer        | besides     
+bei          | by, at, near     
+gegenüber    | opposite     
+mit          | with
+nach         | after, to
+seit         | since
+von          | from
+zu           | to
+
+E.G.: 
+Mit der Bahn fahren wir.
+We're going by train.
+
+E.G.:
+ Das Hotel ist dem Bahnhof gegenüber.
+The hotel is across from the train station.
+
+Some prepositions can be merged with the article to make one word:
+
+bei + dem = beim
+von + dem = vom
+zu + dem = zum
+zu + der = zur
+
+E.G.:
+Er ist beim Arzt.
+He is at the doctor.
 
 ==================================================
 PREPOSITION, ACCUSATIVE CASE
