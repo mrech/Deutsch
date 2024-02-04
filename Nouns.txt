@@ -46,7 +46,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                 |                 | Die Nacht            |
                 |                 | Die Limonade         | Die Limonaden  
                 |                 | Die Jacke            | Die Jacken
-                | capello         | Die Mütze            |
+/myːtse         | capello         | Die Mütze            | Die Mützen
 /[Z].../        |                 | Die Sonnenbrille     | Die Sonnenbrillen
 /perzon/        |                 | Die Person           |
                 |                 | Wurst                |
@@ -58,36 +58,38 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /infoɐmatzion/  |                 | die information      | die informationen
 /banan/         |                 | die banane           | die bananen
 /ʃtʁase/        | strada          | die Straße           | die Straßen
+/Begrʏsʊng/     | salute          | die Begrüßung        | die Begrüßungen
+
 
 ==================================================
 NEUTRUM/NEUTRO
 ==================================================
 > Nouns starting with 'Ge-' such as das Getränk and das Geheime are neuter.
 
-          |          | SINGOLARE       | PLURALE
-----------|----------|-----------------|--------------
-                     | Mädchen         | Mädchen
-                     | Kind            | Kinder
-                     | das Wasser      |
-                     | Brot            |
- /buːç/   |          | Das Buch        | Die Bücher /byːçɐ/
-                     | Stadtviertel    | 
-                     | Wort            | Worte
-                     | das Deutsch     |
-                     | das Haus        |
-                     | das Café        | die Cafés
-                     | das Hallo       |
-                     | Gute            |
-                     | Das Keybord     |
-                     | Das T-shirt     | 
-          | Drink    | Das Getränk     |
-/gahaime/ | Secret   | Das Geheime     | -
-          |          | Das Wiedersehen |
-//        | bit/poco | das Stückchen   | -          
-          |          | das problem     | Die Probleme /pʁoblema/
- /end/    | the end  | das Ende        | Die Enden
-          |          | das Foto        | Die Fotos
-          | tune     | das Mal         | Die Male
+           |          | SINGOLARE       | PLURALE
+-----------|----------|-----------------|--------------
+                      | Mädchen         | Mädchen
+                      | Kind            | Kinder
+                      | das Wasser      |
+                      | Brot            |
+ /buːç/    |          | Das Buch        | Die Bücher /byːçɐ/
+                      | Stadtviertel    | 
+                      | Wort            | Worte
+                      | das Deutsch     |
+                      | das Haus        |
+                      | das Café        | die Cafés
+                      | das Hallo       |
+                      | Gute            |
+                      | Das Keybord     |
+                      | Das T-shirt     | 
+/Ghetrɛ:nk/| Drink    | Das Getränk     |
+/gahaime/  | Secret   | Das Geheime     | -
+           |          | Das Wiedersehen |
+/styːkien/ | bit/poco | das Stückchen   | -          
+           |          | das problem     | Die Probleme /pʁoblema/
+ /end/     | the end  | das Ende        | Die Enden
+           |          | das Foto        | Die Fotos
+           | tune     | das Mal         | Die Male
 
 
 ##################################################

@@ -56,14 +56,14 @@ PERSONAL PRONOUN, ACCUSATIVE CASE**
 
 IPA        | PRONOUN    | TRANSLATION  
 -----------|------------|-------------
-/mɪ̯ç/      | mich       | me
+/mɪ̯ʃ/      | mich       | me
            | dich       | you (informal)
            | Sie        | you (formal)
            | ihn        | him
            | sie        | her
            | es         | it
            | uns        | us
-/ɔɪ̯ç/      | euch       | you all      
+/ɔɪ̯ʃ/      | euch       | you all      
            | sie        | them   
 
 

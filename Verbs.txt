@@ -281,6 +281,8 @@ Ihr       |
 Sie       |    
 
 
+
+
 ##################################################
 ################# SEPARABLE VERB #################
 ##################################################
@@ -345,6 +347,57 @@ Sie       | hören zu
 
 E.G.:
 Du hörst mir nicht zu: tu non mi ascolti
+
+
+
+##################################################
+################# PAST PARTICIPLE ################
+##################################################
+The past participle is a verb form and used to build compound tenses
+such as the present perfect, the past perfect, the passive voices
+and the future perfect.
+
+
+==================================================
+REGULAR VERBS
+==================================================
+With regular verbs, the past participle is formed with the prefix GE-,
+the root of the verb, and a -T at the end.
+
+E.G.:
+machen > gemacht: to make|to do > made|done
+kochen > ge kocht: to cook > cooked 
+
+
+When the root of the verb ends in -T or -D, an additional E is added. 
+This happens also after some consonants to make it easier to pronounce.
+
+E.G.:
+/arbaiten/ arbeiten > gearbeitet: to work > worked
+öffnen > geöffnet: to open > opened
+
+
+Verbs that end with -IEREN or begin with inseparable prefixes 
+such as BE-, ENT-, ER-, VER-, ZER- form the past participle 
+without GE-.
+
+E.G.:
+telefonieren > telefoniert: to call > called
+studieren > studiert: to study > studied
+besuchen > besucht: to visit > visited
+erzählen > erzählt: to tell > told
+
+
+
+
+
+
+
+
+
+
+
+
 
 __________________________________________________
 ==================================================

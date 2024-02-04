@@ -19,7 +19,7 @@ Hallo: Salve
 Guten Tag | Tag: Good day | Good afternoon
 Hi: Ciao
 Auf Wiedersehen: Goodbye
-Tschüss: Bye| Arrivederci!
+Tschüss /tʃːks/: Bye| Arrivederci!
 Bis später! /spɛ:ter/: A più tardi!
 Guten Abend: Buonasera
 Bis bald!: A presto
@@ -54,11 +54,9 @@ Nicht Schlecht: Niente male!
 ==================================================
 NEW WORDS
 ==================================================
-Schüchtern: shy
+Schüchtern /ʃyːʃktern/: shy
 Lieb /lib/: lovely
 Mexikaner: Messican
 Polen: Polonia
 Kalt: cold
 Neu /nɔy/: new
-
-TODO: gemacht!!!
