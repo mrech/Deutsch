@@ -54,7 +54,7 @@ PREPOSITION  | TRANSLATION
 für          | for     
 um           | around, at (time)     
 durch        | through     
-ohne         | without     
+ohne /one/   | without     
 gegen        | against, around (time)     
 Bis          | until  
 

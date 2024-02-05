@@ -49,6 +49,7 @@ Jeden Tag wirst du ein Stückchen besser!:
 Every day you become a bit better | Ogni giorno migliori un pochino
 Bis nächstes Mal: alla prossima | Until next time
 Nicht Schlecht: Niente male!
+Du wirst immer besser!: Diventi sempre più bravo
 
 
 ==================================================
@@ -60,3 +61,6 @@ Mexikaner: Messican
 Polen: Polonia
 Kalt: cold
 Neu /nɔy/: new
+Sicher /zikar/: sure
+Da: there
+Nein /nain/: no

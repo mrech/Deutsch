@@ -37,6 +37,7 @@ Ihr       | habt
 Sie       | haben           
 
 E.G.: 
+Sie hat kein Geld: Lei non ha soldi
 
 
 ==================================================
@@ -46,8 +47,8 @@ SPRECHEN: parlare|speak
           | PRÄSENS   
 ----------| ---------- 
 Ich       | sprech-E     
-Du        | sprich-ST     
-Er/Sie/Es | sprich-T    
+Du        | sprIch-ST     
+Er/Sie/Es | sprIch-T    
 Wir       | sprech-EN     
 Ihr       | sprech-T     
 Sie       | sprech-EN   
@@ -57,7 +58,7 @@ Du sprichst fließend Deutsch!: You speak german fluently
 
 
 ==================================================
-TRAGEN: to carry, to wear
+TRAGEN: to carry, to wear | Stem-changing (a -> ä)
 ==================================================
 
           | PRÄSENS   
@@ -138,6 +139,22 @@ Sie       | werden
 E.G.: Du wirst immer besser!: You get getting better and better!
 
 
+==================================================
+FAHREN: to drive | Stem-changing (a -> ä)
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | fahr-E 
+Du        | fÄhr-ST          
+Er/Sie/Es | fÄhr-T     /fɛ:ɐt/      
+Wir       | fahr-EN          
+Ihr       | fahr-T           
+Sie       | fahr-EN      
+
+E.G.:
+Der Zuk fährt ohne uns: il treno se ne va senza di noi
+
 
 
 ##################################################
@@ -176,6 +193,7 @@ Sie       | komm-EN
 
 E.G.: 
 Ich komme aus Verona: I vengo da Verona
+Da kommt die Polizei: Arriva la polizia
 
 
 ==================================================
@@ -247,6 +265,39 @@ Sie       | sag-EN  |
 
 E.G.: 
 Es sagt mir nichts: Non mi dice nulla
+
+
+==================================================
+KENNENLERNEN: to know
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | lern-E kennen 
+Du        | lern-ST kennen          
+Er/Sie/Es | lern-T kennen          
+Wir       | lern-EN kennen          
+Ihr       | lern-T kennen          
+
+E.G.:
+Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
+
+
+==================================================
+KAUFEN: to buy
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | kauf-E 
+Du        | kauf-ST          
+Er/Sie/Es | kauf-T           
+Wir       | kauf-EN          
+Ihr       | kauf-T           
+Sie       | kauf-EN      
+
+E.G.:
+Wo können wir ein ticket kaufen: where can we buy a ticket?
 
 
 
@@ -388,12 +439,65 @@ besuchen > besucht: to visit > visited
 erzählen > erzählt: to tell > told
 
 
+##################################################
+################### MODAL VERB ###################
+##################################################
+
+Modal verbs appear together with a second verb most of the time to modify 
+the meaning of the sentence. 
+There are five modal verbs: 
+
+> können (to be able to/to can)
+> wollen (to want to)
+> sollen (to be supposed to/should)
+> müssen (to have to)
+> dürfen (to be allowed to). 
+
+The verb mögen/möchten (to like to) is a special kind of modal verb, 
+and it will be discussed in other topics.
+
+In a sentence, the modal verb is conjugated and the second 
+verb remains in the infinitive. The conjugated modal verb takes the 
+second position in the sentence, while the full verb is at the end of the sentence.
+
+==================================================
+KÖNNEN: to be able to
+==================================================
+The modal verb können expresses a possibility, 
+the ability to do something or permission: 
+
+ PRONOUN  | VERB  
+----------| ---------- 
+Ich       | kAnn
+Du        | kAnn-ST          
+Er/Sie/Es | kAnn          
+Wir       | könn-EN          
+Ihr       | könn-T          
+Sie       | könn-EN          
+
+E.G.: 
+Sie kann nicht schwimmen: she cannot swim 
+Wo können wir ein ticket kaufen?
 
 
+==================================================
+WOLLEN /volen/: to want to
+==================================================
+The modal verb wollen expresses a wish, 
+the intention to do something or a will:
 
+ PRONOUN  | VERB  
+----------| ---------- 
+Ich       | wIll
+Du        | wIll-ST          
+Er/Sie/Es | wIll          
+Wir       | woll-EN          
+Ihr       | woll-T          
+Sie       | woll-EN          
 
-
-
+E.G.: 
+Ich will auf das Konzert gehen: I want to go to the concert
+Sie wollen Berlin kennenlernen: Vogliono conoscere Berlino
 
 
 
@@ -407,7 +511,7 @@ https://it.pons.com/tabelle-dei-verbi/tedesco/trinken
 
 TEMPLATE:
 
-          | PRÄSENS   
+ PRONOUN  | PRÄSENS   
 ----------| ---------- 
 Ich       | 
 Du        |           

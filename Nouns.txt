@@ -2,26 +2,29 @@
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA       | TRANSLATE  |  SINGOLARE   | PLURALE
------------|------------|--------------|----------
-                           Mann        | Männer
-                           Junge       | Jungen
-                           Apfel       | Äpfel
-                           Tag         |
-                           Der Hund    |
-             La sera     | Der Abend   |           
-                           Der Morgen  |         
-                           Der Tag     |
-                           Der Saft    | Die Säfte
-                           Der Kaffee  |
- /[ʃ]uhe/  |             | Der Schuh   | Die Schuhe
+ IPA       | TRANSLATE  |  SINGOLARE         | PLURALE
+-----------|------------|--------------------|----------
+                           Mann              | Männer
+                           Junge             | Jungen
+                           Apfel             | Äpfel
+                           Tag               |
+                           Der Hund          |
+             La sera     | Der Abend         |           
+                           Der Morgen        |         
+                           Der Tag           |
+                           Der Saft          | Die Säfte
+                           Der Kaffee        |
+ /[ʃ]uhe/  |             | Der Schuh         | Die Schuhe
                            Der Verb
                          | Der Wein
- /zin/     | Il senso    | Der Sinn    | Die Sinne
-           |             | Der Krach   |
- /kvatʃ/   | nonsense/   |             |
-             stupidagini | der Quatsch | -
- /ʁɛgan/   | pioggia     | der Regen   | die Regen
+ /zin/     | Il senso    | Der Sinn          | Die Sinne
+           | noise       | Der Krach         |
+ /kvatʃ/   | nonsense/   |                   |
+             stupidagini | der Quatsch       | -
+ /ʁɛgan/   | pioggia     | der Regen         | die Regen
+           |             | der ticketautomat | die ticketautomaten
+/zuk/      |             |                   |
+/Zyːghe/   | train       | der Zug           | die Züge
 
 
 ==================================================
@@ -58,7 +61,8 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /infoɐmatzion/  |                 | die information      | die informationen
 /banan/         |                 | die banane           | die bananen
 /ʃtʁase/        | strada          | die Straße           | die Straßen
-/Begrʏsʊng/     | salute          | die Begrüßung        | die Begrüßungen
+/Begrʏsʊng/     | saluto          | die Begrüßung        | die Begrüßungen
+/Poizai/        |                 | die Polizei          | die Polizeien 
 
 
 ==================================================
@@ -90,6 +94,8 @@ NEUTRUM/NEUTRO
  /end/     | the end  | das Ende        | Die Enden
            |          | das Foto        | Die Fotos
            | tune     | das Mal         | Die Male
+           |          | das Ticket      | Die Tickets
+           |          | das Geld        | Die Gelder
 
 
 ##################################################
