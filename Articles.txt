@@ -128,26 +128,31 @@ Zero articles are used in the following cases:
 
 --------------------------------------------------
 > For INDEFINITE ARTICLES IN PLURAL:
-Hier steht ein Baum. - Hier stehen Bäume.
-(Here is a tree. - Here are trees.)
+Hier steht ein Baum. - Hier stehen Bäume: Here is a tree. - Here are trees.
+Sie hört Stemmen: Lei sente delle voci
+
 --------------------------------------------------
 > For NAMES AND COMPANY NAMES that are not preceded by adjectives:
 Ich treffe heute Lena. (I am meeting Lena today.)
 Sie arbeitet bei McDonalds. (She works at McDonalds.)
+
 --------------------------------------------------
 > For CITIES, CONTINENTS and MANY COUNTRIES:
 Ich wohne in Berlin. (I live in Berlin)
 Brasilien liegt in Südamerika. (Brasil is in South America.)
+
 --------------------------------------------------
 > For NATIONALITIES and LANGUGES:
 Marina ist Spanierin. (Marina is Spanish)
 Er möchte Französisch lernen. (He wants to learn French)
+
 --------------------------------------------------
 > For DIMENSION, WEIGHT and QUANTITIES:
 Jeden Tag trinke ich drei Tassen Kaffee.
 (I drink three cups of coffee daily.)
 Für den Kuchen braucht man 250g Butter und 3 Eier.
 (For the cake you need 250g butter and 3 eggs)
+
 --------------------------------------------------
 > For PROFESSIONS USED WITH WERDEN (to become), SEIN (to be)
 and ALS (as):
@@ -155,13 +160,16 @@ Jana ist Lehrerin. (Jana is a teacher)
 Larissa arbeitet als Busfahrerin. (Larissa works as a bus driver.)
 Als Kind wollte ich Polizistin werden. 
 (When I was a kid, I wanted to become a police officer.)
+
 --------------------------------------------------
 > For MATERIALS AND FABRICS:
 Die Bettwäsche ist aus Baumwolle. (The bed linen is made of cotton.)
+
 --------------------------------------------------
 > For GENERAL STATEMENTS:
 Ich interessiere mich sehr für Kunst.
 (I am very interested in art.)
+
 --------------------------------------------------
 
 

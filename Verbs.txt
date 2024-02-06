@@ -65,7 +65,7 @@ TRAGEN: to carry, to wear | Stem-changing (a -> ä)
 ----------| ---------- 
 Ich       | trag-E    /trage/
 Du        | trÄg-ST   /trɛgst/       
-Er/Sie/Es | trÄg-T          
+Er/Sie/Es | trÄg-T    /trɛgt/       
 Wir       | trag-EN          
 Ihr       | trag-T          
 Sie       | trag-EN 
@@ -212,6 +212,7 @@ Sie       | mach-EN
 E.G.: 
 Du machst das richtig gut heute: Tu hai fatto molto bene oggi 
 Wir machen etwas geheimes: Noi facciamo qualcosa di segreto
+Pommes macht man aus Kartoffeln: French fies are made from potatoes
 
 
 ==================================================
@@ -298,6 +299,9 @@ Sie       | kauf-EN
 
 E.G.:
 Wo können wir ein ticket kaufen: where can we buy a ticket?
+
+En ticket für die U-Bahn kauft man am Automaten: 
+you buy a ticket for the subway at the vending machine. 
 
 
 
@@ -398,6 +402,7 @@ Sie       | hören zu
 
 E.G.:
 Du hörst mir nicht zu: tu non mi ascolti
+Im Radio hört man Musik
 
 
 
@@ -490,7 +495,7 @@ the intention to do something or a will:
 ----------| ---------- 
 Ich       | wIll
 Du        | wIll-ST          
-Er/Sie/Es | wIll          
+Er/Sie/Es | wIll  /vil/        
 Wir       | woll-EN          
 Ihr       | woll-T          
 Sie       | woll-EN          
@@ -498,6 +503,7 @@ Sie       | woll-EN
 E.G.: 
 Ich will auf das Konzert gehen: I want to go to the concert
 Sie wollen Berlin kennenlernen: Vogliono conoscere Berlino
+Sie will pommes essen
 
 
 

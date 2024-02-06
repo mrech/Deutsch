@@ -38,7 +38,7 @@ Weiter so!: keep it up
 Das war's.: That was it
 Sehr gut gemacht: Very well done
 Gut gemacht!: Well done
-Du wirst immer besser!: You get getting better and better!
+Du wirst immer besser!: You get getting better and better! | Diventi sempre più bravo
 Ab zum nächsten Deck!: Off we go to the next Deck
 Super!:
 Deine Arbeit zahlt sich aus: your work is paying off
@@ -49,7 +49,7 @@ Jeden Tag wirst du ein Stückchen besser!:
 Every day you become a bit better | Ogni giorno migliori un pochino
 Bis nächstes Mal: alla prossima | Until next time
 Nicht Schlecht: Niente male!
-Du wirst immer besser!: Diventi sempre più bravo
+
 
 
 ==================================================
@@ -59,8 +59,15 @@ Schüchtern /ʃyːʃktern/: shy
 Lieb /lib/: lovely
 Mexikaner: Messican
 Polen: Polonia
+Berliner /berlI'naʁ/: berlinese
 Kalt: cold
 Neu /nɔy/: new
 Sicher /zikar/: sure
 Da: there
 Nein /nain/: no
+Gücklich /gykliʃ/: happy
+weg /vek/: gone
+immer /immaʁ/: always
+immer noch /immaʁ noç/: still
+nass: wet > Der Regen ist nass
+laut: loud

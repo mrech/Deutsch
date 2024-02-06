@@ -63,7 +63,7 @@ IPA        | PRONOUN    | TRANSLATION
            | sie        | her
            | es         | it
            | uns        | us
-/ɔɪ̯ʃ/      | euch       | you all      
+/ɔyʃ/      | euch       | you all      
            | sie        | them   
 
 
@@ -95,7 +95,7 @@ IPA        | PRONOUN    | TRANSLATION
            | ihr        | her
            | ihm        | it
            | uns        | us
-//         | euch       | you all      
+/ɔyʃ/      | euch       | you all      
            | ihnen      | them   
 
 

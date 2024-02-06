@@ -18,14 +18,15 @@ MASKULINUM/MASCHILE
                            Der Verb
                          | Der Wein
  /zin/     | Il senso    | Der Sinn          | Die Sinne
-           | noise       | Der Krach         |
+ /kraç/    | noise       | Der Krach         | -
  /kvatʃ/   | nonsense/   |                   |
              stupidagini | der Quatsch       | -
  /ʁɛgan/   | pioggia     | der Regen         | die Regen
            |             | der ticketautomat | die ticketautomaten
 /zuk/      |             |                   |
 /Zyːghe/   | train       | der Zug           | die Züge
-
+/hongaʁ/   | fame/hunger | der Hunger        | - 
+/hammaʁ/   | awesome     | der Hammer        | die Hämmer
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -63,6 +64,8 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /ʃtʁase/        | strada          | die Straße           | die Straßen
 /Begrʏsʊng/     | saluto          | die Begrüßung        | die Begrüßungen
 /Poizai/        |                 | die Polizei          | die Polizeien 
+/poɐtzion/      | porzione        | die Portion          | die Portionen
+//              | metro           | die U-Bahn           |
 
 
 ==================================================
@@ -95,7 +98,7 @@ NEUTRUM/NEUTRO
            |          | das Foto        | Die Fotos
            | tune     | das Mal         | Die Male
            |          | das Ticket      | Die Tickets
-           |          | das Geld        | Die Gelder
+           | soldi    | das Geld        | Die Gelder
 
 
 ##################################################
