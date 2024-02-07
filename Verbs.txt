@@ -306,6 +306,59 @@ you buy a ticket for the subway at the vending machine.
 
 
 ==================================================
+GLAUBEN: to believe
+==================================================
+
+          | PRESENT TENSE
+----------| ---------- 
+Ich       | glaub-E
+Du        | glaub-ST          
+Er/Sie/Es | glaub-T          
+Wir       | glaub-EN          
+Ihr       | glaub-T          
+Sie       | glaub-EN          
+
+E.G.: 
+
+
+
+==================================================
+BESUCHEN /beszuçen/: to visit
+==================================================
+
+          | PRESENT TENSE
+----------| ---------- 
+Ich       | besuch-E /beszuça/
+Du        | besuch-ST          
+Er/Sie/Es | besuch-T          
+Wir       | besuch-EN          
+Ihr       | besuch-T          
+Sie       | besuch-EN          
+
+E.G.: 
+
+
+
+==================================================
+WIEDERHOLEN /videʁholen/: to repeat
+==================================================
+
+          | PRESENT TENSE
+----------| ---------- 
+Ich       | wiederhol-E /videʁhola/
+Du        | wiederhol-ST          
+Er/Sie/Es | wiederhol-T          
+Wir       | wiederhol-EN          
+Ihr       | wiederhol-T          
+Sie       | wiederhol-EN          
+
+E.G.: 
+
+
+
+
+
+==================================================
 KÖNNEN: to be able to
 ==================================================
 
@@ -320,6 +373,7 @@ Sie       | konn-TEN
 
 E.G.: Weißt du noch, als du kein Deutsch konntest?: 
 Do you still remember when you could not speak German? 
+
 
 
 ==================================================
