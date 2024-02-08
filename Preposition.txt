@@ -51,7 +51,7 @@ You can remember them by FUDOG (für, um, durch, ohne, gegen)
 
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
-für          | for     
+für  /fʏ/    | for 
 um           | around, at (time)     
 durch        | through     
 ohne /one/   | without     
