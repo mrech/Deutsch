@@ -411,20 +411,55 @@ Luane sucht einen platz in Marinas Wohnung
 
 
 ==================================================
-KÖNNEN: to be able to
+WOHNEN: abitare / to live
 ==================================================
 
-          | SIMPLE PAST TENSE  
-----------| ---------- 
-Ich       | konn-TE
-Du        | konn-TEST          
-Er/Sie/Es | konn-TE          
-Wir       | konn-TEN          
-Ihr       | konn-TET          
-Sie       | konn-TEN          
+          | PRÄSENS   
+----------|-----------  
+Ich       | wohn-E          
+Du        | wohn-ST     
+Er/Sie/Es | wohn-T     
+Wir       | wohn-EN     
+Ihr       | wohn-T     
+Sie       | wohn-EN   
 
-E.G.: Weißt du noch, als du kein Deutsch konntest?: 
-Do you still remember when you could not speak German? 
+E.G.:
+Sollte man mit Freundinnen zusammen wohnen?
+Should one live together with friends?
+
+Marina wohnt mit ihren Freundinnen zusammen.
+Marina lives together with her friends. 
+
+Du wohnst nicht mit Freunden zusammen:
+You do not live with friends.
+
+
+==================================================
+LEBEN /lɛbɛn/: vivere/ to be alive
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | leb-E          
+Du        | leb-ST     
+Er/Sie/Es | leb-T     
+Wir       | leb-EN     
+Ihr       | leb-T     
+Sie       | leb-EN   
+
+
+==================================================
+TEILEN /t[ai]lɛn/: spartirsi/dividere | to share
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | teil-E          
+Du        | teil-ST     
+Er/Sie/Es | teil-T     
+Wir       | teil-EN     
+Ihr       | teil-T     
+Sie       | teil-EN   
 
 
 
@@ -564,12 +599,36 @@ There are five modal verbs:
 > müssen (to have to)
 > dürfen (to be allowed to). 
 
-The verb mögen/möchten (to like to) is a special kind of modal verb, 
-and it will be discussed in other topics.
+The verb **mögen/möchten (to like to)** is a special kind of modal verb. 
+It is used in the subjunctive (see below: Subjunctive II).
 
 In a sentence, the modal verb is conjugated and the second 
 verb remains in the infinitive. The conjugated modal verb takes the 
 second position in the sentence, while the full verb is at the end of the sentence.
+
+##################################################
+SUBJUNCTIVE II
+##################################################
+The subjective mood is used in hypothetical, potential, 
+or uncertain situations. It is also used to express wishes 
+and polite requests.
+
+Present and Past Time
+_____________________
+In German, the subjunctive forms (subjunctive I and subjunctive II) 
+can be expressed in either present or past time. 
+Present time can also refer to an event that could happen in the future.
+
+Conjugations
+_____________________
+Modal verbs in subjunctive II are formed like the simple past tense. 
+However, modals that had an umlaut in the infinitive regain their 
+umlaut in subjunctive II.
+
+E.G.:
+Ich möchte noch etwas Kaffee trinken.: 
+I would like to drink some more coffee.
+
 
 ==================================================
 KÖNNEN: to be able to
@@ -577,18 +636,21 @@ KÖNNEN: to be able to
 The modal verb können expresses a possibility, 
 the ability to do something or permission: 
 
- PRONOUN  | VERB  
-----------| ---------- 
-Ich       | kAnn
-Du        | kAnn-ST          
-Er/Sie/Es | kAnn          
-Wir       | könn-EN          
-Ihr       | könn-T          
-Sie       | könn-EN          
+ PRONOUN  | VERB      | SIMPLE PAST TENSE  
+----------| ----------| ---------- 
+Ich       | kAnn      | konn-TE
+Du        | kAnn-ST   | konn-TEST          
+Er/Sie/Es | kAnn      | konn-TE      
+Wir       | könn-EN   | konn-TEN         
+Ihr       | könn-T    | konn-TET       
+Sie       | könn-EN   | konn-TEN                       
 
 E.G.: 
 Sie kann nicht schwimmen: she cannot swim 
 Wo können wir ein ticket kaufen?
+
+Weißt du noch, als du kein Deutsch konntest?: 
+Do you still remember when you could not speak German? 
 
 
 ==================================================
@@ -611,7 +673,46 @@ Ich will auf das Konzert gehen: I want to go to the concert
 Sie wollen Berlin kennenlernen: Vogliono conoscere Berlino
 Sie will pommes essen
 
+Willst du mit Freunden zusammen wohnen?: 
+Do you want to live with friends?
 
+
+==================================================
+SOLLEN: to be supposed to/should
+==================================================
+
+ PRONOUN  | VERB  
+----------| ---------- 
+Ich       | soll-TE
+Du        | soll-TEST          
+Er/Sie/Es | soll-TE        
+Wir       | soll-TEN          
+Ihr       | soll-TET          
+Sie       | soll-TEN          
+
+E.G.:
+(Subjunctive II)
+Sollte man mit Freundiennen zusammen wohnen?
+Should one live together with friends?
+
+
+==================================================
+MÖGEN/MÖCHTEN /mœçtɛn/: would like/to like to
+==================================================
+
+ PRONOUN  | VERB  
+----------| ---------- 
+Ich       | möch-TE
+Du        | möch-TEST          
+Er/Sie/Es | möch-TE        
+Wir       | möch-TEN          
+Ihr       | möch-TET          
+Sie       | möch-TEN          
+
+E.G.:
+(Subjunctive II)
+Manchmal möchte Marina alleine leben.: 
+Sometimes Marina would like to live alone.
 
 
 

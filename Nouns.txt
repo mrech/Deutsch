@@ -29,6 +29,9 @@ MASKULINUM/MASCHILE
 /hammaʁ/   | awesome     | der Hammer        | die Hämmer
            | piazza      |                   |
            | posto/luogo | der Platz         | die Plätze /plɛtze/
+           | amico/amici |                   |
+/frɔynde/  | fidanzato   | der Freund        | die Freunde
+
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -70,6 +73,10 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 //                | metro           | die U-Bahn           |
 /vonʊng/vonʊnghen/| appartamento    | die Wohnung          | die Wohnungen
                   | umore/capriccio | die Laune            | die Launen 
+                  | amiche          |                      |
+/frɔynden/        | fidanzata/amica | die Freundin         | die Freudinnen
+/arb[ai]t/        | lavoro          | die Arbeit           | die Arbeiten
+
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -102,6 +109,7 @@ NEUTRUM/NEUTRO
            | tune     | das Mal         | Die Male
            |          | das Ticket      | Die Tickets
            | soldi    | das Geld        | Die Gelder
+           | food     | das Essen       | das Essen
 
 
 ##################################################
