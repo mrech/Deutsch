@@ -54,7 +54,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                   |                 | die Kartoffel        | die Kartoffeln
                   |                 | Die Nacht            |
                   |                 | Die Limonade         | Die Limonaden  
-                  |                  | Die Jacke            | Die Jacken
+                  |                 | Die Jacke            | Die Jacken
 /myːtse           | capello         | Die Mütze            | Die Mützen
 /[Z].../          |                 | Die Sonnenbrille     | Die Sonnenbrillen
 /perzon/          |                 | Die Person           |
@@ -76,6 +76,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                   | amiche          |                      |
 /frɔynden/        | fidanzata/amica | die Freundin         | die Freudinnen
 /arb[ai]t/        | lavoro          | die Arbeit           | die Arbeiten
+                  |                 | die Party            | die Partys
 
 
 ==================================================
@@ -106,10 +107,13 @@ NEUTRUM/NEUTRO
            |          | das problem     | Die Probleme /pʁoblema/
  /end/     | the end  | das Ende        | Die Enden
            |          | das Foto        | Die Fotos
-           | tune     | das Mal         | Die Male
+           | volta\   |                 |
+           | time     | das Mal         | Die Male
            |          | das Ticket      | Die Tickets
            | soldi    | das Geld        | Die Gelder
            | food     | das Essen       | das Essen
+/gl[yːk]/  | gioia/   |                 |
+/gl[yːk]/e | fortuna  | das Glück       | die Glücke       
 
 
 ##################################################

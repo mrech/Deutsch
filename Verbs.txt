@@ -26,19 +26,27 @@ Seid ihr neu in Berlin?
 ==================================================
 HABEN: avere
 ==================================================
+The verb haben (to have) is a very frequent irregular German verb. 
+It indicates the possession of an object or a state referring to a noun. 
+It is also used with fixed phrases. 
+The object following the verb haben is in the ACCUSATIVE CASE.
 
           | PRÄSENS   
 ----------| ---------- 
-Ich       | habe
-Du        | hast
-Er/Sie/Es | hat           
-Wir       | haben          
-Ihr       | habt         
-Sie       | haben           
+Ich       | hab-E
+Du        | ha-ST
+Er/Sie/Es | ha-T           
+Wir       | hab-EN          
+Ihr       | hab-T         
+Sie       | hab-EN           
 
 E.G.: 
 Sie hat kein Geld: Lei non ha soldi
 Ich habe keinen platz in meiner Wohnung.: I have no space in my appartment
+Ich habe ein Auto: I have a car
+Jeremy hat eine Brille: Jeremy has glasses
+Wir haben keine Zeit: We have no time
+Ich habe dich lieb: I love you.
 
 
 ==================================================
