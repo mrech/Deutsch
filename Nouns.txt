@@ -31,6 +31,10 @@ MASKULINUM/MASCHILE
            | posto/luogo | der Platz         | die Plätze /plɛtze/
            | amico/amici |                   |
 /frɔynde/  | fidanzato   | der Freund        | die Freunde
+/man[tʃ]/  | individuo/  |                   |
+           | persona     | der Mensch        | die Menschen
+           | cactus      | der Kaktus        | die Kaktusse, 
+           |             |                   | die Kakteen
 
 
 ==================================================
@@ -40,43 +44,45 @@ Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine.
 So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
 -ITIS, -ION, -ENZ, -TÄT, -IE. 
 
- IPA              | TRANLATION      | SINGOLARE            | PLURALE
-------------------|-----------------|----------------------|---------------------
-                  |                 | Frau                 | Frauen
-                  |                 | Milch                |
-                  |                 | Zeitung              |
-                  |                 | Frange: question     |
-                  |                 | die Katze            |
-                  |                 | die Berlinerin       | die Berlinerinnen
-                  |                 | die Universität      |
-                  | team            | die Mannschaft       |
-                  | patatine fritte | die Pommes           | die Pommes
-                  |                 | die Kartoffel        | die Kartoffeln
-                  |                 | Die Nacht            |
-                  |                 | Die Limonade         | Die Limonaden  
-                  |                 | Die Jacke            | Die Jacken
-/myːtse           | capello         | Die Mütze            | Die Mützen
-/[Z].../          |                 | Die Sonnenbrille     | Die Sonnenbrillen
-/perzon/          |                 | Die Person           |
-                  |                 | Wurst                |
-/ʏːbongen/        | esercizio       | die Übung            | Die Übungen
-/ʃtimme/          | voices          | die Stimme           | die Stimmen
-                  |                 | die musik            |
-/ʃtat/            | città           | die Stadt            | die Städte /ʃtɛ:te/ 
-                  |                 | die Gitarre          | die Gitarren
-/infoɐmatzion/    |                 | die information      | die informationen
-/banan/           |                 | die banane           | die bananen
-/ʃtʁase/          | strada          | die Straße           | die Straßen
-/Begrʏsʊng/       | saluto          | die Begrüßung        | die Begrüßungen
-/Poizai/          |                 | die Polizei          | die Polizeien 
-/poɐtzion/        | porzione        | die Portion          | die Portionen
-//                | metro           | die U-Bahn           |
-/vonʊng/vonʊnghen/| appartamento    | die Wohnung          | die Wohnungen
-                  | umore/capriccio | die Laune            | die Launen 
-                  | amiche          |                      |
-/frɔynden/        | fidanzata/amica | die Freundin         | die Freudinnen
-/arb[ai]t/        | lavoro          | die Arbeit           | die Arbeiten
-                  |                 | die Party            | die Partys
+ IPA                | TRANLATION      | SINGOLARE            | PLURALE
+--------------------|-----------------|----------------------|---------------------
+                    |                 | Frau                 | Frauen
+                    |                 | Milch                |
+                    |                 | Zeitung              |
+                    |                 | Frange: question     |
+                    |                 | die Katze            |
+                    |                 | die Berlinerin       | die Berlinerinnen
+                    |                 | die Universität      |
+                    | team            | die Mannschaft       |
+                    | patatine fritte | die Pommes           | die Pommes
+                    |                 | die Kartoffel        | die Kartoffeln
+                    |                 | Die Nacht            |
+                    |                 | Die Limonade         | Die Limonaden  
+                    |                 | Die Jacke            | Die Jacken
+/myːtse             | capello         | Die Mütze            | Die Mützen
+/[Z].../            |                 | Die Sonnenbrille     | Die Sonnenbrillen
+/perzon/            |                 | Die Person           |
+                    |                 | Wurst                |
+/ʏːbongen/          | esercizio       | die Übung            | Die Übungen
+/ʃtimme/            | voices          | die Stimme           | die Stimmen
+                    |                 | die musik            |
+/ʃtat/              | città           | die Stadt            | die Städte /ʃtɛ:te/ 
+                    |                 | die Gitarre          | die Gitarren
+/infoɐmatzion/      |                 | die information      | die informationen
+/banan/             |                 | die banane           | die bananen
+/ʃtʁase/            | strada          | die Straße           | die Straßen
+/Begrʏsʊng/         | saluto          | die Begrüßung        | die Begrüßungen
+/Poizai/            |                 | die Polizei          | die Polizeien 
+/poɐtzion/          | porzione        | die Portion          | die Portionen
+//                  | metro           | die U-Bahn           |
+/vonʊng/vonʊnghen/  | appartamento    | die Wohnung          | die Wohnungen
+                    | umore/capriccio | die Laune            | die Launen 
+                    | amiche          |                      |
+/frɔynden/          | fidanzata/amica | die Freundin         | die Freudinnen
+/arb[ai]t/          | lavoro          | die Arbeit           | die Arbeiten
+                    |                 | die Party            | die Partys
+                    | news            |                      |
+/n[oi]i[ʒ|ʃ]k[ai]/t | notizia/novità  | die Neuigkeit        | die Neuigkeiten
 
 
 ==================================================
@@ -113,7 +119,9 @@ NEUTRUM/NEUTRO
            | soldi    | das Geld        | Die Gelder
            | food     | das Essen       | das Essen
 /gl[yːk]/  | gioia/   |                 |
-/gl[yːk]/e | fortuna  | das Glück       | die Glücke       
+/gl[yːk]/e | fortuna  | das Glück       | die Glücke    
+           | talento  | das Talent      | die Talente   
+           |          | das Tattoo      | die Tattoos
 
 
 ##################################################

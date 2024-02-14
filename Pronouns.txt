@@ -12,6 +12,7 @@ You share the food with your friends.
 PRONOME INDEFINITO
 ==================================================  
 Viel /fiel/: molto
+Viele /file/: molte
 man: si (pron.) / one (pron.)
 
 
@@ -53,6 +54,12 @@ E.G.: Wir trinken etwas
 > NICHTS: nothing
 --------------------------------------------------
 E.G.: Sie trinken nichts
+
+--------------------------------------------------
+> SOLCHE /zol[ʃ]e/: such 
+--------------------------------------------------
+E.G.: Hast du auch solche probleme?: Hai anche tu problemi del genere?
+Have you also such problems?
 
 
 ==================================================

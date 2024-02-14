@@ -7,7 +7,7 @@ IPA        | CONJUNCTIONS | TRANSLATION
 //         | außer        | except for
            | denn         | because
            | und          | and
-           | oder         | or
+/od[aʁ]/   | oder         | or
            | aber         | but
            | doch         | but
            | sondern      | but rather

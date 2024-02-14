@@ -70,6 +70,9 @@ This follows for the neuter and feminine genders as well.
  NEUTRO        | -es        | Gutes Brot
  PLURALE       | -e         | Gute Äpfel
 
+E.G.: 
+Ich habe eine gute neuigkeit.: I have good news.
+Wir haben eine kleine Wohnung: We have a small apartment.
 
 
 NOTE:
