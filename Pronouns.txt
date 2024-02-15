@@ -107,7 +107,7 @@ IPA        | PRONOUN    | TRANSLATION
            | ihr        | her
            | ihm        | it
            | uns        | us
-/ɔyʃ/      | euch       | you all      
+/[oi]ʃ/    | euch       | you all      
            | ihnen      | them   
 
 
@@ -130,18 +130,67 @@ or dative case and refers back to the subject.
 It is often used with reflexive versbs, which require reflexive
 pronouns.
 
-IPA   | PERSONAL  | REFLEXIVE  |
-      | PRONOUN   | PRONOUN    | TRANSLATION  
-------|-----------|------------|-------------
-/mɪ̯ʃ/ | ich       | mich       | myself
-      | Du        | dich       | yourself
-      | Er/Sie/Es | sich       | hiself/herself/itself
-      | Wir       | uns        | ourselves
-/ɔyʃ/ | Ihr       | euch       | yourselves     
-      | sie/Sie   | sich       | themselves   
+IPA     | PERSONAL  | REFLEXIVE  |
+        | PRONOUN   | PRONOUN    | TRANSLATION  
+--------|-----------|------------|-------------
+/mɪ̯ʃ/   | ich       | mich       | myself
+        | Du        | dich       | yourself
+        | Er/Sie/Es | sich       | hiself/herself/itself
+        | Wir       | uns        | ourselves
+/[oi]ʃ/ | Ihr       | euch       | yourselves     
+        | sie/Sie   | sich       | themselves   
 
 E.G.:
 Wir können uns entspannen.: Possiamo rilassarci.
+Könnt ihr euch unsichtbar machen?: Siete capaci di rendervi invisibili?
+
+
+==================================================
+DEMONSTRATIVE PRONOUN, ACCUSATIVE CASE**
+==================================================  
+Demonstrative pronouns are used to point to something specific in a sentence 
+or to emphasize something (a person or a thing). 
+
+A demonstrative pronoun can replace a noun or function as an article. 
+When it is used instead of an article, it is called a DEMONSTRATIVE ARTICLE. 
+A DEMONSTRATIVE ARTICLE cannot stand alone, but only before a noun. 
+
+Demonstrative pronouns and DEMONSTRATIVE ARTICLE have the same endings as 
+definite articles and are declined in the same way. 
+
+Typical German demonstrative pronouns are:
+WHEN THE PERSON OR THING IS CLOSE IN SPACE OR TIME:
+> dieser
+> diese
+> dieses
+WHEN THE PERSON OR THING IS DISTANT IN SPACE OR TIME:
+> jener
+> jene
+> jenes. 
+
+Most people say der, die, das.
+Also all German articles can be used as demonstrative pronoun. 
+
+ GENDER     | DECLENSIONS  
+------------|---------
+ MASCULINE  | Diesen       
+------------|---------
+ FEMININE   | Diese      
+------------|---------
+ NEUTER     | Dieses       
+------------|---------
+ PLURAL     | Diese      
+
+E.G.:
+Kennst du diesen Mann? - Nein, den kenne ich nicht.
+Do you know that man? - No, I don't know him.
+
+Ich finde diese Hose besonders schön.
+I find these plats particularly beautiful.
+
+Mögt ihr diesen Song?: Vi piace questa canzone.
+
+
 
 
 NOTE:
