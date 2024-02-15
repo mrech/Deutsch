@@ -122,6 +122,28 @@ so it is the dative case.
 
 Du hörst mir nicht zu: Tu non mi ascolti
 
+==================================================
+REFLEXIVE PRONOUNS, ACCUSATIVE CASE**
+==================================================  
+A reflexive pronoun is a pronoun that takes the accusative
+or dative case and refers back to the subject. 
+It is often used with reflexive versbs, which require reflexive
+pronouns.
+
+IPA   | PERSONAL  | REFLEXIVE  |
+      | PRONOUN   | PRONOUN    | TRANSLATION  
+------|-----------|------------|-------------
+/mɪ̯ʃ/ | ich       | mich       | myself
+      | Du        | dich       | yourself
+      | Er/Sie/Es | sich       | hiself/herself/itself
+      | Wir       | uns        | ourselves
+/ɔyʃ/ | Ihr       | euch       | yourselves     
+      | sie/Sie   | sich       | themselves   
+
+E.G.:
+Wir können uns entspannen.: Possiamo rilassarci.
+
+
 NOTE:
 --------------------------------------------------
 *: The nominative case applies to the subject of a sentence and can
