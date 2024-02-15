@@ -1,11 +1,44 @@
 ==================================================
-POSSESSIVE
+POSSESSIVE PRONOUN, ACCUSATIVE CASE**
 ==================================================  
-dein: your (informal)
+
+Possessive Pronoun (Dependent)
+--------------------------------------------------
+Possessive pronouns that come directly before a noun are considered 
+dependent because they take the gender, case, and number of the nouns they modify. 
+
+They are listed below:
+
+IPA        | PRONOUN    | TRANSLATION  
+-----------|------------|-------------
+/m[ai]n/   | mein       | my
+/d[ai]n/   | dein       | your (informal)
+           | ihr        | your (formal)
+/[zai]n/   | sein       | his
+           | ihr        | her
+/[zai]n/   | sein       | its
+           | unser      | our
+/[oi]er/   | euer       | your (informal plural)     
+           | ihr        | their   
+
+
+Declensions - Accusative
+--------------------------------------------------
+ Gender     | Ending  | Example
+------------|---------|--------------
+ MASCULINE  | -en     | meinen Hund  
+------------|---------|--------------
+ FEMININE   | -e      | meine Frau
+------------|---------|--------------
+ NEUTER     |         | mein Baby
+------------|---------|--------------
+ PLURAL     | -e      | meine Äpfel
 
 E.G.:
 Du teilst das essen mit deinen Freunden.:
 You share the food with your friends.
+Ihr sollt immer eure hausaufgaben machen.:
+Voi dovete fare sempre i vostri compiti.
 
 
 ==================================================  
@@ -52,7 +85,7 @@ E.G.: Wir trinken etwas
 
 --------------------------------------------------
 > NICHTS: nothing
---------------------------------------------------
+--------------------------------------------------hides
 E.G.: Sie trinken nichts
 
 --------------------------------------------------
