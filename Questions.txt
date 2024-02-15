@@ -1,5 +1,5 @@
 --------------------------------------------------
-Wer?: Who? 
+Wer?: Who?/Chi?
 Wen?: Who?
 --------------------------------------------------
 E.G.: 
@@ -7,26 +7,27 @@ Wer bist du?: Who are you?
 
 
 --------------------------------------------------
-Woher?: Where from?
+Woher?: Where from?/Da dove?
 --------------------------------------------------
 E.G.:
 Wo kommst du her?: Where are you from?
 Ich k
 
 --------------------------------------------------
-Wo?: Where?
+Wo?: Where?/Dove?
 --------------------------------------------------
-E.G.: Wo kommest du her?
-
+E.G.: 
+Wo kommest du her?
+Wo können wir ein ticket kaufen?: Dove possiamo comprare un biglietto
 
 --------------------------------------------------
-Wie?: What?
+Wie?: What?/Come?
 --------------------------------------------------
 E.G.: Wie heiße ich?
 
 
 --------------------------------------------------
-Was?: What?
+Was?: What?/Cosa?
 --------------------------------------------------
 E.G.:
 Was hast du?: What do you have?
@@ -36,3 +37,10 @@ Was hast du?: What do you have?
 Wann?: quando?
 --------------------------------------------------
 E.G.: Wann habt ihr Urlaub? When do you have vacation.
+
+
+--------------------------------------------------
+Warum?: perchè? why?
+--------------------------------------------------
+E.G.: 
+Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?

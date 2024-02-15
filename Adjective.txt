@@ -13,7 +13,7 @@ Leider /l[ai]d[aʁ]/: putroppo/sfortunatamente
 E.G.:
 Marina hat leider kein Glück: Marina sfortunatamente non ha fortuna.
 ----------
-
+unsichtbar /un[z]iktbar/: invisible
 
 ==================================================
 ADJECTIVE, NOMINATIVE CASE*
@@ -56,6 +56,11 @@ so it is the dative case.
 ==================================================
 ADJECTIVE, ACCUSATIVE CASE****
 ================================================== 
+Adjectives are words that describe or modify a noun. 
+An unpreceded adjective is one that does not have a 
+determiner such as a definite article, an indefinite article, 
+a der-word, or an ein-word preceding it.
+
 Adjectives not preceded by a determiner must show the same endings as the 
 definite article because the gender and case have to be represented somewhere.
 
@@ -73,6 +78,9 @@ This follows for the neuter and feminine genders as well.
 E.G.: 
 Ich habe eine gute neuigkeit.: I have good news.
 Wir haben eine kleine Wohnung: We have a small apartment.
+Es gibt keinen platz für Loanes schlechte Laune: 
+Non c'è posto per il cattivo umore di Loane.
+Worum magst du keinen Kaffee?: perchè non ti piace il Café?
 
 
 NOTE:

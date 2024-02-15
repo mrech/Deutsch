@@ -243,7 +243,7 @@ Da kommt die Polizei: Arriva la polizia
 
 
 ==================================================
-MACHEN /maken/: to do | to make 
+MACHEN /maçaen/: to do | to make 
 ==================================================
 
           | PRÄSENS   
@@ -315,7 +315,7 @@ Es sagt mir nichts: Non mi dice nulla
 
 
 ==================================================
-KENNENLERNEN: to know
+KENNENLERNEN: to know|conoscere
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -328,6 +328,23 @@ Ihr       | lern-T kennen
 
 E.G.:
 Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
+
+
+==================================================
+LERNEN: to learn|imparare
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | lern-E 
+Du        | lern-ST          
+Er/Sie/Es | lern-T          
+Wir       | lern-EN          
+Ihr       | lern-T          
+
+E.G.:
+Sie müssen Gitarre lernen.: 
+Devono imparare a suonare la chitarra.
 
 
 ==================================================
@@ -468,6 +485,91 @@ Er/Sie/Es | teil-T
 Wir       | teil-EN     
 Ihr       | teil-T     
 Sie       | teil-EN   
+
+
+==================================================
+ENTSPANNEN /ent[ʃ]spannen/: relax/relissarsi
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | entspann-E mich          
+Du        | entspann-ST dich    
+Er/Sie/Es | entspann-T sich     
+Wir       | entspann-EN uns    
+Ihr       | entspann-T euch
+Sie       | entspann-EN sich  
+
+E.G.:
+Wir können uns entspannen.: Possiamo rilassarci
+
+
+==================================================
+SINGEN /[z]ingen/: cantare
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | sing-E         
+Du        | sing-ST    
+Er/Sie/Es | sing-T     
+Wir       | sing-EN    
+Ihr       | sing-T
+Sie       | sing-EN  
+
+E.G.:
+Sie können nicht singen.: Non sanno cantare.
+
+
+==================================================
+ÜBEN /[yː]ben/: esercitare|ripetere
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | üb-E         
+Du        | üb-ST    
+Er/Sie/Es | üb-T     
+Wir       | üb-EN    
+Ihr       | üb-T
+Sie       | üb-EN  
+
+E.G.:
+Wir müssen küssen üben.: Dobbiamo esercitarci a baciare
+
+
+==================================================
+VERFOLGEN /[f]erfolgen/: to follow | inseguire
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | verfolg-E         
+Du        | verfolg-ST    
+Er/Sie/Es | verfolg-T     
+Wir       | verfolg-EN    
+Ihr       | verfolg-T
+Sie       | verfolg-EN  
+
+E.G.:
+Ihr müsst ihn verfolgen.: Dovete inseguirlo.
+
+
+==================================================
+VERSTECKEN /[f]erstécken/: to hide | nascondersi
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | versteck-E         
+Du        | versteck-ST    
+Er/Sie/Es | versteck-T     
+Wir       | versteck-EN    
+Ihr       | versteck-T
+Sie       | versteck-EN  
+
+E.G.:
+TODO
 
 
 
@@ -790,6 +892,7 @@ Sie       | mög-EN
 
 E.G.:
 Magst du Käse?: Do you like cheese? 
+Sie mag mich.: Le piaccio
 
 ==================================================
 WISSEN: to know

@@ -13,7 +13,7 @@ MASKULINUM/MASCHILE
                            Der Morgen        |         
                            Der Tag           |
                            Der Saft          | Die Säfte
-                           Der Kaffee        |
+                           Der Kaffee        | Die Kaffees
  /[ʃ]uhe/  |             | Der Schuh         | Die Schuhe
                            Der Verb
                          | Der Wein
@@ -35,7 +35,7 @@ MASKULINUM/MASCHILE
            | persona     | der Mensch        | die Menschen
            | cactus      | der Kaktus        | die Kaktusse, 
            |             |                   | die Kakteen
-
+           |             | der Song          | 
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -83,7 +83,8 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                     |                 | die Party            | die Partys
                     | news            |                      |
 /n[oi]i[ʒ|ʃ]k[ai]/t | notizia/novità  | die Neuigkeit        | die Neuigkeiten
-
+/[oi]le/            | owl/gufo        | die Eule             | die Eulen            
+/Haus'aufgabe/      | compiti         | die Hausaufgabe      | die Hausaufgaben
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -122,7 +123,8 @@ NEUTRUM/NEUTRO
 /gl[yːk]/e | fortuna  | das Glück       | die Glücke    
            | talento  | das Talent      | die Talente   
            |          | das Tattoo      | die Tattoos
-
+           |          | das Skateboard  |
+/k[yː]sen/ | baciare  | das Küssen      |
 
 ##################################################
 ==================================================
