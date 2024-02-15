@@ -443,7 +443,7 @@ You do not live with friends.
 
 
 ==================================================
-LEBEN /lɛbɛn/: vivere/ to be alive
+LEBEN /lɛbɛn/: vivere/ to live (reside)
 ==================================================
 
           | PRÄSENS   
@@ -614,30 +614,6 @@ In a sentence, the modal verb is conjugated and the second
 verb remains in the infinitive. The conjugated modal verb takes the 
 second position in the sentence, while the full verb is at the end of the sentence.
 
-##################################################
-SUBJUNCTIVE II
-##################################################
-The subjective mood is used in hypothetical, potential, 
-or uncertain situations. It is also used to express wishes 
-and polite requests.
-
-Present and Past Time
-_____________________
-In German, the subjunctive forms (subjunctive I and subjunctive II) 
-can be expressed in either present or past time. 
-Present time can also refer to an event that could happen in the future.
-
-Conjugations
-_____________________
-Modal verbs in subjunctive II are formed like the simple past tense. 
-However, modals that had an umlaut in the infinitive regain their 
-umlaut in subjunctive II.
-
-E.G.:
-Ich möchte noch etwas Kaffee trinken.: 
-I would like to drink some more coffee.
-
-
 ==================================================
 KÖNNEN: to be able to
 ==================================================
@@ -656,7 +632,8 @@ Sie       | könn-EN   | konn-TEN
 E.G.: 
 Sie kann nicht schwimmen: she cannot swim 
 Wo können wir ein ticket kaufen?
-
+Ich kann eine Eule sein.: io so fare il gufo.
+Du kannst Skateboard fahren.: Tu sai andare sullo Skateboard.
 Weißt du noch, als du kein Deutsch konntest?: 
 Do you still remember when you could not speak German? 
 
@@ -667,8 +644,8 @@ WOLLEN /volen/: to want to
 The modal verb wollen expresses a wish, 
 the intention to do something or a will:
 
- PRONOUN  | VERB  
-----------| ---------- 
+ PRONOUN  | VERB         
+----------| -------------
 Ich       | wIll
 Du        | wIll-ST          
 Er/Sie/Es | wIll  /vil/        
@@ -684,31 +661,97 @@ Sie will pommes essen
 Willst du mit Freunden zusammen wohnen?: 
 Do you want to live with friends?
 
-
 ==================================================
 SOLLEN: to be supposed to/should
 ==================================================
+The modal verb sollen expresses an order, an indirect request
+to do something or a racommendation:
 
- PRONOUN  | VERB  
-----------| ---------- 
-Ich       | soll-TE
-Du        | soll-TEST          
-Er/Sie/Es | soll-TE        
-Wir       | soll-TEN          
-Ihr       | soll-TET          
-Sie       | soll-TEN          
+ PRONOUN  | VERB      | SIMPLE PAST TENSE 
+----------| ----------| ---------------  
+Ich       | soll      | soll-TE
+Du        | soll-ST   | soll-TEST        
+Er/Sie/Es | soll      | soll-TE   
+Wir       | soll-EN   | soll-TEN           
+Ihr       | soll-T    | soll-TET      
+Sie       | soll-EN   | soll-TEN         
 
 E.G.:
+Die Kinder sollen Hausaufgaben machen.: The children
+have to do their homework. 
 (Subjunctive II)
 Sollte man mit Freundiennen zusammen wohnen?
 Should one live together with friends?
 
 
 ==================================================
+MÜSSEN : to have to
+==================================================
+The modal verb müssen expresses an order or a
+necessity:
+
+ PRONOUN  | VERB         
+----------| -------------
+Ich       | muss
+Du        | muss-ST          
+Er/Sie/Es | muss        
+Wir       | müss-EN          
+Ihr       | müss-T          
+Sie       | müss-EN 
+
+E.G.:
+Ich muss heute die Wohnung putzen.: I have to clean 
+the apartment today.
+
+
+==================================================
+DÜRFEN : to allow to
+==================================================
+The modal verb dürfen expresses a permission:
+
+ PRONOUN  | VERB         
+----------| -------------
+Ich       | darf
+Du        | darf-ST          
+Er/Sie/Es | darf        
+Wir       | dürf-EN          
+Ihr       | dürf-T          
+Sie       | dürf-EN 
+
+E.G.:
+Er darf ein Stück Schokolade essen.: He is allowed to eat
+a piece of chocolate. 
+
+
+##################################################
+SUBJUNCTIVE II
+##################################################
+The subjective mood is used in hypothetical, potential, 
+or uncertain situations. It is also used to express wishes 
+and polite requests.
+
+Present and Past Time
+_____________________
+In German, the subjunctive forms (subjunctive I and subjunctive II) 
+can be expressed in either present or past time. 
+Present time can also refer to an event that could happen in the future.
+
+Conjugations
+_____________________
+Modal verbs in subjunctive II are formed like the SIMPLE PAST TENSE. 
+However, modals that had an umlaut in the infinitive regain their 
+umlaut in subjunctive II.
+
+E.G.:
+Ich möchte noch etwas Kaffee trinken.: 
+I would like to drink some more coffee.
+
+
+==================================================
 MÖGEN/MÖCHTEN /mœçtɛn/: would like/to like to
 ==================================================
 
- PRONOUN  | VERB  
+ PRONOUN  | SUBJUNCTIVE II 
 ----------| ---------- 
 Ich       | möch-TE
 Du        | möch-TEST          
@@ -721,6 +764,66 @@ E.G.:
 (Subjunctive II)
 Manchmal möchte Marina alleine leben.: 
 Sometimes Marina would like to live alone.
+
+
+##################################################
+IRREGULAR VERBS. SPECIAL CASES
+##################################################
+There are verbs that are not conjugated in any particular pattern, such as.
+
+> mögen (to like)
+> wissen (to know)
+> tun (to do)
+
+==================================================
+MÖGEN: to like to
+==================================================
+
+ PRONOUN  | 
+----------| ---------- 
+Ich       | mag
+Du        | mag-ST          
+Er/Sie/Es | mag      
+Wir       | mög-EN          
+Ihr       | mög-T          
+Sie       | mög-EN          
+
+E.G.:
+Magst du Käse?: Do you like cheese? 
+
+==================================================
+WISSEN: to know
+==================================================
+
+ PRONOUN  |  
+----------| ---------- 
+Ich       | weiß
+Du        | weiß-T          
+Er/Sie/Es | weiß       
+Wir       | wiss-EN          
+Ihr       | wiss-T          
+Sie       | wiss-EN          
+
+E.G.:
+Das weiß ich leider nicht.: I don't know that unfortunately.
+
+
+==================================================
+TUN: to do
+==================================================
+
+ PRONOUN  | SUBJUNCTIVE II 
+----------| ---------- 
+Ich       | tu-E
+Du        | tu-ST          
+Er/Sie/Es | tu-T        
+Wir       | tu-N          
+Ihr       | tu-T          
+Sie       | tu-N          
+
+E.G.:
+Was tun Sie da?: What are you doing there?.
+
 
 
 
