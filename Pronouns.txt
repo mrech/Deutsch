@@ -42,11 +42,21 @@ Voi dovete fare sempre i vostri compiti.
 
 
 ==================================================  
-PRONOME INDEFINITO
+INDEFINITE PRONOUN, NOMINATIVE CASE
 ==================================================  
+Indefinite pronouns are used in order to speak about 
+something unspecific or indefinite.
+
 Viel /fiel/: molto
+--------------------------------------------------
+E.G.:
+In Marinas Wonung gibt es viel Platz.
+
 Viele /file/: molte
+Etwas: something
 man: si (pron.) / one (pron.)
+Jemand:
+Nichts: nothing
 
 
 ====================
@@ -55,6 +65,14 @@ PRONOME DIMOSTRATIVO: Das + SEIN
 Das ist gut: va bene
 Das ist ein mann: quello è un uomo
 Das sind Mädchen: Quelle sono ragazze
+==================================================
+DEMONSTRATIVE PRONOUN, ACCUSATIVE CASE*
+==================================================  
+--------------------------------------------------
+> SOLCHE /zogl[ʃ]e/: such 
+--------------------------------------------------
+E.G.: Hast du auch solche probleme?: Hai anche tu problemi del genere?
+Have you also such problems?
 
 
 ==================================================
@@ -85,14 +103,10 @@ E.G.: Wir trinken etwas
 
 --------------------------------------------------
 > NICHTS: nothing
---------------------------------------------------hides
+--------------------------------------------------
 E.G.: Sie trinken nichts
 
---------------------------------------------------
-> SOLCHE /zol[ʃ]e/: such 
---------------------------------------------------
-E.G.: Hast du auch solche probleme?: Hai anche tu problemi del genere?
-Have you also such problems?
+
 
 
 ==================================================
