@@ -2,6 +2,8 @@
 Jetzt: Now | Ora | Adesso
 --------------------------------------------------
 E.G.:
+Justinas pommes sind jetzt weg.
+Justina's fris are gone now. 
 
 
 --------------------------------------------------
@@ -20,3 +22,10 @@ E.G.: Bald sprichst du fließend Deutsch!
 > Heute /hɔyte/: today
 --------------------------------------------------
 E.G.: Du machst das richtig gut heute.
+
+
+--------------------------------------------------
+> Manchmal /man[tʃ]mal/: sometimes
+--------------------------------------------------
+E.G.:
+Manchmal möchte Marina alleine leben.

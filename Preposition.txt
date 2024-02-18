@@ -94,7 +94,7 @@ Two-way prepositions are below:
 
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
-an           | at, on top of     
+an/am        | at, on top of     
 auf          | on, to     
 hinter       | behind     
 in           | in     
@@ -106,3 +106,4 @@ zwischen     | between
 
 E.G.:
 Ihr macht übungen auf Seeland.
+Ein Ticket für die U-Bahn kauft man am Automaten.

@@ -129,7 +129,7 @@ Zero articles are used in the following cases:
 --------------------------------------------------
 > For INDEFINITE ARTICLES IN PLURAL:
 Hier steht ein Baum. - Hier stehen Bäume: Here is a tree. - Here are trees.
-Sie hört Stemmen: Lei sente delle voci
+Sie hört Stimmen: Lei sente delle voci
 
 --------------------------------------------------
 > For NAMES AND COMPANY NAMES that are not preceded by adjectives:
