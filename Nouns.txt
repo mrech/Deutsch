@@ -2,40 +2,44 @@
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA       | TRANSLATE  |  SINGOLARE         | PLURALE
------------|------------|--------------------|----------
-                           Mann              | Männer
-                           Junge             | Jungen
-                           Apfel             | Äpfel
-                           Tag               |
-                           Der Hund          |
-             La sera     | Der Abend         |           
-                           Der Morgen        |         
-                           Der Tag           |
-                           Der Saft          | Die Säfte
-                           Der Kaffee        | Die Kaffees
- /[ʃ]uhe/  |             | Der Schuh         | Die Schuhe
-                           Der Verb
-                         | Der Wein
- /zin/     | Il senso    | Der Sinn          | Die Sinne
- /kraç/    | noise       | Der Krach         | -
- /kvatʃ/   | nonsense/   |                   |
-             stupidagini | der Quatsch       | -
- /ʁɛgan/   | pioggia     | der Regen         | die Regen
-           |             | der ticketautomat | die ticketautomaten
-/zuk/      |             |                   |
-/Zyːghe/   | train       | der Zug           | die Züge
-/hongaʁ/   | fame/hunger | der Hunger        | - 
-/hammaʁ/   | awesome     | der Hammer        | die Hämmer
-           | piazza      |                   |
-           | posto/luogo | der Platz         | die Plätze /plɛtze/
-           | amico/amici |                   |
-/frɔynde/  | fidanzato   | der Freund        | die Freunde
-/man[tʃ]/  | individuo/  |                   |
-           | persona     | der Mensch        | die Menschen
-           | cactus      | der Kaktus        | die Kaktusse, 
-           |             |                   | die Kakteen
-           |             | der Song          | 
+ IPA          | TRANSLATE  |  SINGOLARE         | PLURALE
+--------------|------------|--------------------|----------
+                            | Mann              | Männer
+                            | Junge             | Jungen
+                            | Apfel             | Äpfel
+                            | Tag               |
+                            | Der Hund          |
+              | La sera     | Der Abend         |           
+                            | Der Morgen        |         
+                            | Der Tag           |
+                            | Der Saft          | Die Säfte
+              |             | Der Kaffee        | Die Kaffees
+ /[ʃ]uhe/     |             | Der Schuh         | Die Schuhe
+              |             | Der Verb
+              |             | Der Wein
+ /zin/        | Il senso    | Der Sinn          | Die Sinne
+ /kraç/       | noise       | Der Krach         | -
+ /kvatʃ/      | nonsense/   |                   |
+              | stupidagini | der Quatsch       | -
+ /ʁɛgan/      | pioggia     | der Regen         | die Regen
+              |             | der ticketautomat | die ticketautomaten
+/zuk/         |             |                   |
+/Zyːghe/      | train       | der Zug           | die Züge
+/hongaʁ/      | fame/hunger | der Hunger        | - 
+/hammaʁ/      | awesome     | der Hammer        | die Hämmer
+              | piazza      |                   |
+              | posto/luogo | der Platz         | die Plätze /plɛtze/
+              | amico/amici |                   |
+/frɔynde/     | fidanzato   | der Freund        | die Freunde
+/man[tʃ]/     | individuo/  |                   |
+              | persona     | der Mensch        | die Menschen
+              | cactus      | der Kaktus        | die Kaktusse, 
+              |             |                   | die Kakteen
+              |             | der Song          | 
+/Baum -       |             |                   |
+Bɔyme/        | tree        | der Baum          | die Bäume
+/gheburtstag/ | birthday    | der Geburtstag    | die Geburtstage
+
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -85,6 +89,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /n[oi]i[gl|ʃ]k[ai]/t | notizia/novità  | die Neuigkeit        | die Neuigkeiten
 /[oi]le/             | owl/gufo        | die Eule             | die Eulen            
 /Haus'aufgabe/       | compiti         | die Hausaufgabe      | die Hausaufgaben
+/[v]o[ç]e/           | week            | die Woche            | die Wochen
 
 
 ==================================================
@@ -96,7 +101,7 @@ NEUTRUM/NEUTRO
 -----------|----------|-----------------|--------------
                       | Mädchen         | Mädchen
                       | Kind            | Kinder
-                      | das Wasser      |
+                      | das Wasser      | die Wässer
                       | Brot            |
  /buːç/    |          | Das Buch        | Die Bücher /byːçɐ/
                       | Stadtviertel    | 
@@ -111,7 +116,7 @@ NEUTRUM/NEUTRO
 /Ghetrɛ:nk/| Drink    | Das Getränk     |
 /g'haime/  | Secret   | Das Geheime     | -
            |          | Das Wiedersehen |
-/styːkien/ | bit/poco | das Stückchen   | -          
+/styːkien/ | bit/poco | das Stückchen   | Die Stückchen         
            |          | das problem     | Die Probleme /pʁoblema/
  /end/     | the end  | das Ende        | Die Enden
            |          | das Foto        | Die Fotos
@@ -126,6 +131,8 @@ NEUTRUM/NEUTRO
            |          | das Tattoo      | die Tattoos
            |          | das Skateboard  |
 /k[yː]sen/ | baciare  | das Küssen      |
+           | bike     | das Fahrrad     | die Fahrräder
+
 
 ##################################################
 ==================================================

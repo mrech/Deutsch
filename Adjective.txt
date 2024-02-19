@@ -75,6 +75,15 @@ This follows for the neuter and feminine genders as well.
  NEUTRO        | -es        | Gutes Brot
  PLURALE       | -e         | Gute Äpfel
 
+
+ Nächste /N[ɛ:ʃ]ste/: next
+
+E.G.:
+Willst du nächst-E Woche (F) zurück nach Deutschland fahren?.
+Vuoi tornare in Germania la prossima settimana?
+Would you came back to Germany next week?
+----------
+
 E.G.: 
 Ich habe eine gute neuigkeit.: I have good news.
 Wir haben eine kleine Wohnung: We have a small apartment.

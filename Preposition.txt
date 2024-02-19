@@ -17,17 +17,20 @@ außer        | besides
 bei          | by, at, near     
 gegenüber    | opposite     
 mit          | with
-nach         | after, to
+nach /na[ç]/ | after, to, toward
 seit         | since
 von  /fon/   | from, of
 zu           | to
 
 E.G.: 
-Mit der Bahn fahren wir.
-We're going by train.
+Mit der Bahn fahren wir.: We're going by train.
+Willst du nächste Woche zurück nach Deutschland fahren?:
+Vuoi tornare in Germania la prossima settimana?
+Would you came back to Germany next week?
+
 
 E.G.:
- Das Hotel ist dem Bahnhof gegenüber.
+Das Hotel ist dem Bahnhof gegenüber.
 The hotel is across from the train station.
 
 Some prepositions can be merged with the article to make one word:

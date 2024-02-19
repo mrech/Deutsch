@@ -39,6 +39,8 @@ Du teilst das essen mit deinen Freunden.:
 You share the food with your friends.
 Ihr sollt immer eure hausaufgaben machen.:
 Voi dovete fare sempre i vostri compiti.
+Er darf meinen Geburtstag nicht vergessen.:
+Lui non può permettersi di dimenticare il mio compleanno.
 
 
 ==================================================  

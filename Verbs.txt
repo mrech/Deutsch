@@ -569,8 +569,61 @@ Ihr       | versteck-T
 Sie       | versteck-EN  
 
 E.G.:
-TODO
+Wir sollen uns verstecken.: We should hide ourselves.
 
+
+==================================================
+KLETTERN //: to climb
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | kletter-E         
+Du        | kletter-ST    
+Er/Sie/Es | kletter-T     
+Wir       | kletter-EN    
+Ihr       | kletter-T
+Sie       | kletter-EN  
+
+E.G.:
+Ihr dürf nicht auf den Baum klettern.: 
+Non potete/avete il permesso di arrampicarvi sull'albero.
+
+
+==================================================
+RAUCHEN //: to smoke
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | rauch-E         
+Du        | rauch-ST    
+Er/Sie/Es | rauch-T     
+Wir       | rauch-EN    
+Ihr       | rauch-T
+Sie       | rauch-EN  
+
+E.G.:
+Ihr dürf nicht auf den Baum klettern.: 
+Non potete/avete il permesso di arrampicarvi sull'albero.
+
+
+==================================================
+VERGESSEN /[f]ergessen/: to forget
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | vergess-E         
+Du        | vergess-ST    
+Er/Sie/Es | vergess-T     
+Wir       | vergess-EN    
+Ihr       | vergess-T
+Sie       | vergess-EN  
+
+E.G.:
+Er darf meinen Geburtstag nicht vergessen.:
+Non può dimenticarsi del mio compleanno. 
 
 
 ==================================================
@@ -795,7 +848,7 @@ necessity:
  PRONOUN  | VERB         
 ----------| -------------
 Ich       | muss
-Du        | muss-ST          
+Du        | mus-ST          
 Er/Sie/Es | muss        
 Wir       | müss-EN          
 Ihr       | müss-T          
