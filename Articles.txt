@@ -21,7 +21,7 @@ generally known or already mentioned.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | den Hund        
 
 
 ==================================================
@@ -35,7 +35,7 @@ generally known or already mentioned.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | die Katze        
 
 
 ==================================================
@@ -49,7 +49,7 @@ generally known or already mentioned.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | das Haus          
 
 
 ==================================================
@@ -63,7 +63,7 @@ generally known or already mentioned.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | die Leute        
 
 
 ##################################################
@@ -87,7 +87,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | einen Hund         
 
 
 ==================================================
@@ -101,7 +101,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | eine Katze          
 
 
 ==================================================
@@ -115,7 +115,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  DATIVE        |         
 ---------------|------------
- ACCUSATIVE    |         
+ ACCUSATIVE*   | ein Haus        
 
 
 
@@ -203,8 +203,21 @@ E.G.:
 Das sind keine Bücher
 
 
+NOTE:
+--------------------------------------------------
+*The accusative case is the fourth German case. 
+It is used with certain prepositions as well as with the majority of verbs, 
+e.g. haben (to have). The accusative is used for the direct object. 
+The direct object is the object/person which is used for the action, 
+it does not perform any action itself. 
+You ask for the direct object with Wen oder was? (Who? or What?).
 
+E.G.:
+Ich mache den Fernseher aus.: I turn off the TV.
+The prepositions um, durch, ohne, für and gegen always require the accusative.
 
+Example:
+Ich fahre durch die Stadt.: I drive through the city.
 
 
 
