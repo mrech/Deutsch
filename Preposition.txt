@@ -82,15 +82,24 @@ Sie sind Freunde fürs Leben.: They are friends for life.
 TWO-WAY PREPOSITION
 ==================================================  
 If the verb is describing motion from one place to another, 
-the preposition will take the accusative case. 
+the preposition will take the ACCUSATIVE case. 
 
 E.G.:
-
+Ich setze mich auf einen Stuhl.: 
+I sit myself down on a chair. 
+----------
+Ich gehe in den Wald.:
+I go to the forest
 
 If the verb is describing a location or movement within a certain location, 
-the preposition will be dative. 
+the preposition will be DATIVE. 
 
 E.G.:
+Ich sitze auf einem Stuhl.:
+I am sitting on a chair.
+----------
+Ich gehe in dem Wald.: 
+I go in the forest.
 
 
 Two-way prepositions are below:
