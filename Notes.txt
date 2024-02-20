@@ -30,6 +30,12 @@ Willkommen: benvenuto
 
 
 ==================================================
+COLOURS
+==================================================
+schwarz /ʃvarz/: black
+
+
+==================================================
 MOTIVATIONAL SENTENCES
 ==================================================
 Du bist der Hammer!: You are awesome!
@@ -62,7 +68,11 @@ Polen: Polonia
 Berliner /berlI'naʁ/: berlinese
 Kalt: cold
 Neu /nɔy/: new
+----------
 Sicher /zikar/: sure
+E.G.:
+Ich bin nicht sicher.: Non ne sono certo.
+----------
 Da: there
 Nein /nain/: no
 Gücklich /gykliʃ/: happy
@@ -104,4 +114,12 @@ Would you came back to Germany next week?
 Hier: Here
 Hier, darf Tori ihr Fahrrad parken.
 Qui Tori ha il permesso di parcheggiare la sua bicicletta.
+----------
+Beruflich: jobwise|professionally|vocationally
+E.G.:
+Ein Popstar singt beruflich.: A pop star sign professionally
+----------
+Debei: thereby
+Man kann meditieren und sich dabei entspannen.:
+You can meditate and thereby relax.
 ----------

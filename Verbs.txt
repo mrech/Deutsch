@@ -419,7 +419,7 @@ E.G.:
 
 
 ==================================================
-SUCHEN /zuken/: to search
+SUCHEN /zuken/: to search|cercare
 ==================================================
 
           | PRESENT TENSE

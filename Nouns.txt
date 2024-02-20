@@ -2,8 +2,8 @@
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA          | TRANSLATE  |  SINGOLARE         | PLURALE
---------------|------------|--------------------|----------
+ IPA           | TRANSLATE  |  SINGOLARE         | PLURALE
+---------------|------------|--------------------|----------
                             | Mann              | Männer
                             | Junge             | Jungen
                             | Apfel             | Äpfel
@@ -90,6 +90,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /[oi]le/             | owl/gufo        | die Eule             | die Eulen            
 /Haus'aufgabe/       | compiti         | die Hausaufgabe      | die Hausaufgaben
 /[v]o[ç]e/           | week            | die Woche            | die Wochen
+//                   | idea            | die Ahnung           | die Ahnungen
 
 
 ==================================================
@@ -132,6 +133,8 @@ NEUTRUM/NEUTRO
            |          | das Skateboard  |
 /k[yː]sen/ | baciare  | das Küssen      |
            | bike     | das Fahrrad     | die Fahrräder
+           |          | das Modalverb   | die Modalverben
+           | animal   | das Tier        | die Tiere
 
 
 ##################################################

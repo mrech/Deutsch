@@ -71,9 +71,9 @@ Das sind Mädchen: Quelle sono ragazze
 DEMONSTRATIVE PRONOUN, ACCUSATIVE CASE*
 ==================================================  
 --------------------------------------------------
-> SOLCHE /zogl[ʃ]e/: such 
+> SOLCH /zogl[ʃ]/: such 
 --------------------------------------------------
-E.G.: Hast du auch solche probleme?: Hai anche tu problemi del genere?
+E.G.: Hast du auch solche (ACC.) probleme (P)?: Hai anche tu problemi del genere?
 Have you also such problems?
 
 
@@ -187,7 +187,7 @@ IPA     | PERSONAL  | REFLEXIVE  |
         | Er/Sie/Es | sich       | hiself/herself/itself
         | Wir       | uns        | ourselves
 /[oi]ʃ/ | Ihr       | euch       | yourselves     
-        | sie/Sie   | sich       | themselves   
+/ziçʃ/  | sie/Sie   | sich       | themselves   
 
 E.G.:
 Wir können uns entspannen.: Possiamo rilassarci.

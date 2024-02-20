@@ -3,7 +3,7 @@ Wer?: Who?/Chi?
 Wen?: Who?
 --------------------------------------------------
 E.G.: 
-Wer bist du?: Who are you?
+Wer bist du?: Who are you? | chi sei tu?
 
 
 --------------------------------------------------
@@ -11,32 +11,38 @@ Woher?: Where from?/Da dove?
 --------------------------------------------------
 E.G.:
 Wo kommst du her?: Where are you from?
-Ich k
+
 
 --------------------------------------------------
 Wo?: Where?/Dove?
 --------------------------------------------------
 E.G.: 
-Wo kommest du her?
 Wo können wir ein ticket kaufen?: Dove possiamo comprare un biglietto
+Wor kann man klettern?: Dove può uno arrampicarsi?
+
 
 --------------------------------------------------
-Wie?: What?/Come?
+Wie?: Come?
 --------------------------------------------------
-E.G.: Wie heiße ich?
-
+E.G.: 
+Wie heiße ich?: Come mi chiamo?
+Wie kann man sich entspannen? come si può rilassarsi?
 
 --------------------------------------------------
 Was?: What?/Cosa?
 --------------------------------------------------
 E.G.:
-Was hast du?: What do you have?
+Was hast du?: What do you have? | Cos'hai?
+Was macht ein Popostar beruflich?: cosa fa una pop star professionalmente?
+Was kann man trinken und ist schwarz? Cosa può uno bere che è nero?
+Was darf Janusz nicht vergessen?: Cosa non deve dimenticare Janusz?
 
 
 --------------------------------------------------
 Wann?: quando?
 --------------------------------------------------
-E.G.: Wann habt ihr Urlaub? When do you have vacation.
+E.G.: 
+Wann habt ihr Urlaub? When do you have vacation.
 
 
 --------------------------------------------------
@@ -44,3 +50,11 @@ Warum?: perchè? why?
 --------------------------------------------------
 E.G.: 
 Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?
+
+
+--------------------------------------------------
+Welches?: Which?|Quale?
+--------------------------------------------------
+E.G.: 
+Welches Tier macht "Uhuhu"?: Quale animale fa "Uhuhu"?
+Welches ist ein Modalverb? Qual'è un verbo modale?
