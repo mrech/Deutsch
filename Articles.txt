@@ -10,6 +10,10 @@ The definite articles der, die and das (the) appear
 together with nouns and are used when speaking of something definite, 
 generally known or already mentioned.
 
+In English, the definite article “the” only has one form. 
+However, in German, the definite article changes depending 
+on the gender and case of the noun it's attached to.
+
 ==================================================
  MASCULINE
 ==================================================  
@@ -19,7 +23,7 @@ generally known or already mentioned.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      | dem Hund        
 ---------------|------------
  ACCUSATIVE*   | den Hund        
 
@@ -33,7 +37,8 @@ generally known or already mentioned.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      | der Katze: Ich gebe der Katze die piazza.:
+               |            I give the pizza to the cat.
 ---------------|------------
  ACCUSATIVE*   | die Katze        
 
@@ -47,7 +52,7 @@ generally known or already mentioned.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      | dem Haus:         
 ---------------|------------
  ACCUSATIVE*   | das Haus          
 
@@ -61,7 +66,7 @@ generally known or already mentioned.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      | den Leute        
 ---------------|------------
  ACCUSATIVE*   | die Leute        
 
@@ -85,7 +90,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      | einem Hund        
 ---------------|------------
  ACCUSATIVE*   | einen Hund         
 
@@ -99,7 +104,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      |         
 ---------------|------------
  ACCUSATIVE*   | eine Katze          
 
@@ -113,7 +118,7 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE        |         
+ DATIVE**      |         
 ---------------|------------
  ACCUSATIVE*   | ein Haus        
 
@@ -205,7 +210,7 @@ Das sind keine Bücher
 
 NOTE:
 --------------------------------------------------
-*The accusative case is the fourth German case. 
+*The ACCUSATIVE CASE is the fourth German case. 
 It is used with certain prepositions as well as with the majority of verbs, 
 e.g. haben (to have). The accusative is used for the direct object. 
 The direct object is the object/person which is used for the action, 
@@ -219,7 +224,16 @@ The prepositions um, durch, ohne, für and gegen always require the accusative.
 Example:
 Ich fahre durch die Stadt.: I drive through the city.
 
+** The DATIVE CASE refers to someone or something that is affected by the 
+action of a verb, but is not the primary object.
+(In English it answers the questions TO WHOM|TO WHAT?)
 
+E.G.: 
+Ich gebe dem Mann das Buch.
+I give the man the book.|I give the book TO THE man.
+
+The primary object is the book, and the person affected is "him", 
+so it is the dative case.
 
 
 
