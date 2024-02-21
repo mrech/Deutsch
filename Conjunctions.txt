@@ -8,10 +8,15 @@ IPA        | CONJUNCTIONS | TRANSLATION
            | denn         | because
            | und          | and
 /od[aʁ]/   | oder         | or
-           | aber         | but
+/ab[aʁ]/   | aber         | but
            | doch         | but
            | sondern      | but rather
 
 
 E.G.:
 Ich höre Cari und Ana
+-----------
+Aber sie will auch nicht rausgehen.: 
+But, she also doesn't want to go out.
+Ma lei non vuole neanche uscire. 
+-----------

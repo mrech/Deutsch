@@ -2,8 +2,8 @@
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA           | TRANSLATE  |  SINGOLARE         | PLURALE
----------------|------------|--------------------|----------
+ IPA           | TRANSLATE  |  SINGOLARE        | PLURALE
+---------------|------------|-------------------|----------
                             | Mann              | Männer
                             | Junge             | Jungen
                             | Apfel             | Äpfel
@@ -39,6 +39,8 @@ MASKULINUM/MASCHILE
 /Baum -       |             |                   |
 Bɔyme/        | tree        | der Baum          | die Bäume
 /gheburtstag/ | birthday    | der Geburtstag    | die Geburtstage
+/spa[s]       |             |                   |
+sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
 
 
 ==================================================
@@ -91,7 +93,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /Haus'aufgabe/       | compiti         | die Hausaufgabe      | die Hausaufgaben
 /[v]o[ç]e/           | week            | die Woche            | die Wochen
 //                   | idea            | die Ahnung           | die Ahnungen
-
+                     | people          | die Leute            | die Leute
 
 ==================================================
 NEUTRUM/NEUTRO
@@ -103,7 +105,7 @@ NEUTRUM/NEUTRO
                       | Mädchen         | Mädchen
                       | Kind            | Kinder
                       | das Wasser      | die Wässer
-                      | Brot            |
+                      | das Brot        | die Brote
  /buːç/    |          | Das Buch        | Die Bücher /byːçɐ/
                       | Stadtviertel    | 
                       | Wort            | Worte

@@ -5,7 +5,6 @@ Wer bist du?: who are you?
 Ich heiße Morena
 Ich bin Morena
 Wie heiße ich?: what's my name?
-
 --------------------------------------------------
 Wo kommst du her?: Where are you from?
 Ich komme aus Verona.
@@ -80,6 +79,7 @@ weg /vek/: gone
 immer /immaʁ/: always
 immer noch /immaʁ noç/: still
 noch etwas /noç etvas/: some more
+oft: often
 nass: wet > Der Regen ist nass
 laut: loud
 schlecht /ʃleckt/: bad 
@@ -87,13 +87,16 @@ zusammen /zuzammen/: together
 matchmal /man[ç]mal: a volte/talora/talvolta | sometimes
 alleine /all[ai]ne/: alone
 zeit /z[ai]t/: tempo
-E.G.: Habt ihr heute Zeit? Avete tempo oggi?
+E.G.: 
+Habt ihr heute Zeit? Avete tempo oggi?
 ----------
 Ahnung /Ahn[ʊ]ng/: Idea
-E.G.: Du hast keine Ahnung!: Non hai idea!
+E.G.: 
+Du hast keine Ahnung!: Non hai idea!
 ----------
 Lichter: lights
-E.G.: Der kaktus hat lichter
+E.G.: 
+Der kaktus hat lichter
 ----------
 Urlaub: vacation
 E.G.: Wenn habt ihr Urlaub?
@@ -105,13 +108,13 @@ Sehr gut gemacht.: Molto ben fatto.
 ----------
 zurück //: back
 zurück nach //: back to
-----------
 E.G.:
 Willst du nächste Woche zurück nach Deutschland fahren?.
 Vuoi tornare in Germania la prossima settimana?
 Would you came back to Germany next week?
 ----------
 Hier: Here
+E.G.:
 Hier, darf Tori ihr Fahrrad parken.
 Qui Tori ha il permesso di parcheggiare la sua bicicletta.
 ----------
@@ -120,6 +123,7 @@ E.G.:
 Ein Popstar singt beruflich.: A pop star sign professionally
 ----------
 Debei: thereby
+E.G.:
 Man kann meditieren und sich dabei entspannen.:
 You can meditate and thereby relax.
 ----------
