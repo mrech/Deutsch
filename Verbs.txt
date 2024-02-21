@@ -1,3 +1,16 @@
+CONTENT:
+^^^^^^^^
+> IRREGULAR VERB
+    - Stem-changing (e -> i)
+    - Stem-changing (a -> ä)
+> REGULAR VERB
+> SEPARABLE VERB
+> PAST PARTICIPLE
+> MODAL VERB
+    - SUBJUNCTIVE II
+> IRREGULAR VERBS. SPECIAL CASES
+
+
 ##################################################
 ################# IRREGULAR VERB #################
 ##################################################
@@ -50,40 +63,6 @@ Ich habe dich lieb: I love you.
 
 
 ==================================================
-SPRECHEN: parlare|speak | Stem-changing (e -> i)
-==================================================
-
-          | PRÄSENS   
-----------| ---------- 
-Ich       | sprech-E     
-Du        | sprIch-ST     
-Er/Sie/Es | sprIch-T    
-Wir       | sprech-EN     
-Ihr       | sprech-T     
-Sie       | sprech-EN   
-
-E.G.: 
-Du sprichst fließend Deutsch!: You speak german fluently
-
-
-==================================================
-TRAGEN: to carry, to wear | Stem-changing (a -> ä)
-==================================================
-
-          | PRÄSENS   
-----------| ---------- 
-Ich       | trag-E    /trage/
-Du        | trÄg-ST   /trɛgst/       
-Er/Sie/Es | trÄg-T    /trɛgt/       
-Wir       | trag-EN          
-Ihr       | trag-T          
-Sie       | trag-EN 
-
-E.G.: Ich trage ein T-Shirt. 
-Eine jacke trägt man: una giacca si indossa
-
-
-==================================================
 ESSEN: mangiare
 ==================================================
 
@@ -132,8 +111,29 @@ E.G.: Weißt du noch, als du kein Deutsch konntest?:
 Do you still remember when you could not speak German?
 
 
+##################################################
+Stem-changing (e -> i)
+##################################################
+
 ==================================================
-WERDEN: become / get | Stem-changing (e -> i)
+SPRECHEN: parlare|speak | 
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | sprech-E     
+Du        | sprIch-ST     
+Er/Sie/Es | sprIch-T    
+Wir       | sprech-EN     
+Ihr       | sprech-T     
+Sie       | sprech-EN   
+
+E.G.: 
+Du sprichst fließend Deutsch!: You speak german fluently
+
+
+==================================================
+WERDEN: become / get 
 ==================================================
 
           | PRÄSENS   
@@ -149,24 +149,7 @@ E.G.: Du wirst immer besser!: You get getting better and better!
 
 
 ==================================================
-FAHREN: to drive | Stem-changing (a -> ä)
-==================================================
-
- PRONOUN  | PRÄSENS   
-----------| ---------- 
-Ich       | fahr-E 
-Du        | fÄhr-ST          
-Er/Sie/Es | fÄhr-T     /fɛ:ɐt/      
-Wir       | fahr-EN          
-Ihr       | fahr-T           
-Sie       | fahr-EN      
-
-E.G.:
-Der Zuk fährt ohne uns: il treno se ne va senza di noi
-
-
-==================================================
-GEBEN: to give | Stem-changing (e -> i)
+GEBEN: to give 
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -186,7 +169,7 @@ Es gibt keine platz
 
 
 ==================================================
-NEHMEN: to take | Stem-changing (e -> i)
+NEHMEN: to take 
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -199,6 +182,63 @@ Ihr       | nehm-T
 Sie       | nehm-EN      
 
 E.G.:
+TODO
+
+##################################################
+Stem-changing (a -> ä)
+##################################################
+
+==================================================
+TRAGEN: to carry, to wear
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | trag-E    /trage/
+Du        | trÄg-ST   /trɛgst/       
+Er/Sie/Es | trÄg-T    /trɛgt/       
+Wir       | trag-EN          
+Ihr       | trag-T          
+Sie       | trag-EN 
+
+E.G.: Ich trage ein T-Shirt. 
+Eine jacke trägt man: una giacca si indossa
+
+
+==================================================
+FAHREN: to drive | andare (con un veicolo) 
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | fahr-E 
+Du        | fÄhr-ST          
+Er/Sie/Es | fÄhr-T     /fɛ:ɐt/      
+Wir       | fahr-EN          
+Ihr       | fahr-T           
+Sie       | fahr-EN      
+
+E.G.:
+Der Zuk fährt ohne uns: il treno se ne va senza di noi
+
+
+==================================================
+LAUFEN: to run | correre | Stem-changing (a -> ä)
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | lauf-E    /laufe/
+Du        | lÄuf-ST   /lɛufst/       
+Er/Sie/Es | lÄuf-T    /lɛuft/       
+Wir       | lauf-EN          
+Ihr       | lauf-T          
+Sie       | lauf-EN 
+
+E.G.:
+Sie kann nicht laufen.: she can 't run. 
+
+
 
 
 
@@ -295,6 +335,7 @@ Ich höre Cari und Ana
 Ihr hört mich nicht: voi non mi sentite | you don't hear me (ACCUSATIVE CASE)
 Du hörst mir nicht zu: tu non mi ascolti (DATIVE CASE)
 Er hört nichts: Lui non sente nulla
+Im Radio hört man Musik
 
 
 ==================================================
@@ -312,22 +353,6 @@ Sie       | sag-EN  |
 
 E.G.: 
 Es sagt mir nichts: Non mi dice nulla
-
-
-==================================================
-KENNENLERNEN: to know|conoscere
-==================================================
-
- PRONOUN  | PRÄSENS   
-----------| ---------- 
-Ich       | lern-E kennen 
-Du        | lern-ST kennen          
-Er/Sie/Es | lern-T kennen          
-Wir       | lern-EN kennen          
-Ihr       | lern-T kennen          
-
-E.G.:
-Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
 
 
 ==================================================
@@ -382,6 +407,7 @@ Ihr       | glaub-T
 Sie       | glaub-EN          
 
 E.G.: 
+TODO
 
 
 
@@ -399,7 +425,7 @@ Ihr       | besuch-T
 Sie       | besuch-EN          
 
 E.G.: 
-
+TODO
 
 
 ==================================================
@@ -416,7 +442,7 @@ Ihr       | wiederhol-T
 Sie       | wiederhol-EN          
 
 E.G.: 
-
+TODO
 
 ==================================================
 SUCHEN /zuken/: to search|cercare
@@ -692,22 +718,55 @@ be-, emp-, ent-, er-, ge-, ver- and zer-
 
 
 ==================================================
-ZUHÖREN: rispondere 
+ZUHÖREN: ascoltare
 ==================================================
 
           | PRÄSENS   
 ----------|-----------
-Ich       | höre zu   
-Du        | hörst zu      
-Er/Sie/Es | hört zu     
-Wir       | hören zu     
-Ihr       | hört zu     
-Sie       | hören zu   
+Ich       | hör-E zu   
+Du        | hör-ST zu      
+Er/Sie/Es | hör-T zu     
+Wir       | hör-EN zu     
+Ihr       | hör-T zu     
+Sie       | hör-EN zu   
 
 E.G.:
-Du hörst mir nicht zu: tu non mi ascolti
-Im Radio hört man Musik
+Du hörst mir nicht zu: 
+tu non mi stai ascoltando | You're not listening to me.
 
+
+==================================================
+RAUSGEHEN: to leave - to go out|uscire 
+==================================================
+
+          | PRÄSENS   
+----------|-----------
+Ich       | geh-E raus   
+Du        | geh-ST raus        
+Er/Sie/Es | geh-T raus        
+Wir       | geh-EN raus       
+Ihr       | geh-T raus      
+Sie       | geh-EN raus    
+
+E.G.:
+Aber Sie will auch nicht rausgehen.
+But, she also doesn't want to go out.
+Ma lei non vuole neanche uscire. 
+
+==================================================
+KENNENLERNEN: to know|conoscere
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | lern-E kennen 
+Du        | lern-ST kennen          
+Er/Sie/Es | lern-T kennen          
+Wir       | lern-EN kennen          
+Ihr       | lern-T kennen          
+
+E.G.:
+Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
 
 
 ##################################################
@@ -791,7 +850,8 @@ Ich kann eine Eule sein.: io so fare il gufo.
 Du kannst Skateboard fahren.: Tu sai andare sullo Skateboard.
 Weißt du noch, als du kein Deutsch konntest?: 
 Do you still remember when you could not speak German? 
-
+Sie können das nicht.: They can't
+Er kann kein-E Gitarre (F) spielen.: He can't play the guitar.
 
 ==================================================
 WOLLEN /volen/: to want to
@@ -923,9 +983,11 @@ Sometimes Marina would like to live alone.
 
 
 ##################################################
-IRREGULAR VERBS. SPECIAL CASES
+######### IRREGULAR VERBS. SPECIAL CASES #########
 ##################################################
-There are verbs that are not conjugated in any particular pattern, such as.
+
+There are verbs that are not conjugated in any particular pattern, 
+such as:
 
 > mögen (to like)
 > wissen (to know)
