@@ -7,3 +7,18 @@ auch /a[ʊç]/: pure/anche | also
 E.G.:
 Ich habe auch viel Glück: Anch'io ho molta fortuna.
 ----------
+
+
+==================================================
+SENTENCE ADVERBS
+==================================================  
+In German, some adverbs are made of a preposition and a noun, 
+such as zu Hause (at home) or zum Glück (luckily). 
+
+They are called "sentence adverbs" and treated like a single word.
+
+E.G.:
+zu Hause: at home
+Emma hat kein Brot zu Hause.: 
+Emma has no bread at home.
+----------
