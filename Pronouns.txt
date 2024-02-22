@@ -1,119 +1,22 @@
-==================================================
-POSSESSIVE PRONOUN, ACCUSATIVE CASE**
-==================================================  
-
-Possessive Pronoun (Dependent)
---------------------------------------------------
-Possessive pronouns that come directly before a noun are considered 
-dependent because they take the gender, case, and number of the nouns they modify. 
-
-They are listed below:
-
-IPA        | PRONOUN    | TRANSLATION  
------------|------------|-------------
-/m[ai]n/   | mein       | my
-/d[ai]n/   | dein       | your (informal)
-           | ihr        | your (formal)
-/[zai]n/   | sein       | his
-           | ihr        | her
-/[zai]n/   | sein       | its
-           | unser      | our
-/[oi]er/   | euer       | your (informal plural)     
-           | ihr        | their   
+CONTENT:
+^^^^^^^^
+> PERSONAL PRONOUNS
+    - Accusative Case
+    - Dative Case
+> POSSESSIVE PRONOUNS, ACCUSATIVE CASE
+> INDEFINITE PRONOUNS
+> REFLEXIVE PRONOUNS, ACCUSATIVE CASE
+> DEMONSTRATIVE PRONOUNS
 
 
-Declensions - Accusative
---------------------------------------------------
- Gender     | Ending  | Example
-------------|---------|--------------
- MASCULINE  | -en     | meinen Hund  
-------------|---------|--------------
- FEMININE   | -e      | meine Frau
-------------|---------|--------------
- NEUTER     |         | mein Baby
-------------|---------|--------------
- PLURAL     | -e      | meine Äpfel
 
-E.G.:
-Du teilst das essen mit deinen Freunden.:
-You share the food with your friends.
-Ihr sollt immer eure hausaufgaben machen.:
-Voi dovete fare sempre i vostri compiti.
-Er darf meinen Geburtstag nicht vergessen.:
-Lui non può permettersi di dimenticare il mio compleanno.
-
-
-==================================================  
-INDEFINITE PRONOUN, NOMINATIVE CASE
-==================================================  
-Indefinite pronouns are used in order to speak about 
-something unspecific or indefinite.
-
-Viel /fiel/: molto
---------------------------------------------------
-E.G.:
-In Marinas Wonung gibt es viel Platz.
-
-Viele /file/: molte
-Etwas: something
-man: si (pron.) / one (pron.)
-Jemand:
-Nichts: nothing
-
-
-====================
-PRONOME DIMOSTRATIVO: Das + SEIN
-====================
-Das ist gut: va bene
-Das ist ein mann: quello è un uomo
-Das sind Mädchen: Quelle sono ragazze
-==================================================
-DEMONSTRATIVE PRONOUN, ACCUSATIVE CASE*
-==================================================  
---------------------------------------------------
-> SOLCH /zogl[ʃ]/: such 
---------------------------------------------------
-E.G.: Hast du auch solche (ACC.) probleme (P)?: Hai anche tu problemi del genere?
-Have you also such problems?
-
+##################################################
+PERSONAL PRONOUNS
+##################################################
 
 ==================================================
-PRONOUN, NOMINATIVE CASE*
+PERSONAL PRONOUNS: Accusative Case**
 ==================================================
-Declensions generally depend upon the type of pronoun being used.
-
---------------------------------------------------
-> ALLES: all
---------------------------------------------------
-E.G.: 
-Es macht alles keinen Sienn: Tutto questo non ha senso | it doesn't make any sense
-
-
-
-==================================================
-ACCUSATIVE CASE*
-==================================================  
---------------------------------------------------
-> DAS: that
---------------------------------------------------
-E.G.: Du machst das richtig gut heute.
-
---------------------------------------------------
-> ETWAS: something
---------------------------------------------------
-E.G.: Wir trinken etwas
-
---------------------------------------------------
-> NICHTS: nothing
---------------------------------------------------
-E.G.: Sie trinken nichts
-
-
-
-
-==================================================
-PERSONAL PRONOUN, ACCUSATIVE CASE**
-==================================================  
 
 IPA        | PRONOUN    | TRANSLATION  
 -----------|------------|-------------
@@ -131,21 +34,12 @@ IPA        | PRONOUN    | TRANSLATION
 E.G.:
 Hast du Klaus gesehen? Nein, ich habe ihn nicht gesehen.
 Have you seen Klaus? No, I haven't seen him.
-
 Ihr hört mich nicht
- 
-==================================================
-DATIVE CASE***
-==================================================  
-
-               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
----------------|------------|------------|------------|------------
- ENDING        | -em        | -er        | -em        | -en
 
 
 ==================================================
-PERSONAL PRONOUN, DATIVE CASE***
-==================================================  
+PERSONAL PRONOUNS: Dative Case***
+================================================== 
 
 IPA        | PRONOUN    | TRANSLATION  
 -----------|------------|-------------
@@ -159,8 +53,6 @@ IPA        | PRONOUN    | TRANSLATION
 /[oi]ʃ/    | euch       | you all      
            | ihnen      | them   
 
-
-
 E.G.:
 Ich gebe ihm das Buch.: I gave him the book
 Ich gebe ihr ein Glas Bier.: I gave her a glass of beer
@@ -169,11 +61,99 @@ The primary object is [the book|a glass of beer],
 and the person affected is ["him"|"her"], 
 so it is the dative case.
 
-Du hörst mir nicht zu: Tu non mi ascolti
+Du hörst mir nicht zu:
+Tu ascolti niente da me | You don't listen to me.
 
-==================================================
+
+
+##################################################
+POSSESSIVE PRONOUN, ACCUSATIVE CASE**
+##################################################
+
+Possessive Pronoun (Dependent)
+--------------------------------------------------
+Possessive pronouns that come directly before a noun are considered 
+dependent because they take the gender, case, and number of the nouns 
+they modify. 
+
+They are listed below:
+
+IPA        | PRONOUN    | TRANSLATION  
+-----------|------------|-------------
+/m[ai]n/   | mein       | my
+/d[ai]n/   | dein       | your (informal)
+           | ihr        | your (formal)
+/[zai]n/   | sein       | his
+           | ihr        | her
+/[zai]n/   | sein       | its
+           | unser      | our
+/[oi]er/   | euer       | your (informal plural)     
+           | ihr        | their   
+
+
+DECLENSIONS - ACCUSATIVE
+--------------------------------------------------
+ Gender     | Ending  | Example
+------------|---------|--------------
+ MASCULINE  | -en     | meinen Hund  
+------------|---------|--------------
+ FEMININE   | -e      | meine Frau
+------------|---------|--------------
+ NEUTER     |         | mein Baby
+------------|---------|--------------
+ PLURAL     | -e      | meine Äpfel
+
+
+E.G.:
+Du teilst das essen mit deinen Freunden.:
+You share the food with your friends.
+----------
+Ihr sollt immer eure hausaufgaben machen.:
+Voi dovete fare sempre i vostri compiti.
+----------
+Er darf meinen Geburtstag nicht vergessen.:
+Lui non può permettersi di dimenticare il mio compleanno.
+----------
+Sie mögen ihr-E (P) Nachbarn (P).: 
+A loro piacciono i propri vicini. 
+----------
+
+
+
+##################################################
+INDEFINITE PRONOUN
+##################################################
+
+Indefinite pronouns are used in order to speak about 
+something unspecific or indefinite.
+
+> Viel|Viele /fiel|file/: molto|molte
+    E.G.:
+    In Marinas Wonung gibt es viel Platz.
+----------
+> Etwas: something
+    E.G.: 
+    Wir trinken etwas
+----------
+> noch etwas /noç etvas/: some more
+> man: si (pron.) / one (pron.)
+> Jemand:
+> Nichts: nothing
+    E.G.: 
+    Sie trinken nichts
+----------
+> Alles: all
+    E.G.: 
+    Es macht alles keinen Sienn: 
+    Tutto questo non ha senso | it doesn't make any sense
+----------
+
+
+
+##################################################
 REFLEXIVE PRONOUNS, ACCUSATIVE CASE**
-==================================================  
+##################################################
+
 A reflexive pronoun is a pronoun that takes the accusative
 or dative case and refers back to the subject. 
 It is often used with reflexive versbs, which require reflexive
@@ -194,11 +174,28 @@ Wir können uns entspannen.: Possiamo rilassarci.
 Könnt ihr euch unsichtbar machen?: Siete capaci di rendervi invisibili?
 
 
-==================================================
-DEMONSTRATIVE PRONOUN, ACCUSATIVE CASE**
-==================================================  
-Demonstrative pronouns are used to point to something specific in a sentence 
-or to emphasize something (a person or a thing). 
+
+##################################################
+DEMONSTRATIVE PRONOUNS
+##################################################
+
+================================================== 
+DEMONSTRATIVE PRONOUNS: Das + SEIN
+================================================== 
+Das ist gut: va bene
+Das ist ein mann: quello è un uomo
+Das sind Mädchen: Quelle sono ragazze
+
+================================================== 
+DEMONSTRATIVE PRONOUNS: Accusative Case**
+================================================== 
+Demonstrative pronouns are used to point to something specific 
+in a sentence or to emphasize something (a person or a thing).
+
+> Solch /zogl[ʃ]/: such 
+    E.G.: Hast du auch solch-E (ACC.) probleme (P)?: 
+    Hai anche tu problemi del genere?
+    Have you also such problems?
 
 A demonstrative pronoun can replace a noun or function as an article. 
 When it is used instead of an article, it is called a DEMONSTRATIVE ARTICLE. 
@@ -218,6 +215,11 @@ WHEN THE PERSON OR THING IS DISTANT IN SPACE OR TIME:
 > jenes. 
 
 Most people say der, die, das.
+> Das: that
+    E.G.: 
+    Du machst das richtig gut heute.
+----------
+
 Also all German articles can be used as demonstrative pronoun. 
 
  GENDER     | DECLENSIONS  
@@ -253,3 +255,10 @@ be found by asking, "Who or what is performing this action?"
 ***: oggetto che subisce l'azione. 
 The dative case refers to someone or something that is affected by the 
 action of a verb, but is not the primary object. 
+==================================================
+DATIVE CASE
+==================================================  
+
+               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
+---------------|------------|------------|------------|------------
+ ENDING        | -em        | -er        | -em        | -en

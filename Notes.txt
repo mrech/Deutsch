@@ -10,6 +10,7 @@ Wo kommst du her?: Where are you from?
 Ich komme aus Verona.
 Ich bin Veronerin.
 
+
 ==================================================
 GREETINGS: DIE BEGRÜßUNG
 ==================================================
@@ -60,70 +61,55 @@ Nicht Schlecht: Niente male!
 ==================================================
 NEW WORDS
 ==================================================
-Schüchtern /ʃyːʃktern/: shy
-Lieb /lib/: lovely
-Mexikaner: Messican
-Polen: Polonia
-Berliner /berlI'naʁ/: berlinese
-Kalt: cold
-Neu /nɔy/: new
+> Mexikaner: Messican
+> Polen: Polonia
+> Berliner /berlI'naʁ/: berlinese
 ----------
-Sicher /zikar/: sure
-E.G.:
-Ich bin nicht sicher.: Non ne sono certo.
+> Sicher /zikar/: sure
+    E.G.:
+    Ich bin nicht sicher.: Non ne sono certo.
 ----------
-Da: there
-Nein /nain/: no
-Gücklich /gykliʃ/: happy
-weg /vek/: gone
-immer /immaʁ/: always
-immer noch /immaʁ noç/: still
-noch etwas /noç etvas/: some more
-oft: often
-nass: wet > Der Regen ist nass
-laut: loud
-schlecht /ʃleckt/: bad 
-zusammen /zuzammen/: together
-matchmal /man[ç]mal: a volte/talora/talvolta | sometimes
-alleine /all[ai]ne/: alone
-zeit /z[ai]t/: tempo
-E.G.: 
-Habt ihr heute Zeit? Avete tempo oggi?
+> Da: there
+> Nein /nain/: no
+> weg /vek/: gone
+> zusammen /zuzammen/: together
+> alleine /all[ai]ne/: alone
+> zeit /z[ai]t/: tempo
+    E.G.: 
+    Habt ihr heute Zeit? Avete tempo oggi?
 ----------
-Ahnung /Ahn[ʊ]ng/: Idea
-E.G.: 
-Du hast keine Ahnung!: Non hai idea!
+> Ahnung /Ahn[ʊ]ng/: Idea
+    E.G.: 
+    Du hast keine Ahnung!: Non hai idea!
 ----------
-Lichter: lights
-E.G.: 
-Der kaktus hat lichter
+> Lichter: lights
+    E.G.: 
+    Der kaktus hat lichter
 ----------
-Urlaub: vacation
-E.G.: Wenn habt ihr Urlaub?
+> Sehr /[Zehr]/: very
+    E.G.:
+    Sehr gut gemacht.: Molto ben fatto.
 ----------
-wirklich /virkli[ʃ]/: vero/veramente/really
+> Hier: Here
+    E.G.:
+    Hier, darf Tori ihr Fahrrad parken.
+    Qui Tori ha il permesso di parcheggiare la sua bicicletta.
 ----------
-Sehr /[Zehr]/: very
-Sehr gut gemacht.: Molto ben fatto.
+> Debei: thereby
+    E.G.:
+    Man kann meditieren und sich dabei entspannen.:
+    You can meditate and thereby relax.
 ----------
-zurück //: back
-zurück nach //: back to
-E.G.:
-Willst du nächste Woche zurück nach Deutschland fahren?.
-Vuoi tornare in Germania la prossima settimana?
-Would you came back to Germany next week?
+> Es mag sein: Può essere, Può darsi.
 ----------
-Hier: Here
-E.G.:
-Hier, darf Tori ihr Fahrrad parken.
-Qui Tori ha il permesso di parcheggiare la sua bicicletta.
+> Es gibt: there is | C'è
 ----------
-Beruflich: jobwise|professionally|vocationally
-E.G.:
-Ein Popstar singt beruflich.: A pop star sign professionally
-----------
-Debei: thereby
-E.G.:
-Man kann meditieren und sich dabei entspannen.:
-You can meditate and thereby relax.
-----------
+> Mehr /meh[ɐ]/: more
+    E.G.:
+    Es fährt nicht mehr.: Non va più. 
+---------
+>  Nächste /N[ɛ:ʃ]ste/: next
+    E.G.:
+    Willst du nächste Woche zurück nach Deutschland fahren?.
+    Vuoi tornare in Germania la prossima settimana?
+    Would you came back to Germany next week?

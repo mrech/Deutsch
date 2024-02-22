@@ -2,21 +2,21 @@
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA           | TRANSLATE  |  SINGOLARE        | PLURALE
----------------|------------|-------------------|----------
-                            | Mann              | Männer
-                            | Junge             | Jungen
-                            | Apfel             | Äpfel
-                            | Tag               |
-                            | Der Hund          |
+ IPA          | TRANSLATE   |  SINGOLARE        | PLURALE
+--------------|-------------|-------------------|----------
+              |             | Mann              | Männer
+              |             | Junge             | Jungen
+              |             | Apfel             | Äpfel
+              |             | Tag               |
+              |             | Der Hund          |
               | La sera     | Der Abend         |           
-                            | Der Morgen        |         
-                            | Der Tag           |
-                            | Der Saft          | Die Säfte
+              |             | Der Morgen        |         
+              |             | Der Tag           |
+              |             | Der Saft          | Die Säfte
               |             | Der Kaffee        | Die Kaffees
  /[ʃ]uhe/     |             | Der Schuh         | Die Schuhe
-              |             | Der Verb
-              |             | Der Wein
+              |             | Der Verb          |
+              |             | Der Wein          |
  /zin/        | Il senso    | Der Sinn          | Die Sinne
  /kraç/       | noise       | Der Krach         | -
  /kvatʃ/      | nonsense/   |                   |
@@ -41,6 +41,13 @@ Bɔyme/        | tree        | der Baum          | die Bäume
 /gheburtstag/ | birthday    | der Geburtstag    | die Geburtstage
 /spa[s]       |             |                   |
 sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
+/Na[ç]b[ɐ]/   | neighbors   | der Nachbar       | die Nachbarn
+              | letter/     |                   | 
+              | (mail)      | der Brief         |
+              | elevator/   |                   |
+/aufzu[k|g]/  | ascensore   | der Aufzug        | die Aufzüge
+              | vacation/   |                   |
+              | vacanza     | der Urlaub        | die Urlaube
 
 
 ==================================================
@@ -94,49 +101,60 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /[v]o[ç]e/           | week            | die Woche            | die Wochen
 //                   | idea            | die Ahnung           | die Ahnungen
                      | people          | die Leute            | die Leute
+                     |                 | die Pizza            | die Pizzen
+                     |                 | die Bank             | die Bank
+                     | corner          | die Ecke             | die Ecken
+                     | tram/metro      | die Straßenbahn      | die Straßenbahnen
+
+
 
 ==================================================
 NEUTRUM/NEUTRO
 ==================================================
 > Nouns starting with 'Ge-' such as das Getränk and das Geheime are neuter.
 
-           |          | SINGOLARE       | PLURALE
------------|----------|-----------------|--------------
-                      | Mädchen         | Mädchen
-                      | Kind            | Kinder
-                      | das Wasser      | die Wässer
-                      | das Brot        | die Brote
- /buːç/    |          | Das Buch        | Die Bücher /byːçɐ/
-                      | Stadtviertel    | 
-                      | Wort            | Worte
-                      | das Deutsch     |
-                      | das Haus        |
-                      | das Café        | die Cafés
-                      | das Hallo       |
-                      | Gute            |
-                      | Das Keybord     |
-                      | Das T-shirt     | 
-/Ghetrɛ:nk/| Drink    | Das Getränk     |
-/g'haime/  | Secret   | Das Geheime     | -
-           |          | Das Wiedersehen |
-/styːkien/ | bit/poco | das Stückchen   | Die Stückchen         
-           |          | das problem     | Die Probleme /pʁoblema/
- /end/     | the end  | das Ende        | Die Enden
-           |          | das Foto        | Die Fotos
-           | volta\   |                 |
-           | time     | das Mal         | Die Male
-           |          | das Ticket      | Die Tickets
-/gheld/    | soldi    | das Geld        | Die Gelder
-           | food     | das Essen       | das Essen
-/gl[yːk]/  | gioia/   |                 |
-/gl[yːk]/e | fortuna  | das Glück       | die Glücke    
-           | talento  | das Talent      | die Talente   
-           |          | das Tattoo      | die Tattoos
-           |          | das Skateboard  |
-/k[yː]sen/ | baciare  | das Küssen      |
-           | bike     | das Fahrrad     | die Fahrräder
-           |          | das Modalverb   | die Modalverben
-           | animal   | das Tier        | die Tiere
+             |          | SINGOLARE       | PLURALE
+-------------|----------|-----------------|--------------
+             |          | Mädchen         | Mädchen
+             |          | Kind            | Kinder
+             |          | das Wasser      | die Wässer
+             |          | das Brot        | die Brote
+ /buːç/      |          | Das Buch        | Die Bücher /byːçɐ/
+             |          | Stadtviertel    | 
+             |          | Wort            | Worte
+             |          | das Deutsch     |
+             |          | das Haus        |
+             |          | das Café        | die Cafés
+             |          | das Hallo       |
+             |          | Gute            |
+             |          | Das Keybord     |
+             |          | Das T-shirt     | 
+/Ghetrɛ:nk/  | Drink    | Das Getränk     |
+/g'haime/    | Secret   | Das Geheime     | -
+             |          | Das Wiedersehen |
+/styːkien/   | bit/poco | das Stückchen   | Die Stückchen         
+             |          | das problem     | Die Probleme /pʁoblema/
+ /end/       | the end  | das Ende        | Die Enden
+             |          | das Foto        | Die Fotos
+             | volta\   |                 |
+             | time     | das Mal         | Die Male
+             |          | das Ticket      | Die Tickets
+/gheld/      | soldi    | das Geld        | Die Gelder
+             | food     | das Essen       | das Essen
+/gl[yːk]/    | gioia/   |                 |
+/gl[yːk]/e   | fortuna  | das Glück       | die Glücke    
+             | talento  | das Talent      | die Talente   
+             |          | das Tattoo      | die Tattoos
+             |          | das Skateboard  |
+/k[yː]sen/   | baciare  | das Küssen      |
+/fa'rrad/    | bike     | das Fahrrad     | die Fahrräder
+             |          | das Modalverb   | die Modalverben
+             | animal   | das Tier        | die Tiere
+             |          | das Auto        | die Autos
+/[v]ett[ɐ]/  | weather  | das Wetter      | die Wetter
+             |          | das Konzert     | die Konzerte
+/Ge[ʃ]enk/   | regalo   | das Geschenk    | die Geschenke    
+/Z[ai][ç]en/ | sign     | das Zeichen     | die Zeichen           
 
 
 ##################################################
@@ -145,9 +163,8 @@ NEUTRUM/NEUTRO
 ==================================================
 ##################################################
 
-
-The nominative is the basic form of the noun and describes the subject, 
-thus the person or object which acts.
+The nominative is the basic form of the noun and describes 
+the subject, thus the person or object which acts.
 You ask for the nominative case with Wer oder was? (Who?)
 
 E.G. Nominative as subject:
@@ -173,6 +190,7 @@ Ich bin eine Frau: I am a woman
 [3th - CASE]: SINGULAR NOUN, DATIVE CASE 
 ==================================================
 ##################################################
+
 The dative is used for the indirect object. 
 The indirect object is usually the person who gets or receives something 
 (usually the direct object). 
@@ -200,18 +218,19 @@ Das Handy gehört mir: That phone is mine
  ENDING        | -em        | -er        | -em        | -en
 
 
-If the plural does not end with -S or -N, the plural form in the dative gets an extra -N.
+If the plural does not end with -S or -N, 
+the plural form in the dative gets an extra -N.
 
 E.G.:
 die Bücher - den Büchern (the books)
 die Hunde - den Hunden (the dogs)
 
-The prepositions AUS, BEI, GEGENÜBER, MIT, NACH, SEIT, VON and ZU always require the dative.
+The prepositions AUS, BEI, GEGENÜBER, MIT, NACH, SEIT, VON and ZU 
+always require the dative.
 
 E.G.:
 Am Wochenende bin ich bei meinen Freunden.
 This weekend I'll be with my friends.
-
 
 
 ##################################################
@@ -229,7 +248,8 @@ E.G.:
 Ich mache den Fernseher aus: I turn off the TV
 
 
-The prepositions UM, DURCH, OHNE, FÜR and gegen always require the accusative.
+The prepositions UM, DURCH, OHNE, FÜR and GEGEN 
+always require the accusative.
 
 E.G.:
 Ich fahre durch die Stadt: I drive through the city

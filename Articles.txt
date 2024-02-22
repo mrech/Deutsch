@@ -133,50 +133,78 @@ Zero articles are used in the following cases:
 
 --------------------------------------------------
 > For INDEFINITE ARTICLES IN PLURAL:
-Hier steht ein Baum. - Hier stehen Bäume: Here is a tree. - Here are trees.
-Sie hört Stimmen: Lei sente delle voci
+    E.G.:
+    Hier steht ein Baum. - Hier stehen Bäume: 
+    Here is a tree. - Here are the trees.
+    ---------
+    Du magst Pommes.: Ti piacciono le patatine fritte. 
+    Sie mag Autos.: A lei piacciono le auto.
 
 --------------------------------------------------
 > For NAMES AND COMPANY NAMES that are not preceded by adjectives:
-Ich treffe heute Lena. (I am meeting Lena today.)
-Sie arbeitet bei McDonalds. (She works at McDonalds.)
+    E.G.:
+    Ich treffe heute Lena. (I am meeting Lena today.)
+    Sie arbeitet bei McDonalds. (She works at McDonalds.)
 
 --------------------------------------------------
 > For CITIES, CONTINENTS and MANY COUNTRIES:
-Ich wohne in Berlin. (I live in Berlin)
-Brasilien liegt in Südamerika. (Brasil is in South America.)
+    E.G.:
+    Ich wohne in Berlin. (I live in Berlin)
+    Brasilien liegt in Südamerika. (Brasil is in South America.)
 
 --------------------------------------------------
 > For NATIONALITIES and LANGUGES:
-Marina ist Spanierin. (Marina is Spanish)
-Er möchte Französisch lernen. (He wants to learn French)
+    E.G.:
+    Marina ist Spanierin. (Marina is Spanish)
+    Er möchte Französisch lernen. (He wants to learn French)
 
 --------------------------------------------------
 > For DIMENSION, WEIGHT and QUANTITIES:
-Jeden Tag trinke ich drei Tassen Kaffee.
-(I drink three cups of coffee daily.)
-Für den Kuchen braucht man 250g Butter und 3 Eier.
-(For the cake you need 250g butter and 3 eggs)
+    E.G.:
+    Jeden Tag trinke ich drei Tassen Kaffee.
+    (I drink three cups of coffee daily.)
+    Für den Kuchen braucht man 250g Butter und 3 Eier.
+    (For the cake you need 250g butter and 3 eggs)
 
 --------------------------------------------------
-> For PROFESSIONS USED WITH WERDEN (to become), SEIN (to be)
-and ALS (as):
-Jana ist Lehrerin. (Jana is a teacher)
-Larissa arbeitet als Busfahrerin. (Larissa works as a bus driver.)
-Als Kind wollte ich Polizistin werden. 
-(When I was a kid, I wanted to become a police officer.)
+> For PROFESSIONS USED WITH WERDEN (to become), 
+  SEIN (to be) and ALS (as):
+    E.G.:
+    Jana ist Lehrerin.: Jana is a teacher
+    Larissa arbeitet als Busfahrerin.:
+    Larissa works as a bus driver.
+    ---------
+    Als Kind wollte ich Polizistin werden. 
+    When I was a kid, I wanted to become a police officer.
 
 --------------------------------------------------
-> For MATERIALS AND FABRICS:
-Die Bettwäsche ist aus Baumwolle. (The bed linen is made of cotton.)
+> For MATERIALS and FABRICS:
+    E.G.:
+    Die Bettwäsche ist aus Baumwolle.:
+    The bed linen is made of cotton.
 
 --------------------------------------------------
 > For GENERAL STATEMENTS:
-Ich interessiere mich sehr für Kunst.
-(I am very interested in art.)
+    E.G.:
+    Ich interessiere mich sehr für Kunst.:
+    I am very interested in art.
+    ----------
+    Er mag Pizza.: A lui piace la pizza.
+    Ich fahre Fahrrad.: Io vado in bici. 
+    Du fährst Straßenbahn. Tu vai in tram.
 
 --------------------------------------------------
-
+> For IDEFINITE QUANTITIES: 
+    E.G.:
+    Sie hört Stimmen: Lei sente delle voci
+    ----------
+    Wir geben Janusz (DAT. - NULLARTIKEL NAMES) 
+    Kaffee (ACC. - NULLARTIKEL INDEF.).:
+    Diamo a Janusz del caffè
+    ----------
+    Ich gebe Janusz (DAT. - NULLARTIKEL NAMES) 
+    Geld (ACC. - NULLARTIKEL INDEF.).: 
+    Do a Janusz del denaro. 
 
 
 
@@ -185,12 +213,12 @@ Ich interessiere mich sehr für Kunst.
 NEGATION ARTICLE, NOMINATIVE CASE
 ==================================================
 ##################################################
+
 Negation articles are words that negate a noun. 
 It is used to negate nouns that have an INDEFINITE ARTICLE or NO ARTICLE. 
-The negation article kein translates to "no" or "not a" in English 
-and changes depending on the gender and case of the noun that they are used with.
-
-/kain/
+The negation article kein /kain/ translates to "no" or "not a" in English 
+and changes depending on the gender and case of the noun 
+that they are used with.
 
 
  GENDER     | ENDING  | EXAMPLE

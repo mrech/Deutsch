@@ -1,12 +1,31 @@
 ==================================================
 ADVERBS
 ==================================================  
-immer: always
-auch /a[ʊç]/: pure/anche | also 
+
+An adverb modifies verbs, adjectives, or other adverbs. 
+It doesn't decline and typically express relations of 
+time, place, and manner.
+
+> immer noch /immaʁ noç/: still
+> immer /immaʁ/: always
+    E.G.:
+    Ich lese immer die Zeitung.: I always read the newspaper
 ----------
-E.G.:
-Ich habe auch viel Glück: Anch'io ho molta fortuna.
+> auch /a[ʊç]/: pure/anche | also 
+    E.G.:
+    Ich habe auch viel Glück: Anch'io ho molta fortuna.
 ----------
+> gefährlich: dangerously
+    E.G.:
+    Janusz fährt gefährlich.: Janusz guida in modo pericoloso
+----------
+> Beruflich: jobwise|professionally|vocationally
+    E.G.:
+    Ein Popstar singt beruflich.: 
+    A pop star sign professionally
+----------
+> wirklich /virkli[ʃ]/: vero/veramente/really
+> Gücklich /gykliʃ/: happy
 
 
 ==================================================
@@ -17,8 +36,8 @@ such as zu Hause (at home) or zum Glück (luckily).
 
 They are called "sentence adverbs" and treated like a single word.
 
-E.G.:
-zu Hause: at home
-Emma hat kein Brot zu Hause.: 
-Emma has no bread at home.
+> zu Hause: at home
+    E.G.:
+    Emma hat kein Brot zu Hause.: 
+    Emma has no bread at home.
 ----------

@@ -1,8 +1,8 @@
 ==================================================
 PREPOSITION, DATIVE CASE
 ==================================================
-A dative preposition expresses a relationship between a noun or pronoun and other 
-words in the clause. 
+A dative preposition expresses a relationship between a noun or pronoun 
+and other words in the clause. 
 
 All articles, adjectives, nouns, and pronouns following the 
 dative preposition will take the dative case. 
@@ -23,15 +23,14 @@ von  /fon/   | from, of
 zu           | to
 
 E.G.: 
-Mit der Bahn fahren wir.: We're going by train.
-Willst du nächste Woche zurück nach Deutschland fahren?:
-Vuoi tornare in Germania la prossima settimana?
-Would you came back to Germany next week?
-
-
-E.G.:
-Das Hotel ist dem Bahnhof gegenüber.
+Das Hotel ist dem Bahnhof (DAT.) gegenüber.
 The hotel is across from the train station.
+----------
+Ihr fahrt mit der (DAT.) U-bahn (F) nach Hause.:
+Voi andate a casa in metropolitana.
+----------
+Sie fahren mit dem Aufzug.: Loro vanno in ascensore.
+
 
 Some prepositions can be merged with the article to make one word:
 
@@ -41,16 +40,18 @@ zu + dem = zum
 zu + der = zur
 
 E.G.:
-Er ist beim Arzt.
+Er ist beim Arzt (DAT.).
 He is at the doctor.
+
 
 ==================================================
 PREPOSITION, ACCUSATIVE CASE
 ==================================================  
-All articles, adjectives, nouns, and pronouns following the accusative preposition 
-will take the accusative case. These are the accusative prepositions:
+All articles, adjectives, nouns, and pronouns following the 
+accusative preposition will take the accusative case. 
 
-You can remember them by FUDOG (für, um, durch, ohne, gegen)
+These are the accusative prepositions:
+You can remember them by FUDOG (FÜR, UM, DURCH, OHNE, GEGEN)
 
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
@@ -82,32 +83,10 @@ Sie sind Freunde fürs Leben.: They are friends for life.
 ==================================================
 TWO-WAY PREPOSITION
 ==================================================  
-If the verb is describing motion from one place to another, 
-the preposition will take the ACCUSATIVE case. 
-
-E.G.:
-Ich setze mich auf einen Stuhl.: 
-I sit myself down on a chair. 
-----------
-Ich gehe in den Wald.:
-I go to the forest
-
-If the verb is describing a location or movement within a certain location, 
-the preposition will be DATIVE. 
-
-E.G.:
-Ich sitze auf einem Stuhl.:
-I am sitting on a chair.
-----------
-Ich gehe in dem Wald.: 
-I go in the forest.
-
-
-Two-way prepositions are below:
 
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
-an/am        | at, on top of     
+an           | at, on top of     
 auf          | on, to     
 hinter       | behind     
 in           | in     
@@ -116,7 +95,44 @@ neben        | next to
 unter        | under
 vor          | in front of
 zwischen     | between
+zurück       | back
 
 E.G.:
 Ihr macht übungen auf Seeland.
-Ein Ticket für die U-Bahn kauft man am Automaten.
+
+
+> If the verb is describing MOTION FROM ONE PLACE TO ANOTHER, 
+  the preposition will take the ACCUSATIVE case. 
+
+    E.G.:
+    Ich setze mich (ACC.) auf ein-EN Stuhl (M).: 
+    I sit myself down on a chair. 
+    ----------
+    Ich gehe in den Wald.:
+    I go to the forest
+    ----------
+    Wir fahren in den Urlaub.: Andiamo in vacanza.
+    ----------
+    Willst du nächst-E (ACC.) Woche (F) zurück nach Deutschland fahren?.
+    Vuoi tornare in Germania la prossima settimana?
+    Would you came back to Germany next week?
+    ----------
+
+
+> If the verb is describing A LOCATION OR MOVEMENT WITHIN A 
+  CERTAIN LOCATION, the preposition will be DATIVE. 
+    
+    E.G.:
+    Ich sitze auf ein-EM (DAT.) Stuhl (M).:
+    I am sitting on a chair.
+    ----------
+    Ich gehe in dem Wald.: 
+    I go in the forest.
+    ----------
+    Ein Ticket für die U-Bahn kauft man 
+    am (AN+DEM, DAT.) Automaten.
+    ----------
+    An der (DAT.) Ecke (F) gibt es 
+    ein-E (ACC.) Bank (F).
+
+
