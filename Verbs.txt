@@ -1,6 +1,7 @@
 CONTENT:
 ^^^^^^^^
 > IRREGULAR VERB
+    - Stem-changing (e -> ie)
     - Stem-changing (e -> i)
     - Stem-changing (a -> ä)
 > REGULAR VERB
@@ -8,12 +9,17 @@ CONTENT:
 > PAST PARTICIPLE
 > MODAL VERB
     - SUBJUNCTIVE II
-> IRREGULAR VERBS. SPECIAL CASES
 
 
 ##################################################
 ################# IRREGULAR VERB #################
 ##################################################
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IRREGULAR VERBS: Special Cases
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+There are verbs that are not conjugated in any particular pattern
 
 
 ==================================================
@@ -63,57 +69,153 @@ Ich habe dich lieb: I love you.
 
 
 ==================================================
-ESSEN: mangiare
-==================================================
-
-          | PRÄSENS   |
-----------| ----------| 
-Ich       | esse      |
-Du        | isst      |
-Er/Sie/Es | isst      |
-Wir       | essen     |
-Ihr       | esst      |
-Sie       | essen     |
-
-E.G.: Ich esse ein apfel
-
-
-==================================================
-LESEN: leggere 
-==================================================
-
-          | PRÄSENS   |
-----------| ----------| 
-Ich       | lese      |
-Du        | liest     |
-Er/Sie/Es | liest     |
-Wir       | lesen     |
-Ihr       |           |
-Sie       | lesen     |
-
-E.G.: Sie leseb ein bog
-
-
-==================================================
-WEISSEN: to know | sapere
+WISSEN: to know | sapere
 ==================================================
 
           | PRÄSENS   
 ----------| ---------- 
 Ich       | weiß
-Du        | weißt         
+Du        | weiß-T         
 Er/Sie/Es | weiß          
-Wir       | wissen          
-Ihr       | wisst          
-Sie       | wissen
+Wir       | wiss-EN          
+Ihr       | wiss-T          
+Sie       | wiss-EN
 
-E.G.: Weißt du noch, als du kein Deutsch konntest?: 
+E.G.: 
+Weißt du noch, als du kein Deutsch konntest?: 
 Do you still remember when you could not speak German?
+--------
+Das weiß ich leider nicht.: I don't know that unfortunately.
+
+
+==================================================
+MÖGEN: to like
+==================================================
+
+ PRONOUN  | 
+----------| ---------- 
+Ich       | mag
+Du        | mag-ST          
+Er/Sie/Es | mag      
+Wir       | mög-EN          
+Ihr       | mög-T          
+Sie       | mög-EN          
+
+E.G.:
+Magst du Käse?: Do you like cheese? 
+Sie mag mich.: Le piaccio
+Es mag sein: Può essere
+
+
+==================================================
+TUN: to do | fare
+==================================================
+
+ PRONOUN  | SUBJUNCTIVE II 
+----------| ---------- 
+Ich       | tu-E
+Du        | tu-ST          
+Er/Sie/Es | tu-T        
+Wir       | tu-N          
+Ihr       | tu-T          
+Sie       | tu-N          
+
+E.G.:
+Was tun Sie da?: What are you doing there?.
+
+
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IRREGULAR VERBS WITH VOWEL CHANGE
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Irregular verbs change the vowel when they are conjugated. 
+The vowels E and A change in the 2nd and 3rd person to either 
+IE/I or Ä, the vowels I, O  or U  don't. 
+
+The endings are the same as in the conjugation of regular verbs.
+
+
+##################################################
+Stem-changing (e -> ie)
+#################################################
+
+
+==================================================
+LESEN: to read | leggere 
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | les-E 
+Du        | lIE-ST
+Er/Sie/Es | lIEs-T
+Wir       | les-EN
+Ihr       | lest-T
+Sie       | les-EN
+
+E.G.: Sie lesen ein bog
+
+
+==================================================
+SEHEN: to see | vedere 
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | seh-E 
+Du        | sIEh-ST
+Er/Sie/Es | sIEh-T
+Wir       | seh-EN
+Ihr       | seh-T
+Sie       | seh-EN
+
+E.G.: 
+TODO
+
+
+==================================================
+STEHLEN: to steal | rubare 
+==================================================
+
+          | PRÄSENS   |
+----------| ----------| 
+Ich       | stehl-E 
+Du        | stIEhl-ST
+Er/Sie/Es | stIEhl-T
+Wir       | stehl-EN
+Ihr       | stehl-T
+Sie       | stehl-EN
+
+E.G.: 
+TODO
 
 
 ##################################################
 Stem-changing (e -> i)
 ##################################################
+
+
+==================================================
+ESSEN: to eat | mangiare
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | ess-E     
+Du        | Is-ST     
+Er/Sie/Es | Iss-T     
+Wir       | ess-EN    
+Ihr       | ess-T     
+Sie       | ess-EN     
+
+E.G.: Ich esse ein apfel
+
 
 ==================================================
 SPRECHEN: parlare|speak | 
@@ -133,6 +235,112 @@ Du sprichst fließend Deutsch!: You speak german fluently
 
 
 ==================================================
+GEBEN: to give 
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | geb-E 
+Du        | gIb-ST          
+Er/Sie/Es | gIb-T   
+Wir       | geb-EN          
+Ihr       | geb-T           
+Sie       | geb-EN      
+
+E.G.:
+In Marinas Wohnung gibt es viel Platz: 
+C'è molto posto nell'appartamento di Marina
+-----------
+Es gibt keine platz.: There is no space.
+----------
+Du gibst ein Konzert (N).: Stai dando un concerto.
+----------
+Ich gebe Janusz (DAT.) 
+Geld (ACC.- NULLARTIKEL INDEF.):
+Do a Janusz del denaro. 
+---------
+Er gibt mir (DAT.) ein Geschenk (N).:
+Lui mi da un regalo.
+----------
+Sie gibt ihm (DAT.) ein-EN brief (M).:
+Lei gli da una lettera.
+----------
+Wir geben Janusz (DAT.-NULLARTIKEL NAMES)
+Kaffee (ACC. - NULLARTIKEL INDEF.)
+----------
+Ihr gebt mir (DAT.) euer (ACC.) Geld (N).:
+Voi mi date i vostri soldi.
+
+
+==================================================
+HELFEN: to help 
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | helf-E 
+Du        | hIlf-ST          
+Er/Sie/Es | hIlf-T   
+Wir       | helf-EN          
+Ihr       | helf-T           
+Sie       | helf-EN      
+
+E.G.:
+TODO
+
+
+==================================================
+TREFFEN: to meet
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | treff-E 
+Du        | trIff-ST          
+Er/Sie/Es | trIff-T   
+Wir       | treff-EN          
+Ihr       | treff-T           
+Sie       | treff-EN      
+
+E.G.:
+TODO
+
+
+==================================================
+WERFEN: to throw
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | werf-E 
+Du        | wIrf-ST          
+Er/Sie/Es | wIrf-T   
+Wir       | werf-EN          
+Ihr       | werf-T           
+Sie       | werf-EN      
+
+E.G.:
+TODO
+
+
+==================================================
+NEHMEN: to take 
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | nehm-E 
+Du        | nIMM-ST          
+Er/Sie/Es | nIMM-T       
+Wir       | nehm-EN          
+Ihr       | nehm-T           
+Sie       | nehm-EN      
+
+E.G.:
+TODO
+
+
+==================================================
 WERDEN: become / get 
 ==================================================
 
@@ -148,41 +356,6 @@ Sie       | werden
 E.G.: Du wirst immer besser!: You get getting better and better!
 
 
-==================================================
-GEBEN: to give 
-==================================================
-
- PRONOUN  | PRÄSENS   
-----------| ---------- 
-Ich       | geb-E 
-Du        | gib-ST          
-Er/Sie/Es | gib-T     /fɛ:ɐt/      
-Wir       | geb-EN          
-Ihr       | geb-T           
-Sie       | geben-EN      
-
-E.G.:
-In Marinas Wohnung gibt es viel Platz: 
-C'è molto posto nell'appartamento di Marina
-
-Es gibt keine platz 
-
-
-==================================================
-NEHMEN: to take 
-==================================================
-
- PRONOUN  | PRÄSENS   
-----------| ---------- 
-Ich       | nehm-E 
-Du        | nIMM-ST          
-Er/Sie/Es | nIMM-T     /fɛ:ɐt/      
-Wir       | nehm-EN          
-Ihr       | nehm-T           
-Sie       | nehm-EN      
-
-E.G.:
-TODO
 
 ##################################################
 Stem-changing (a -> ä)
@@ -220,10 +393,18 @@ Sie       | fahr-EN
 
 E.G.:
 Der Zuk fährt ohne uns: il treno se ne va senza di noi
+Ich fahre Fahrrad.: Io vado in bici. 
+Du fährst Straßenbahn. Tu vai in tram.
+Sie fahren mit dem (DAT.) aufzug (M).:
+They take the elevator.
+---------- 
+Janusz fährt gefährlich:. 
+Janusz guida in mode pericoloso.
+Es fährt nicht mehr.: Non va più.
 
 
 ==================================================
-LAUFEN: to run | correre | Stem-changing (a -> ä)
+LAUFEN: to run | correre
 ==================================================
 
           | PRÄSENS   
@@ -238,6 +419,56 @@ Sie       | lauf-EN
 E.G.:
 Sie kann nicht laufen.: she can 't run. 
 
+
+==================================================
+FALLEN: to fall | cadere
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | fall-E    
+Du        | fÄll-ST          
+Er/Sie/Es | fÄll-T       
+Wir       | fall-EN          
+Ihr       | fall-T          
+Sie       | fall-EN 
+
+E.G.:
+TODO
+
+
+==================================================
+HALTEN: to hold | attendere
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | halt-E    
+Du        | hÄlt-ST          
+Er/Sie/Es | hÄlt-T       
+Wir       | halt-EN          
+Ihr       | halt-T          
+Sie       | halt-EN 
+
+E.G.:
+TODO
+
+
+==================================================
+LASSEN: to let | lasciare
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | lass-E    
+Du        | lÄss-ST          
+Er/Sie/Es | lÄss-T       
+Wir       | lass-EN          
+Ihr       | lass-T          
+Sie       | lass-EN 
+
+E.G.:
+TODO
 
 
 
@@ -392,7 +623,6 @@ En ticket für die U-Bahn kauft man am Automaten:
 you buy a ticket for the subway at the vending machine. 
 
 
-
 ==================================================
 GLAUBEN: to believe
 ==================================================
@@ -443,6 +673,7 @@ Sie       | wiederhol-EN
 
 E.G.: 
 TODO
+
 
 ==================================================
 SUCHEN /zuken/: to search|cercare
@@ -653,6 +884,23 @@ Non può dimenticarsi del mio compleanno.
 
 
 ==================================================
+SPIELEN: to play
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | spiel-E         
+Du        | spiel-ST    
+Er/Sie/Es | spiel-T     
+Wir       | spiel-EN    
+Ihr       | spiel-T
+Sie       | spiel-EN  
+
+E.G.:
+Ich mag Gitarre spielen.: Mi piace suonare la chitarra. 
+
+
+==================================================
 BEANTWORTEN: rispondere 
 ==================================================
 
@@ -731,8 +979,9 @@ Ihr       | hör-T zu
 Sie       | hör-EN zu   
 
 E.G.:
-Du hörst mir nicht zu: 
-tu non mi stai ascoltando | You're not listening to me.
+Du hörst mir (DAT.) nicht zu: 
+tu ascolti niente da me | You don't listen to me |
+ You're not listening to me.
 
 
 ==================================================
@@ -763,10 +1012,28 @@ Ich       | lern-E kennen
 Du        | lern-ST kennen          
 Er/Sie/Es | lern-T kennen          
 Wir       | lern-EN kennen          
-Ihr       | lern-T kennen          
+Ihr       | lern-T kennen 
+Sie       | lern-EN kennen         
 
 E.G.:
 Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
+
+
+==================================================
+WEGFAHREN: 
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | fahr-E weg 
+Du        | fähr-ST weg          
+Er/Sie/Es | fähr-T weg          
+Wir       | fahr-EN weg          
+Ihr       | fahr-T weg
+Sie       | fahr-EN weg          
+
+E.G.:
+TODO
 
 
 ##################################################
@@ -981,67 +1248,6 @@ E.G.:
 Manchmal möchte Marina alleine leben.: 
 Sometimes Marina would like to live alone.
 
-
-##################################################
-######### IRREGULAR VERBS. SPECIAL CASES #########
-##################################################
-
-There are verbs that are not conjugated in any particular pattern, 
-such as:
-
-> mögen (to like)
-> wissen (to know)
-> tun (to do)
-
-==================================================
-MÖGEN: to like to
-==================================================
-
- PRONOUN  | 
-----------| ---------- 
-Ich       | mag
-Du        | mag-ST          
-Er/Sie/Es | mag      
-Wir       | mög-EN          
-Ihr       | mög-T          
-Sie       | mög-EN          
-
-E.G.:
-Magst du Käse?: Do you like cheese? 
-Sie mag mich.: Le piaccio
-
-==================================================
-WISSEN: to know
-==================================================
-
- PRONOUN  |  
-----------| ---------- 
-Ich       | weiß
-Du        | weiß-T          
-Er/Sie/Es | weiß       
-Wir       | wiss-EN          
-Ihr       | wiss-T          
-Sie       | wiss-EN          
-
-E.G.:
-Das weiß ich leider nicht.: I don't know that unfortunately.
-
-
-==================================================
-TUN: to do
-==================================================
-
- PRONOUN  | SUBJUNCTIVE II 
-----------| ---------- 
-Ich       | tu-E
-Du        | tu-ST          
-Er/Sie/Es | tu-T        
-Wir       | tu-N          
-Ihr       | tu-T          
-Sie       | tu-N          
-
-E.G.:
-Was tun Sie da?: What are you doing there?.
 
 
 
