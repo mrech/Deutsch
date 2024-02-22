@@ -3,34 +3,42 @@ Adjectives are words that describe or modify a noun.
 ==================================================
 ADJECTIVE
 ==================================================  
-Eigen /[ai]gen /: own
-Besser: better
-Verrüct: crazy (/fəʁʏkt/)
-Kaputt: broken
-Beeindruckend /be[ai]ndrukend/: impressive
-Leider /l[ai]d[aʁ]/: putroppo/sfortunatamente
-----------
-E.G.:
-Marina hat leider kein Glück: Marina sfortunatamente non ha fortuna.
-----------
-unsichtbar /un[z]iktbar/: invisible
-----------
-jung /jʊng/: giovane|jung
-E.G.:
-Emma ist jung.: Emma è giovane.
-Jung-E Leute (P) können immer Spaß haben.: I giovani sanno sempre dirtirsi.
-Emma, so jung bist du nicht.: Emma, tu non sei così giovane. 
-----------
+> Eigen /[ai]gen /: own
+> Besser: better
+> Verrüct: crazy (/fəʁʏkt/)
+> Kaputt: broken
+> Beeindruckend /be[ai]ndrukend/: impressive
+> Leider /l[ai]d[aʁ]/: putroppo/sfortunatamente
+    E.G.:
+    Marina hat leider kein Glück: 
+    Marina sfortunatamente non ha fortuna.
+> unsichtbar /un[z]iktbar/: invisible
+> jung /jʊng/: giovane|jung
+    E.G.:
+    Emma ist jung.: Emma è giovane.
+    ----------
+    Jung-E Leute (P) können immer Spaß haben.: 
+    I giovani sanno sempre dirtirsi.
+    ----------
+    Emma, so jung bist du nicht.: 
+    Emma, tu non sei così giovane. 
+> schön /[ʃ][øː]n/: beautiful
+    E.G.:
+    Ihr mögt das schönen Wetter.: 
+    Vi piace il bel tempo. 
+
 
 ==================================================
 ADJECTIVE, NOMINATIVE CASE*
 ==================================================  
-Adjectives not preceded by a determiner must show the same endings as the 
-definite article because the gender and case have to be represented somewhere.
+Adjectives not preceded by a determiner must show the same 
+endings as the  definite article because the gender and case 
+have to be represented somewhere.
 
 For example, the masculine ending for the definite article der is -r, 
-and in the absence of a determiner, the adjective ending takes the article ending. 
-This follows for the neuter and feminine genders as well.
+and in the absence of a determiner, the adjective ending takes the 
+article ending. This follows for the neuter and feminine genders as well.
+
 
  GENDER        | ENDING     | E.G.           
 ---------------|------------|------------
@@ -44,20 +52,12 @@ This follows for the neuter and feminine genders as well.
 ADJECTIVE, DATIVE CASE***
 ==================================================  
 
-E.G.:
-Ich gebe ihm das Buch: I give him the book.
-
-The primary object is the book, and the person affected is "him", 
-so it is the dative case.
-
-
  GENDER        | ENDING     | E.G.           
 ---------------|------------|------------
  MASCHILE      | -en        | dem blauen Hut (the blue hat)         
  FEMMINILE     | -en        | der blauen Hose (the blue pants)
  NEUTRO        | -en        | dem blauen Hemd (the blue shirt)
  PLURALE       | -en        | den blauen Schuhe (the blue shoes)
-
 
 
 ==================================================
@@ -68,12 +68,15 @@ An unpreceded adjective is one that does not have a
 determiner such as a definite article, an indefinite article, 
 a der-word, or an ein-word preceding it.
 
-Adjectives not preceded by a determiner must show the same endings as the 
-definite article because the gender and case have to be represented somewhere.
+Adjectives not preceded by a determiner must show the same 
+endings as the definite article because the gender and case 
+have to be represented somewhere.
 
-For example, the masculine ending for the definite article den is -n, and in 
-the absence of a determiner, the adjective ending takes the article ending. 
+For example, the masculine ending for the definite article den is -n,
+and in the absence of a determiner, the adjective ending takes 
+the article ending. 
 This follows for the neuter and feminine genders as well.
+
 
  GENDER        | ENDING     | E.G.           
 ---------------|------------|------------
@@ -83,14 +86,6 @@ This follows for the neuter and feminine genders as well.
  PLURALE       | -e         | Gute Äpfel
 
 
- Nächste /N[ɛ:ʃ]ste/: next
-
-E.G.:
-Willst du nächst-E Woche (F) zurück nach Deutschland fahren?.
-Vuoi tornare in Germania la prossima settimana?
-Would you came back to Germany next week?
-----------
-
 E.G.: 
 Ich habe eine gute neuigkeit.: I have good news.
 Wir haben eine kleine Wohnung: We have a small apartment.
@@ -99,13 +94,44 @@ Non c'è posto per il cattivo umore di Loane.
 Worum magst du keinen Kaffee?: perchè non ti piace il Café?
 
 
+==================================================
+ADJECTIVE, ACCUSATIVE CASE****
+Preceded by Definite Article or Der-word
+==================================================  
+Adjectives are words that describe or modify a noun. 
+Adjectives preceded by the definite article or a der-word 
+have special declensions depending on the gender 
+and case of the nouns they modify.
+
+ GENDER        | ENDING     | E.G.               |
+---------------|------------|--------------------|--------------------
+ MASCHILE      | -en        | den blau-EN Hut    | diesen blau-EN Hut
+               |            | (the blue hat)     | (this blue hat)
+ FEMMINILE     | -e         | die blau-E Hose    | diese blau-E Hose
+               |            | (the blue pant)    | (this blue pants)
+ NEUTRO        | -e         | das blau-E Hemd    | dieses blau-E Hemd
+               |            | (the blue shirt)   | (this blue shirt)
+ PLURALE       | -en        | die blau-EN Schuhe | diese blaun-EN Schuhe
+               |            | (the blue shoes)   | (these blue shoes)
+
+E.G.:
+Ihr mögt das schöne Wetter.: vi piace il bel tempo.
+
+
+
 NOTE:
 --------------------------------------------------
-*: The nominative case applies to the subject of a sentence and can be found by asking
-"Who or what is performing the action?"
+*: The nominative case applies to the subject of a sentence and can be 
+found by asking "Who or what is performing the action?"
 
 ***: The dative case refers to someone or something that is affected by the 
 action of a verb, but is not the primary object.
+    
+E.G.:
+Ich gebe ihm das Buch: I give the book to him.
+
+The primary object is the book, and the person affected is "him", 
+so it is the dative case.
 
 ****: The accusative case can be found by asking “who” or “what” 
 is affected by the verb's action.
