@@ -100,7 +100,7 @@ NEW WORDS
     Man kann meditieren und sich dabei entspannen.:
     You can meditate and thereby relax.
 ----------
-> Es mag sein: Può essere, Può darsi.
+> Es mag sein: Può essere, Può darsi.| It may be.
 ----------
 > Es gibt: there is | C'è
 ----------
