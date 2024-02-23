@@ -89,7 +89,7 @@ Das weiß ich leider nicht.: I don't know that unfortunately.
 
 
 ==================================================
-MÖGEN: to like
+MÖGEN: to like/may
 ==================================================
 
  PRONOUN  | 
@@ -1230,7 +1230,7 @@ I would like to drink some more coffee.
 
 
 ==================================================
-MÖGEN /møːgen/: would like/to like to
+MÖGEN /møːgen/: would like/to like to/may
 MÖCHTEN /møːʃtɛn/: would like/to like to
 ==================================================
 
