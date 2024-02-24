@@ -30,7 +30,7 @@ MASKULINUM/MASCHILE
               | piazza      |                   |
               | posto/luogo | der Platz         | die Plätze /plɛtze/
               | amico/amici |                   |
-/frɔynde/     | fidanzato   | der Freund        | die Freunde
+/fr[oi]nd/    | fidanzato   | der Freund        | die Freunden
 /man[tʃ]/     | individuo/  |                   |
               | persona     | der Mensch        | die Menschen
               | cactus      | der Kaktus        | die Kaktusse, 
@@ -91,7 +91,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /vonʊng/vonʊnghen/   | appartamento    | die Wohnung          | die Wohnungen
                      | umore/capriccio | die Laune            | die Launen 
                      | amiche          |                      |
-/frɔynden/           | fidanzata/amica | die Freundin         | die Freudinnen
+/fr[oi]ndn/          | fidanzata/amica | die Freundin         | die Freudinnen
 /arb[ai]t/           | lavoro          | die Arbeit           | die Arbeiten
                      |                 | die Party            | die Partys
                      | news            |                      |
