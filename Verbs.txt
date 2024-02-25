@@ -89,7 +89,9 @@ Das weiß ich leider nicht.: I don't know that unfortunately.
 
 
 ==================================================
-MÖGEN: to like/may|might
+MÖGEN: would like/may|might
+       volere (avere desiderio di)
+       piacere (aver piacere di)
 ==================================================
 
  PRONOUN  | 
