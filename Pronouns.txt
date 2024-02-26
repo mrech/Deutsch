@@ -180,7 +180,7 @@ DEMONSTRATIVE PRONOUNS
 ##################################################
 
 ================================================== 
-DEMONSTRATIVE PRONOUNS: Das + SEIN
+DEMONSTRATIVE PRONOUNS: Das + SEIN + NOMINATIVE CASE
 ================================================== 
 Das ist gut: va bene
 Das ist ein mann: quello è un uomo
