@@ -210,7 +210,7 @@ Zero articles are used in the following cases:
 
 ##################################################
 ==================================================
-NEGATION ARTICLE, NOMINATIVE CASE
+NEGATION ARTICLE
 ==================================================
 ##################################################
 
@@ -221,6 +221,8 @@ and changes depending on the gender and case of the noun
 that they are used with.
 
 
+DECLENSIONS - NOMINATIVE CASE
+--------------------------------------------------
  GENDER     | ENDING  | EXAMPLE
 ------------|---------|------------
  MASCULINE  | \       | Kein Wein (no wine)
@@ -233,7 +235,37 @@ that they are used with.
 
 
 E.G.:
-Das sind keine Bücher
+Das sind kein-E (NOM.) Bücher (P)
+
+
+DECLENSIONS - ACCUSATIVE*
+--------------------------------------------------
+ Gender     | Ending  | Example
+------------|---------|--------------
+ MASCULINE  | -en     | keinen Hund  
+------------|---------|--------------
+ FEMININE   | -e      | keine Frau
+------------|---------|--------------
+ NEUTER     |         | kein Baby
+------------|---------|--------------
+ PLURAL     | -e      | keine Äpfel
+
+E.G.:
+Es macht alles kein-EN (ACC.) Sinn (M):
+Tutto questo non ha senso.
+
+
+DECLENSIONS - DATIVE**
+--------------------------------------------------
+ Gender     | Ending  | Example?
+------------|---------|--------------
+ MASCULINE  | -em     | mit keinem Hund  
+------------|---------|--------------
+ FEMININE   | -er     | mit keiner Frau
+------------|---------|--------------
+ NEUTER     | -em     | mit keinem Baby
+------------|---------|--------------
+ PLURAL     | -en     | mit keinen Freunden
 
 
 NOTE:

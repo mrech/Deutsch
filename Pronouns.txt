@@ -67,7 +67,7 @@ Tu ascolti niente da me | You don't listen to me.
 
 
 ##################################################
-POSSESSIVE PRONOUN, ACCUSATIVE CASE**
+POSSESSIVE PRONOUN
 ##################################################
 
 Possessive Pronoun (Dependent)
@@ -91,7 +91,7 @@ IPA        | PRONOUN    | TRANSLATION
            | ihr        | their   
 
 
-DECLENSIONS - ACCUSATIVE
+DECLENSIONS - ACCUSATIVE**
 --------------------------------------------------
  Gender     | Ending  | Example
 ------------|---------|--------------
@@ -105,18 +105,35 @@ DECLENSIONS - ACCUSATIVE
 
 
 E.G.:
-Du teilst das essen mit deinen Freunden.:
-You share the food with your friends.
-----------
-Ihr sollt immer eure hausaufgaben machen.:
+Ihr sollt immer eur-E (ACC.) hausaufgaben (P) machen.:
 Voi dovete fare sempre i vostri compiti.
-----------
-Er darf meinen Geburtstag nicht vergessen.:
+--------
+Er darf mein-EN (ACC.) Geburtstag (M) nicht vergessen.:
 Lui non può permettersi di dimenticare il mio compleanno.
-----------
-Sie mögen ihr-E (P) Nachbarn (P).: 
+--------
+Sie mögen ihr-E (ACC.) Nachbarn (P).: 
 A loro piacciono i propri vicini. 
 ----------
+
+
+DECLENSIONS - DATIVE***
+--------------------------------------------------
+ Gender     | Ending  | Example
+------------|---------|--------------
+ MASCULINE  | -em     | mit meinem Hund  
+------------|---------|--------------
+ FEMININE   | -er     | mit meiner Frau
+------------|---------|--------------
+ NEUTER     | -em     | mit meinem Baby
+------------|---------|--------------
+ PLURAL     | -en     | mit meinen Freunden
+
+
+E.G.:
+Du teilst das (ACC.) essen (N) mit dein-EN (DAT.) Freunden (P).:
+You share the food with your friends.
+----------
+
 
 
 
@@ -255,10 +272,4 @@ be found by asking, "Who or what is performing this action?"
 ***: oggetto che subisce l'azione. 
 The dative case refers to someone or something that is affected by the 
 action of a verb, but is not the primary object. 
-==================================================
-DATIVE CASE
-==================================================  
 
-               | MASCHILE   | FEMMINILE  | NEUTRO     | PLURALE
----------------|------------|------------|------------|------------
- ENDING        | -em        | -er        | -em        | -en
