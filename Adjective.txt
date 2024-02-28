@@ -1,5 +1,19 @@
 Adjectives are words that describe or modify a noun.
 
+When an adjective is placed before a noun, it is declined 
+and given a new ending. The new ending of the adjective 
+depends on the preceding article as well as the gender, 
+case and number of the noun.
+
+E.G.:
+Die Frau hat rot-e (ACC.) Haare (P): She has red hair.
+
+If the adjective stands to the right after the noun, 
+it remains in its basic form.
+
+E.G.:
+Die Haare der Frau sind rot.: The woman's hair is red.
+
 ==================================================
 ADJECTIVE
 ==================================================  
@@ -12,7 +26,14 @@ ADJECTIVE
 > Beeindruckend /be[ai]ndrukend/: impressive
 > nass: wet > Der Regen ist nass
 > laut: loud
+    E.G.:
+    Du bist laut.: You're laud.
+> Leise /Laise/:
+    E.G.:
+    Wir sind leise.: we are quite.
 > schlecht /ʃleckt/: bad 
+    E.G.:
+    Es ist schlecht.: Così non va bene.
 > Kalt: cold
 > Neu /nɔy/: new
 > Leider /l[ai]d[aʁ]/: putroppo/sfortunatamente
@@ -33,6 +54,18 @@ ADJECTIVE
     E.G.:
     Ihr mögt das schön-E (ACC.) Wetter (N).: 
     Vi piace il bel tempo. 
+> stark: strong
+    E.G.:
+    Ich bin stark.: Io sono forte.
+> schwach /ʃvaç/:  Lui è debole
+    E.G.:
+    Er ist schwach.: Lui è debole
+> fröhlich /frøːliʃ/: happy/allegra
+    E.G.:
+    Sie ist fröhlich.: Lei è allegra. 
+> traurig /trauriç/: sad 
+    E.G.:
+    Sie sind traurig.: Loro sono tristi.
 
 
 ==================================================
