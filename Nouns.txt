@@ -9,7 +9,7 @@ MASKULINUM/MASCHILE
               |             | Apfel             | Äpfel
               |             | Tag               |
               |             | Der Hund          |
-              | La sera     | Der Abend         |           
+              | La sera     | Der Abend         | die Abende          
               |             | Der Morgen        |         
               |             | Der Tag           |
               |             | Der Saft          | Die Säfte
