@@ -89,7 +89,7 @@ Das weiß ich leider nicht.: I don't know that unfortunately.
 
 
 ==================================================
-MÖGEN: would like/may|might
+MÖGEN: to like to/may|might
        volere (avere desiderio di)
        piacere (aver piacere di)
 ==================================================
@@ -1232,8 +1232,7 @@ I would like to drink some more coffee.
 
 
 ==================================================
-MÖGEN /møːgen/: would like/to like to/may|might
-MÖCHTEN /møːʃtɛn/: would like/to like to
+MÖCHTEN /møːʃtɛn/: would like
 ==================================================
 
  PRONOUN  | SUBJUNCTIVE II 
