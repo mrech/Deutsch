@@ -63,9 +63,35 @@ ADJECTIVE
 > fröhlich /frøːliʃ/: happy/allegra
     E.G.:
     Sie ist fröhlich.: Lei è allegra. 
-> traurig /trauriç/: sad 
+> traurig /trauri[ç|ʃ]/: sad 
     E.G.:
     Sie sind traurig.: Loro sono tristi.
+> Groß /gros/: tall
+    E.G.:
+    Der Baum ist Groß.: The tree is tall.
+> Klein /kl[ai]n/: piccolo/small
+    E.G.:
+    Das Blatt ist klein.: La foglia è piccola.
+> Kurz: short
+    E.G.:
+    Ihr-E haare (P) sind kurz.:
+    Her hair are short
+> Lang: long
+    E.G.:
+    Ihr-E Haare sind lang.: 
+    I suoi capelli sono lunghi.
+> Voll /foll/: full
+    E.G.:
+    Das glas ist voll.: Il bicchiere è pieno.
+> Leer /le[aʁ]/: empty
+    E.G.:
+    Das glas ist leer.: The glas is empty.
+> Sauber /Zaub[aʁ]/: clean
+    E.G.:
+    Das Haus ist Sauber.: The haus is clean.
+> Dreckig /dreki[ç|ʃ]/: Dirty
+    E.G.:
+    Das Haus ist dreckig.: La casa è sporca.
 
 
 ==================================================

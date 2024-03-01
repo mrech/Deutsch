@@ -123,7 +123,7 @@ NEUTRUM/NEUTRO
              |          | Stadtviertel    | 
              |          | Wort            | Worte
              |          | das Deutsch     |
-             |          | das Haus        |
+             |          | das Haus        | die Häuser
              |          | das Café        | die Cafés
              |          | das Hallo       |
              |          | Gute            |
@@ -154,7 +154,10 @@ NEUTRUM/NEUTRO
 /[v]ett[ɐ]/  | weather  | das Wetter      | die Wetter
              |          | das Konzert     | die Konzerte
 /Ge[ʃ]enk/   | regalo   | das Geschenk    | die Geschenke    
-/Z[ai][ç]en/ | sign     | das Zeichen     | die Zeichen           
+/Z[ai][ç]en/ | sign     | das Zeichen     | die Zeichen   
+/bat/        | foglia   | das Blatt       | die Blätter
+             | capelli  | das Haar        | die Haare        
+             | glass    | das Glas        | die Gläser
 
 
 ##################################################
