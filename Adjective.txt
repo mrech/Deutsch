@@ -135,6 +135,31 @@ Worum magst du keinen Kaffee?: perchè non ti piace il Café?
 
 
 ==================================================
+ADJECTIVE, DATIVE CASE***
+Preceded by Definite Article or Der-word
+==================================================  
+Adjectives are words that describe or modify a noun. 
+Adjectives preceded by the definite article or a der-word 
+have special declensions depending on the gender 
+and case of the nouns they modify.
+
+ GENDER        | ENDING     | E.G.               
+---------------|------------|--------------------
+ MASCHILE      | -en        | dem blau-EN Hut    
+               |            | (the blue hat)     
+ FEMMINILE     | -en        | der blau-EN Hose    
+               |            | (the blue pant)    
+ NEUTRO        | -en        | dem blau-EN Hemd    
+               |            | (the blue shirt)   
+ PLURALE       | -en        | den blau-EN Schuhe 
+               |            | (the blue shoes)   
+
+E.G.:
+Sie sind zum (DAT.) erst-EN (DAT.) mal in Berlin.:
+Loro sono a Berlino per la prima volta.
+
+
+==================================================
 ADJECTIVE, ACCUSATIVE CASE****
 Preceded by Definite Article or Der-word
 ==================================================  

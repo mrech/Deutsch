@@ -20,7 +20,7 @@ mit          | with
 nach /na[ç]/ | after, to, toward
 seit         | since
 von  /fon/   | from, of
-zu           | to
+zu           | to, at, for
 
 E.G.: 
 Das Hotel ist dem Bahnhof (DAT.) gegenüber.
@@ -30,18 +30,25 @@ Ihr fahrt mit der (DAT.) U-bahn (F) nach Hause.:
 Voi andate a casa in metropolitana.
 ----------
 Sie fahren mit dem Aufzug.: Loro vanno in ascensore.
+---------- 
+Sie essen die Pommes von Justina|Sie essen Justinas Pommes:
+Si mangiano le patatine fritte di Justyna. 
+----------
 
 
 Some prepositions can be merged with the article to make one word:
 
 bei + dem = beim
 von + dem = vom
-zu + dem = zum
+zu + dem = zum (for + the)
 zu + der = zur
 
 E.G.:
 Er ist beim Arzt (DAT.).
 He is at the doctor.
+----------
+Sie sind zum (DAT.) erst-EN (DAT.) mal in Berlin.:
+Loro sono a Berlino per la prima volta.
 
 
 ==================================================
@@ -117,6 +124,10 @@ Ihr macht übungen auf Seeland.
     Vuoi tornare in Germania la prossima settimana?
     Would you came back to Germany next week?
     ----------
+    Ihr drüft nicht auf den (ACC.) Baum (M) klettern.:
+    Non avete il permesso di arrampicarvi sull'albero.
+    You are not allowed to climb (to) the tree.
+
 
 
 > If the verb is describing A LOCATION OR MOVEMENT WITHIN A 

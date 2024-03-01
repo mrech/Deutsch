@@ -168,8 +168,8 @@ E.G.: Sie lesen ein bog
 SEHEN: to see | vedere 
 ==================================================
 
-          | PRÄSENS   |
-----------| ----------| 
+          | PRÄSENS   
+----------| ----------
 Ich       | seh-E 
 Du        | sIEh-ST
 Er/Sie/Es | sIEh-T

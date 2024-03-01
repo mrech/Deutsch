@@ -19,13 +19,13 @@ on the gender and case of the noun it's attached to.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | der Hund       
+ NOMINATIVE*   | der Hund       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      | dem Hund        
+ DATIVE***     | dem Hund        
 ---------------|------------
- ACCUSATIVE*   | den Hund        
+ ACCUSATIVE****| den Hund        
 
 
 ==================================================
@@ -33,14 +33,14 @@ on the gender and case of the noun it's attached to.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | die Katze       
+ NOMINATIVE*   | die Katze       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      | der Katze: Ich gebe der Katze die piazza.:
+ DATIVE***     | der Katze: Ich gebe der Katze die piazza.:
                |            I give the pizza to the cat.
 ---------------|------------
- ACCUSATIVE*   | die Katze        
+ ACCUSATIVE****| die Katze        
 
 
 ==================================================
@@ -48,13 +48,13 @@ on the gender and case of the noun it's attached to.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | das Haus       
+ NOMINATIVE*   | das Haus       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      | dem Haus:         
+ DATIVE***     | dem Haus:         
 ---------------|------------
- ACCUSATIVE*   | das Haus          
+ ACCUSATIVE****| das Haus          
 
 
 ==================================================
@@ -62,13 +62,13 @@ on the gender and case of the noun it's attached to.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | die Leute       
+ NOMINATIVE*   | die Leute       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      | den Leute        
+ DATIVE***     | den Leute        
 ---------------|------------
- ACCUSATIVE*   | die Leute        
+ ACCUSATIVE****| die Leute        
 
 
 ##################################################
@@ -86,13 +86,13 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | ein Hund       
+ NOMINATIVE*   | ein Hund       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      | einem Hund        
+ DATIVE***     | einem Hund        
 ---------------|------------
- ACCUSATIVE*   | einen Hund         
+ ACCUSATIVE****| einen Hund         
 
 
 ==================================================
@@ -100,13 +100,13 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | eine Katze      
+ NOMINATIVE*   | eine Katze      
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      |         
+ DATIVE***     |         
 ---------------|------------
- ACCUSATIVE*   | eine Katze          
+ ACCUSATIVE****| eine Katze          
 
 
 ==================================================
@@ -114,13 +114,13 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ==================================================  
  CASE          | EXAMPLE  
 ---------------|------------
- NOMINATIVE    | ein Haus       
+ NOMINATIVE*   | ein Haus       
 ---------------|------------
  GENITIVE      |         
 ---------------|------------
- DATIVE**      |         
+ DATIVE***     |         
 ---------------|------------
- ACCUSATIVE*   | ein Haus        
+ ACCUSATIVE****| ein Haus        
 
 
 
@@ -139,6 +139,17 @@ Zero articles are used in the following cases:
     ---------
     Du magst Pommes.: Ti piacciono le patatine fritte. 
     Sie mag Autos.: A lei piacciono le auto.
+    ---------
+    Sie hört Stimmen(P).: Lei sente delle voici.
+    ---------
+    Wir geben Janusz (DAT. - NULLARTIKEL NAMES) 
+    Kaffee (ACC. - NULLARTIKEL INDEF.).:
+    Diamo a Janusz del caffè
+    ----------
+    Ich gebe Janusz (DAT. - NULLARTIKEL NAMES) 
+    Geld (ACC. - NULLARTIKEL INDEF.).: 
+    Do a Janusz del denaro. 
+
 
 --------------------------------------------------
 > For NAMES AND COMPANY NAMES that are not preceded by adjectives:
@@ -193,19 +204,6 @@ Zero articles are used in the following cases:
     Ich fahre Fahrrad.: Io vado in bici. 
     Du fährst Straßenbahn. Tu vai in tram.
 
---------------------------------------------------
-> For IDEFINITE QUANTITIES: 
-    E.G.:
-    Sie hört Stimmen: Lei sente delle voci
-    ----------
-    Wir geben Janusz (DAT. - NULLARTIKEL NAMES) 
-    Kaffee (ACC. - NULLARTIKEL INDEF.).:
-    Diamo a Janusz del caffè
-    ----------
-    Ich gebe Janusz (DAT. - NULLARTIKEL NAMES) 
-    Geld (ACC. - NULLARTIKEL INDEF.).: 
-    Do a Janusz del denaro. 
-
 
 
 ##################################################
@@ -221,7 +219,7 @@ and changes depending on the gender and case of the noun
 that they are used with.
 
 
-DECLENSIONS - NOMINATIVE CASE
+DECLENSIONS - NOMINATIVE*  CASE
 --------------------------------------------------
  GENDER     | ENDING  | EXAMPLE
 ------------|---------|------------
@@ -233,12 +231,25 @@ DECLENSIONS - NOMINATIVE CASE
 ------------|---------|------------
  PLURAL     | -e      | Keine Äpfel (no apples)
 
-
 E.G.:
 Das sind kein-E (NOM.) Bücher (P)
 
 
-DECLENSIONS - ACCUSATIVE*
+DECLENSIONS - DATIVE***
+--------------------------------------------------
+ Gender     | Ending  | Example?
+------------|---------|--------------
+ MASCULINE  | -em     | mit keinem Hund  
+------------|---------|--------------
+ FEMININE   | -er     | mit keiner Frau
+------------|---------|--------------
+ NEUTER     | -em     | mit keinem Baby
+------------|---------|--------------
+ PLURAL     | -en     | mit keinen Freunden
+
+
+
+DECLENSIONS - ACCUSATIVE****
 --------------------------------------------------
  Gender     | Ending  | Example
 ------------|---------|--------------
@@ -255,47 +266,61 @@ Es macht alles kein-EN (ACC.) Sinn (M):
 Tutto questo non ha senso.
 
 
-DECLENSIONS - DATIVE**
---------------------------------------------------
- Gender     | Ending  | Example?
-------------|---------|--------------
- MASCULINE  | -em     | mit keinem Hund  
-------------|---------|--------------
- FEMININE   | -er     | mit keiner Frau
-------------|---------|--------------
- NEUTER     | -em     | mit keinem Baby
-------------|---------|--------------
- PLURAL     | -en     | mit keinen Freunden
 
 
 NOTE:
 --------------------------------------------------
-*The ACCUSATIVE CASE is the fourth German case. 
-It is used with certain prepositions as well as with the majority of verbs, 
-e.g. haben (to have). The accusative is used for the direct object. 
-The direct object is the object/person which is used for the action, 
-it does not perform any action itself. 
-You ask for the direct object with Wen oder was? (Who? or What?).
+* The NOMINATIVE CASE is the first German case. The nominative is the 
+  basic form of the noun and describes the subject, thus the person or 
+  object which acts. The subject also determines the conjugation of the verb. 
 
-E.G.:
-Ich mache den Fernseher aus.: I turn off the TV.
-The prepositions um, durch, ohne, für and gegen always require the accusative.
+  The nominative case also occurs after the verbs sein, werden (to be, to become) 
+  and bleiben (to stay) - it is not a subject in this case, but a predicative. 
+  You ask for the nominative case with Wer oder was? (Who?).
 
-Example:
-Ich fahre durch die Stadt.: I drive through the city.
+  E.G.:
+  > Nominative as subject:
+  **Das Mädchen** trägt ein Kleid.: The girl is wearing a dress.
 
-** The DATIVE CASE refers to someone or something that is affected by the 
-action of a verb, but is not the primary object.
-(In English it answers the questions TO WHOM|TO WHAT?)
-
-E.G.: 
-Ich gebe dem Mann das Buch.
-I give the man the book.|I give the book TO THE man.
-
-The primary object is the book, and the person affected is "him", 
-so it is the dative case.
+  > Object as predicative:
+  Ich bin **eine Frau**.: I am a woman.
 
 
+*** The DATIVE CASE is the third German case. 
+    It refers to someone or something that is affected by the 
+    action of a verb, but is not the primary object.
+    It is used with certain prepositions and verbs. The dative is used 
+    for the indirect object. The indirect object is usually the person 
+    who gets or receives something (usually the direct object). Furthermore, 
+    some verbs require the dative exclusively, regardless of whether someone
+    gets something, e.g. **gehören** (to belong to), **antworten** (to answer), 
+    **glauben** (to believe). 
+    You ask for the indirect object with Wem? (Whom?).
+    (In English it answers the questions TO WHOM|TO WHAT?)
+
+    E.G.: 
+    Ich gebe dem Mann das Buch.
+    I give the man the book.|I give the book TO THE man.
+    The primary object is the book, and the person affected is "him", 
+    so it is the dative case.
+    ----------
+    Ich gebe **meiner Mutter** die Blumen.: I give the flowers to my mom.
+    Das Handy gehört **mir**.: That phone is mine.
+    ----------
+
+**** The ACCUSATIVE CASE is the fourth German case. 
+     It is used with certain prepositions as well as with the majority of verbs, 
+     e.g. haben (to have). The accusative is used for the direct object. 
+     The direct object is the object/person which is used for the action, 
+     it does not perform any action itself. 
+     You ask for the direct object with Wen oder was? (Who? or What?).
+
+     E.G.:
+     Ich mache den Fernseher aus.: I turn off the TV.
+     The prepositions um, durch, ohne, für and gegen always require the accusative.
+
+     Example:
+     Ich fahre durch die Stadt.: I drive through the city.
 
 REFS:
 https://it.wikipedia.org/wiki/Articoli_tedeschi
