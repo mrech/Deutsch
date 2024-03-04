@@ -11,12 +11,33 @@ IPA        | CONJUNCTIONS | TRANSLATION
 /ab[aʁ]/   | aber         | but
            | doch         | but
            | sondern      | but rather
+/deb[ai]/  | debei        | thereby
+/zoç[aʁ]/  | socher       | even
 
 
-E.G.:
-Ich höre Cari und Ana
+> Und: and
+    E.G.:
+    Ich höre Cari und Ana
 -----------
-Aber sie will auch nicht rausgehen.: 
-But, she also doesn't want to go out.
-Ma lei non vuole neanche uscire. 
+> Aber: but
+    E.G.:
+    Aber sie will auch nicht rausgehen.: 
+    But, she also doesn't want to go out.
+    Ma lei non vuole neanche uscire. 
 -----------
+> Debei: thereby
+    E.G.:
+    Man kann meditieren und sich dabei entspannen.:
+    You can meditate and thereby relax.
+----------
+> Socher: even
+    E.G.:
+    Socher ihr-E (NOM.) Toasts (P) sind Schwartz.
+    Even her toast are black.
+----------
+> Oder: or
+    E.G.:
+    Ist das schwarz oder weiß?
+    È questo nero o bianco?
+----------
+    
