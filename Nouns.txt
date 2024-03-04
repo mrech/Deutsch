@@ -105,7 +105,8 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                      |                 | die Bank             | die Bank
                      | corner          | die Ecke             | die Ecken
                      | tram/metro      | die Straßenbahn      | die Straßenbahnen
-
+/kl[ai]'dʊng/        | abbigliamento/  |                      | 
+kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
 
 
 ==================================================
@@ -158,7 +159,7 @@ NEUTRUM/NEUTRO
 /bat/        | foglia   | das Blatt       | die Blätter
              | capelli  | das Haar        | die Haare        
              | glass    | das Glas        | die Gläser
-
+             | cosa     | das Ding        | die Dinge
 
 ##################################################
 ==================================================
