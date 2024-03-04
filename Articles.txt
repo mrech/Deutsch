@@ -17,58 +17,58 @@ on the gender and case of the noun it's attached to.
 ==================================================
  MASCULINE
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | der Hund       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     | dem Hund        
----------------|------------
- ACCUSATIVE****| den Hund        
+ CASE          | EXAMPLE     | TRANSLATION 
+---------------|-------------|-------------
+ NOMINATIVE*   | der Hund    |   
+---------------|-------------|-------------
+ GENITIVE**    | des Hund-ES | of the dog
+---------------|-------------|-------------
+ DATIVE***     | dem Hund    |     
+---------------|-------------|-------------
+ ACCUSATIVE****| den Hund    |        
 
 
 ==================================================
  FEMININE
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | die Katze       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     | der Katze: Ich gebe der Katze die piazza.:
-               |            I give the pizza to the cat.
----------------|------------
- ACCUSATIVE****| die Katze        
+ CASE          | EXAMPLE    | TRASLATION
+---------------|------------|---------------
+ NOMINATIVE*   | die Katze  |     
+---------------|------------|---------------
+ GENITIVE**    | der Katz-E | of the cat
+---------------|------------|---------------
+ DATIVE***     | der Katze  | Ich gebe der Katze die piazza.:
+               |            | I give the pizza to the cat.
+---------------|------------|---------------
+ ACCUSATIVE****| die Katze  |        
 
 
 ==================================================
  NEUTER
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | das Haus       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     | dem Haus:         
----------------|------------
- ACCUSATIVE****| das Haus          
+ CASE          | EXAMPLE     | TRANSLATION
+---------------|-------------|---------------
+ NOMINATIVE*   | das Haus    |   
+---------------|-------------|---------------
+ GENITIVE**    | des Haus-ES | of the house      
+---------------|-------------|---------------
+ DATIVE***     | dem Haus    |      
+---------------|-------------|---------------
+ ACCUSATIVE****| das Haus    |       
 
 
 ==================================================
  PLURAL
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | die Leute       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     | den Leute        
----------------|------------
- ACCUSATIVE****| die Leute        
+ CASE          | EXAMPLE    | TRANSLATION
+---------------|------------|----------------
+ NOMINATIVE*   | die Leute  |     
+---------------|------------|----------------
+ GENITIVE**    | der Eltern | of the parents
+---------------|------------|----------------
+ DATIVE***     | den Leute  |       
+---------------|------------|----------------
+ ACCUSATIVE****| die Leute  |      
 
 
 ##################################################
@@ -84,43 +84,43 @@ or not unique/one of many. They are declined and only used for singular nouns.
 ==================================================
  MASCULINE
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | ein Hund       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     | einem Hund        
----------------|------------
- ACCUSATIVE****| einen Hund         
+ CASE          | EXAMPLE        | TRANSLATION
+---------------|----------------|-----------------
+ NOMINATIVE*   | ein Hund       |       
+---------------|----------------|-----------------
+ GENITIVE**    | ein-ES Hund-ES | of a dog
+---------------|----------------|-----------------
+ DATIVE***     | einem Hund     |     
+---------------|----------------|-----------------
+ ACCUSATIVE****| einen Hund     |         
 
 
 ==================================================
  FEMININE
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | eine Katze      
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     |         
----------------|------------
- ACCUSATIVE****| eine Katze          
+ CASE          | EXAMPLE       | TRANSLATION
+---------------|---------------|----------------
+ NOMINATIVE*   | eine Katze    |      
+---------------|---------------|----------------
+ GENITIVE**    | ein-ER Katz-E | of a cat      
+---------------|---------------|----------------
+ DATIVE***     |               | 
+---------------|---------------|----------------
+ ACCUSATIVE****| eine Katze    |         
 
 
 ==================================================
  NEUTER
 ==================================================  
- CASE          | EXAMPLE  
----------------|------------
- NOMINATIVE*   | ein Haus       
----------------|------------
- GENITIVE      |         
----------------|------------
- DATIVE***     |         
----------------|------------
- ACCUSATIVE****| ein Haus        
+ CASE          | EXAMPLE        | TRANSLATION
+---------------|----------------|-------------------
+ NOMINATIVE*   | ein Haus       |       
+---------------|----------------|-------------------
+ GENITIVE**    | ein-ES Haus-ES | of a house       
+---------------|----------------|-------------------
+ DATIVE***     |                |
+---------------|----------------|-------------------
+ ACCUSATIVE****| ein Haus       |       
 
 
 
@@ -284,6 +284,47 @@ NOTE:
 
   > Object as predicative:
   Ich bin **eine Frau**.: I am a woman.
+
+
+** The GENITIVE CASE is the second German case. It indicates an affiliation
+   or ownership and follows certain verbs, prepositions and adjectives.
+   You can
+   ask for the genitive case with WESSEN? (WHOSE?).
+   
+
+   The following prepositions always require the genitive:
+   - wegen:
+   - während:
+   - trotz:
+   - innerhallb:
+   - außerhalb:
+   - aufgrund:
+   - anstelle:
+   - (an)statt:
+
+   E.G.:
+   Wegen des Regens können wir nicht rausgehen.
+   We can't go out because of the rain.
+
+   Furthermore, the genitive can occur in noun-noun constructions. 
+
+   E.G:
+   Noun-Noun construction:
+   Das ist die Tasche des Mannes.: This is the man's bag.
+
+   E.G.:
+   Noun-noun construction with proper nouns:
+   Hannah-S (GEN.) Katze ist Braun.: Hanna's cat is brown.
+
+   The endings -S and -ES are distinctive features of the genitive case.
+   The endings -ES for masculine amd neutral nouns are compulsory for
+   nouns endings with -s, -ß, -x, and -z.
+   The ending -s is applicable for all other masculine and neutral nouns.
+   Nevertheless, ending with -es often sounds better.
+
+   E.G.:
+   > der Schatz - des Schatzes (the treasure - of the treasures)
+   > der Mann - des Mann(e)s (the man - of the man)
 
 
 *** The DATIVE CASE is the third German case. 
