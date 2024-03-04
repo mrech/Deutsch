@@ -15,7 +15,7 @@ E.G.:
 Die Haare der Frau sind rot.: The woman's hair is red.
 
 ==================================================
-ADJECTIVE
+PREDICTIVE ADJECTIVE
 ==================================================  
 > Eigen /[ai]gen /: own
 > Besser: better
@@ -24,14 +24,14 @@ ADJECTIVE
 > Schüchtern /ʃyːʃktern/: shy
 > Lieb /lib/: lovely
 > Beeindruckend /be[ai]ndrukend/: impressive
-> nass: wet > Der Regen ist nass
-> laut: loud
+> Nass: wet > Der Regen ist nass
+> Laut: loud
     E.G.:
     Du bist laut.: You're laud.
 > Leise /Laise/:
     E.G.:
     Wir sind leise.: we are quite.
-> schlecht /ʃleckt/: bad 
+> Schlecht /ʃleckt/: bad 
     E.G.:
     Es ist schlecht.: Così non va bene.
 > Kalt: cold
@@ -40,8 +40,8 @@ ADJECTIVE
     E.G.:
     Marina hat leider kein Glück: 
     Marina sfortunatamente non ha fortuna.
-> unsichtbar /un[z]iktbar/: invisible
-> jung /jʊng/: giovane|jung
+> Unsichtbar /un[z]iktbar/: invisible
+> Jung /jʊng/: giovane|jung
     E.G.:
     Emma ist jung.: Emma è giovane.
     ----------
@@ -50,20 +50,20 @@ ADJECTIVE
     ----------
     Emma, so jung bist du nicht.: 
     Emma, tu non sei così giovane. 
-> schön /[ʃ][øː]n/: beautiful
+> Schön /[ʃ][øː]n/: beautiful
     E.G.:
     Ihr mögt das schön-E (ACC.) Wetter (N).: 
     Vi piace il bel tempo. 
-> stark: strong
+> Stark: strong
     E.G.:
     Ich bin stark.: Io sono forte.
-> schwach /ʃvaç/:  Lui è debole
+> Schwach /ʃvaç/:  Lui è debole
     E.G.:
     Er ist schwach.: Lui è debole
-> fröhlich /frøːliʃ/: happy/allegra
+> Fröhlich /frøːliʃ/: happy/allegra
     E.G.:
     Sie ist fröhlich.: Lei è allegra. 
-> traurig /trauri[ç|ʃ]/: sad 
+> Traurig /trauri[ç|ʃ]/: sad 
     E.G.:
     Sie sind traurig.: Loro sono tristi.
 > Groß /gros/: tall
@@ -92,6 +92,10 @@ ADJECTIVE
 > Dreckig /dreki[ç|ʃ]/: Dirty
     E.G.:
     Das Haus ist dreckig.: La casa è sporca.
+> Persö'nlich [pers[øː]'nli/ç|ʃ]/: personale
+> COLOURS:
+    - Schwarz /ʃvarz/: black
+    - Weiß /v[ai]is/: bianco
 
 
 ==================================================
