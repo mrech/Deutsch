@@ -41,3 +41,35 @@ They are called "sentence adverbs" and treated like a single word.
     Emma hat kein Brot zu Hause.: 
     Emma has no bread at home.
 ----------
+
+
+==================================================
+TIME
+================================================== 
+> Jetzt: Now | Ora | Adesso
+    E.G.:
+    Justinas pommes sind jetzt weg.
+    Justina's fris are gone now. 
+----------
+> Dran: Next | In seguito a ciò (coll.)
+    E.G.:
+    TODO
+----------
+> Bald: Soon | Fra poco, presto
+    E.G.: 
+    Bald sprichst du fließend Deutsch! 
+----------
+> Heute /hɔyte/: today
+    E.G.: 
+    Du machst das richtig gut heute.
+----------
+> Matchmal /man[ç]mal: a volte/talora/talvolta | sometimes
+    E.G.:
+    Manchmal möchte Marina alleine leben.
+----------
+> oft: often
+----------
+> Nie: never
+    E.G.:
+    Deswegen macht sie ihr (ACC.) Bett nie.:
+    Per questo non fà mai il suo letto.
