@@ -90,8 +90,8 @@ Das weiß ich leider nicht.: I don't know that unfortunately.
 
 ==================================================
 MÖGEN: to like to/may|might
-       volere (avere desiderio di)
-       piacere (aver piacere di)
+       volere (avere desiderio di) | want
+       piacere (aver piacere di) | like
 ==================================================
 
  PRONOUN  | 
@@ -124,12 +124,6 @@ Sie       | tu-N
 
 E.G.:
 Was tun Sie da?: What are you doing there?.
-
-
-
-
-
-
 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -288,7 +282,7 @@ Ihr       | helf-T
 Sie       | helf-EN      
 
 E.G.:
-TODO
+Sie hlft dem alten Mann.: She helps the old man.
 
 
 ==================================================
@@ -473,7 +467,22 @@ E.G.:
 TODO
 
 
+==================================================
+SCHLAFEN: to sleep | dormire
+==================================================
 
+          | PRÄSENS   
+----------| ---------- 
+Ich       | schlaf-E    
+Du        | schlÄf-ST          
+Er/Sie/Es | schlÄf-T       
+Wir       | schlaf-EN          
+Ihr       | schlaf-T          
+Sie       | schlaf-EN 
+
+E.G.:
+Loane schlÄft und isst im Bett.: 
+Loane dorme e mangia sul letto. 
 
 
 ##################################################
@@ -900,6 +909,23 @@ Sie       | spiel-EN
 
 E.G.:
 Ich mag Gitarre spielen.: Mi piace suonare la chitarra. 
+
+
+==================================================
+LIEGEN: to lie | giacere
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | lieg-E    
+Du        | lieg-ST          
+Er/Sie/Es | lieg-T       
+Wir       | lieg-EN          
+Ihr       | lieg-T          
+Sie       | lieg-EN 
+
+E.G.:
+Sie liegt immer im Bett.: Lei è sempre sdraiata sul letto.
 
 
 ==================================================
