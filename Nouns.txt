@@ -74,7 +74,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                      |                 | Die Jacke            | Die Jacken
 /myːtse              | capello         | Die Mütze            | Die Mützen
 /[Z].../             |                 | Die Sonnenbrille     | Die Sonnenbrillen
-/perzon/             |                 | Die Person           |
+/perzon/             |                 | Die Person           | Die Personen
                      |                 | Wurst                |
 /ʏːbongen/           | esercizio       | die Übung            | Die Übungen
 /ʃtimme/             | voices          | die Stimme           | die Stimmen
@@ -160,6 +160,9 @@ NEUTRUM/NEUTRO
              | capelli  | das Haar        | die Haare        
              | glass    | das Glas        | die Gläser
              | cosa     | das Ding        | die Dinge
+             | bed/     |                 |
+             | letto    | das Bett        | die Betten
+
 
 ##################################################
 ==================================================
