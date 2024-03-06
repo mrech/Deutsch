@@ -42,6 +42,7 @@ bei + dem = beim
 von + dem = vom
 zu + dem = zum (for + the)
 zu + der = zur
+in + dem = im
 
 E.G.:
 Er ist beim Arzt (DAT.).
@@ -49,6 +50,9 @@ He is at the doctor.
 ----------
 Sie sind zum (DAT.) erst-EN (DAT.) mal in Berlin.:
 Loro sono a Berlino per la prima volta.
+----------
+Loane liegt immer im (DAT.) Bett (N).:
+Loane lies always in the bed.
 
 
 ==================================================
@@ -96,7 +100,8 @@ PREPOSITION  | TRANSLATION
 an           | at, on top of     
 auf          | on, to     
 hinter       | behind     
-in           | in     
+in           | in
+im (in+dem)  | in the     
 neben        | next to     
 über         | above 
 unter        | under
