@@ -232,7 +232,9 @@ DECLENSIONS - NOMINATIVE*  CASE
  PLURAL     | -e      | Keine Äpfel (no apples)
 
 E.G.:
-Das sind kein-E (NOM.) Bücher (P)
+Das sind kein-E (NOM.) Bücher (P).:
+Questi non sono libri.
+
 
 
 DECLENSIONS - DATIVE***

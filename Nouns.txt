@@ -87,7 +87,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /Begrʏsʊng/          | saluto          | die Begrüßung        | die Begrüßungen
 /Poizai/             |                 | die Polizei          | die Polizeien 
 /poɐtzion/           | porzione        | die Portion          | die Portionen
-//                   | metro           | die U-Bahn           |
+//                   | metro           | die U-Bahn           | die U-Bahnen
 /vonʊng/vonʊnghen/   | appartamento    | die Wohnung          | die Wohnungen
                      | umore/capriccio | die Laune            | die Launen 
                      | amiche          |                      |
@@ -99,7 +99,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 /[oi]le/             | owl/gufo        | die Eule             | die Eulen            
 /Haus'aufgabe/       | compiti         | die Hausaufgabe      | die Hausaufgaben
 /[v]o[ç]e/           | week            | die Woche            | die Wochen
-//                   | idea            | die Ahnung           | die Ahnungen
+/ahnʊng/ahnʊnghen/   | idea            | die Ahnung           | die Ahnungen
                      | people          | die Leute            | die Leute
                      |                 | die Pizza            | die Pizzen
                      |                 | die Bank             | die Bank

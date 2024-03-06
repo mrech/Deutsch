@@ -231,7 +231,7 @@ Du sprichst fließend Deutsch!: You speak german fluently
 
 
 ==================================================
-GEBEN: to give 
+GEBEN: to give | dare
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -266,6 +266,9 @@ Kaffee (ACC. - NULLARTIKEL INDEF.)
 ----------
 Ihr gebt mir (DAT.) euer (ACC.) Geld (N).:
 Voi mi date i vostri soldi.
+----------
+Sie geben mir (DAT.) ein (ACC.) seichen (N).:
+They give me a sign. 
 
 
 ==================================================

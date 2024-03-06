@@ -38,7 +38,7 @@ They are called "sentence adverbs" and treated like a single word.
 
 > zu Hause: at home
     E.G.:
-    Emma hat kein Brot zu Hause.: 
+    Emma hat kein (ACC.) Brot (N) zu Hause.: 
     Emma has no bread at home.
 ----------
 
@@ -68,6 +68,9 @@ TIME
     Manchmal möchte Marina alleine leben.
 ----------
 > oft: often
+    E.G.:
+    Junge Leute sind oft verrükt.:
+    Young people are often creazy.
 ----------
 > Nie: never
     E.G.:

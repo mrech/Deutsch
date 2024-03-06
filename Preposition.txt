@@ -26,10 +26,10 @@ E.G.:
 Das Hotel ist dem Bahnhof (DAT.) gegenüber.
 The hotel is across from the train station.
 ----------
-Ihr fahrt mit der (DAT.) U-bahn (F) nach Hause.:
+Ihr fahrt mit der (DAT.) U-bahn (F) nach (DAT.) Haus-E.:
 Voi andate a casa in metropolitana.
 ----------
-Sie fahren mit dem Aufzug.: Loro vanno in ascensore.
+Sie fahren mit dem (DAT.) Aufzug (M).: Loro vanno in ascensore.
 ---------- 
 Sie essen die Pommes von Justina|Sie essen Justinas Pommes:
 Si mangiano le patatine fritte di Justyna. 

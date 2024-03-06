@@ -91,6 +91,23 @@ IPA        | PRONOUN    | TRANSLATION
            | ihr        | their   
 
 
+DECLENSIONS - NOMINATIVE
+--------------------------------------------------
+ Gender     | Ending  | Example
+------------|---------|--------------
+ MASCULINE  |         | mein Hund  
+------------|---------|--------------
+ FEMININE   | -e      | meine Frau
+------------|---------|--------------
+ NEUTER     |         | mein Baby
+------------|---------|--------------
+ PLURAL     | -e      | meine Äpfel
+
+E.G.:
+Ihr-E Kleidung (F) ist schwarz.:
+Voi dovete fare sempre i vostri compiti.
+
+
 DECLENSIONS - ACCUSATIVE**
 --------------------------------------------------
  Gender     | Ending  | Example

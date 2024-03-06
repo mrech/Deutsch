@@ -111,6 +111,30 @@ endigns.
     --------
     Aber sie ist kein-E (NOM.) einfach-E (NOM.) person (F).:
     Ma lei non è una persona semplice.
+> Viel: molto
+    N.B.:
+    "viel" does not change its form based on gender 
+    or case in the singular form. 
+    The changes occur in the plural form as follow:
+
+     CASE | ENDING  | EXAMPLE
+    ------|---------|------------
+     NOM. | viel-E  | Viele Menschen (Many people)
+    ------|---------|------------
+     DAT. | viel-EN | Ich helfe vielen Menschen 
+          |         | (I help many people)
+    ------|---------|------------
+     ACC. | viel-E  | Ich trinke viel Wasser 
+          |         | (I trink a lot of water)
+    ------|---------|------------
+     GEN. | viel-ER | Die Freude vieler Menschen
+          |         | (The joy of many people)
+
+    E.G.:
+    Du sollst nicht so viel (NOM.) Kaffee (M) trinken.:
+    Non dovresti bere così tanto caffè.
+    --------
+
     
 
 
