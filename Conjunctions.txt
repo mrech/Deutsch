@@ -13,6 +13,7 @@ IPA        | CONJUNCTIONS | TRANSLATION
            | sondern      | but rather
 /deb[ai]/  | debei        | thereby
 /zoç[aʁ]/  | socher       | even
+           | deswegen     | that's why, per questo     
 
 
 > Und: and
@@ -40,4 +41,7 @@ IPA        | CONJUNCTIONS | TRANSLATION
     Ist das schwarz oder weiß?
     È questo nero o bianco?
 ----------
-    
+> Deswegen: per questo
+    E.G.:
+    Deswegen macht sie ihr (ACC.) Bett nie.:
+    Per questo non fà mai il suo letto.
