@@ -101,6 +101,19 @@ endigns.
   E.G:
   Meine Schwester wird ärgerlich.:
   My sister is becoming angry. 
+> Einfach /[ai]nfaç/: simple
+    E.G.:
+    Loane mag enfach-E (ACC.) kleidung (F).:
+    Loane likes the simple clothes.
+    --------
+    Sie mag auch einfach-ES (ACC.) essen (N).:
+    Ama anche il cibo semplice.
+    --------
+    Aber sie ist kein-E (NOM.) einfach-E (NOM.) person (F).:
+    Ma lei non è una persona semplice.
+    
+
+
 > COLOURS:
     - Schwarz /ʃvarz/: black
     - Weiß /v[ai]is/: bianco
