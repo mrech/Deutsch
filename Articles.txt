@@ -334,8 +334,25 @@ NOTE:
     for the indirect object. The indirect object is usually the person 
     who gets or receives something (usually the direct object). Furthermore, 
     some verbs require the dative exclusively, regardless of whether someone
-    gets something, e.g. **gehören** (to belong to), **antworten** (to answer), 
-    **glauben** (to believe). 
+    gets something, e.g.:
+    > **gehören** (to belong to)
+        E.G.:
+        Das Buch gehört mir: The book belong to me, 
+    > **antworten** (to answer)
+        E.G.:
+        Ich antworte dir später: I'll answer your latter., 
+    > **glauben** (to believe),
+    > **helfen** (to help)
+        E.G.:
+        Sie hilft dem alten Mann.: She helps the old man. 
+    > **gratulieren** (to congratulate)
+        E.G.:
+        Er gratuliert seiner Mutter zum Geburtstag.
+        He congratulates his mother on her birthday.
+    > **schlafen** (to lie|giacere)
+        E.G.:
+        Sie schläfen im Bette.: She lies in the bed.
+
     You ask for the indirect object with Wem? (Whom?).
     (In English it answers the questions TO WHOM|TO WHAT?)
 
