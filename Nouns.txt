@@ -48,6 +48,7 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
 /aufzu[k|g]/  | ascensore   | der Aufzug        | die Aufzüge
               | vacation/   |                   |
               | vacanza     | der Urlaub        | die Urlaube
+              | parco       | der Park          | die Parks       
 
 
 ==================================================
@@ -114,54 +115,56 @@ NEUTRUM/NEUTRO
 ==================================================
 > Nouns starting with 'Ge-' such as das Getränk and das Geheime are neuter.
 
-             |          | SINGOLARE       | PLURALE
--------------|----------|-----------------|--------------
-             |          | Mädchen         | Mädchen
-             |          | Kind            | Kinder
-             |          | das Wasser      | die Wässer
-             |          | das Brot        | die Brote
- /buːç/      |          | Das Buch        | Die Bücher /byːçɐ/
-             |          | Stadtviertel    | 
-             |          | Wort            | Worte
-             |          | das Deutsch     |
-             |          | das Haus        | die Häuser
-             |          | das Café        | die Cafés
-             |          | das Hallo       |
-             |          | Gute            |
-             |          | Das Keybord     |
-             |          | Das T-shirt     | 
-/Ghetrɛ:nk/  | Drink    | Das Getränk     |
-/g'haime/    | Secret   | Das Geheime     | -
-             |          | Das Wiedersehen |
-/styːkien/   | bit/poco | das Stückchen   | Die Stückchen         
-             |          | das problem     | Die Probleme /pʁoblema/
- /end/       | the end  | das Ende        | Die Enden
-             |          | das Foto        | Die Fotos
-             | volta\   |                 |
-             | time     | das Mal         | Die Male
-             |          | das Ticket      | Die Tickets
-/gheld/      | soldi    | das Geld        | Die Gelder
-             | food     | das Essen       | das Essen
-/gl[yːk]/    | gioia/   |                 |
-/gl[yːk]/e   | fortuna  | das Glück       | die Glücke    
-             | talento  | das Talent      | die Talente   
-             |          | das Tattoo      | die Tattoos
-             |          | das Skateboard  |
-/k[yː]sen/   | baciare  | das Küssen      |
-/fa'rrad/    | bike     | das Fahrrad     | die Fahrräder
-             |          | das Modalverb   | die Modalverben
-             | animal   | das Tier        | die Tiere
-             |          | das Auto        | die Autos
-/[v]ett[ɐ]/  | weather  | das Wetter      | die Wetter
-             |          | das Konzert     | die Konzerte
-/Ge[ʃ]enk/   | regalo   | das Geschenk    | die Geschenke    
-/Z[ai][ç]en/ | sign     | das Zeichen     | die Zeichen   
-/bat/        | foglia   | das Blatt       | die Blätter
-             | capelli  | das Haar        | die Haare        
-             | glass    | das Glas        | die Gläser
-             | cosa     | das Ding        | die Dinge
-             | bed/     |                 |
-             | letto    | das Bett        | die Betten
+             |             | SINGOLARE       | PLURALE
+-------------|-------------|-----------------|--------------
+             |             | Mädchen         | Mädchen
+             |             | Kind            | Kinder
+             |             | das Wasser      | die Wässer
+             |             | das Brot        | die Brote
+ /buːç/      |             | Das Buch        | Die Bücher /byːçɐ/
+             |             | Stadtviertel    | 
+             |             | Wort            | Worte
+             |             | das Deutsch     |
+             |             | das Haus        | die Häuser
+             |             | das Café        | die Cafés
+             |             | das Hallo       |
+             |             | Gute            |
+             |             | Das Keybord     |
+             |             | Das T-shirt     | 
+/Ghetrɛ:nk/  | Drink       | Das Getränk     |
+/g'haime/    | Secret      | Das Geheime     | -
+             |             | Das Wiedersehen |
+/styːkien/   | bit/poco    | das Stückchen   | Die Stückchen         
+             |             | das problem     | Die Probleme /pʁoblema/
+ /end/       | the end     | das Ende        | Die Enden
+             |             | das Foto        | Die Fotos
+             | volta\      |                 |
+             | time        | das Mal         | Die Male
+             |             | das Ticket      | Die Tickets
+/gheld/      | soldi       | das Geld        | Die Gelder
+             | food        | das Essen       | das Essen
+/gl[yːk]/    | gioia/      |                 |
+/gl[yːk]/e   | fortuna     | das Glück       | die Glücke    
+             | talento     | das Talent      | die Talente   
+             |             | das Tattoo      | die Tattoos
+             |             | das Skateboard  |
+/k[yː]sen/   | baciare     | das Küssen      |
+/fa'rrad/    | bike        | das Fahrrad     | die Fahrräder
+             |             | das Modalverb   | die Modalverben
+             | animal      | das Tier        | die Tiere
+             |             | das Auto        | die Autos
+/[v]ett[ɐ]/  | weather     | das Wetter      | die Wetter
+             |             | das Konzert     | die Konzerte
+/Ge[ʃ]enk/   | regalo      | das Geschenk    | die Geschenke    
+/Z[ai][ç]en/ | sign        | das Zeichen     | die Zeichen   
+/bat/        | foglia      | das Blatt       | die Blätter
+             | capelli     | das Haar        | die Haare        
+             | glass       | das Glas        | die Gläser
+             | cosa        | das Ding        | die Dinge
+             | bed/        |                 |
+             | letto       | das Bett        | die Betten
+/[Ve][ge]    | shared room |                 |                 
+zi'mm[ɐ]/    | appartment  | das WG-Zimmer   | die WG-Zimmer
 
 
 ##################################################

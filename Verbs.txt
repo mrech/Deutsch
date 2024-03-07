@@ -722,12 +722,14 @@ Sie       | wohn-EN
 E.G.:
 Sollte man mit Freundinnen zusammen wohnen?
 Should one live together with friends?
-
+----------
 Marina wohnt mit ihren Freundinnen zusammen.
 Marina lives together with her friends. 
-
+----------
 Du wohnst nicht mit Freunden zusammen:
 You do not live with friends.
+----------
+Wo wohnst du?: Where do you live?
 
 
 ==================================================
@@ -929,6 +931,30 @@ Sie       | lieg-EN
 
 E.G.:
 Sie liegt immer im Bett.: Lei è sempre sdraiata sul letto.
+
+
+==================================================
+ZEIGEN: to show | indicare, mostrare
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | zeig-E    
+Du        | zeig-ST          
+Er/Sie/Es | zeig-T       
+Wir       | zeig-EN          
+Ihr       | zeig-T          
+Sie       | zeig-EN 
+
+E.G.:
+Marina will dir (DAT.) ihr-E (ACC.) Stadt (F) zeigen.:
+Marina vuole mostrarti la sua città.
+---------
+Sie kann dir (DAT.) den (ACC.) Park (M) zeigen.:
+Lei può mostrarti il parco.
+---------
+Aber kann nicht ihr (ACC.) Haus (N) zeigen.:
+Ma non può mostrare la sua casa.
 
 
 ==================================================

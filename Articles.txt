@@ -288,14 +288,13 @@ NOTE:
   Ich bin **eine Frau**.: I am a woman.
 
 
-** The GENITIVE CASE is the second German case. It indicates an affiliation
-   or ownership and follows certain verbs, prepositions and adjectives.
-   You can
-   ask for the genitive case with WESSEN? (WHOSE?).
+** The GENITIVE CASE is the second German case. The genitive case
+   shows possession. You can ask for the genitive case 
+   with WESSEN? (WHOSE?).
    
 
    The following prepositions always require the genitive:
-   - wegen:
+   - wegen /vegen/: a cause di | because of 
    - während:
    - trotz:
    - innerhallb:
@@ -307,6 +306,13 @@ NOTE:
    E.G.:
    Wegen des Regens können wir nicht rausgehen.
    We can't go out because of the rain.
+   --------
+   Sie ist wegen (GEN.) der Arbeit (F) in Deutschland.:
+   Sta in Germania per lavoro.
+   --------
+   Sie ist nicht wegen (GEN.) des Wetter-S (N) in Deutschland.:
+   Non sta in Germania per il tempo.
+   --------
 
    Furthermore, the genitive can occur in noun-noun constructions. 
 
@@ -319,7 +325,7 @@ NOTE:
    Hannah-S (GEN.) Katze ist Braun.: Hanna's cat is brown.
 
    The endings -S and -ES are distinctive features of the genitive case.
-   The endings -ES for masculine amd neutral nouns are compulsory for
+   The endings -ES for MASCULINE amd NEUTRAL nouns are compulsory for
    nouns endings with -s, -ß, -x, and -z.
    The ending -s is applicable for all other masculine and neutral nouns.
    Nevertheless, ending with -es often sounds better.
