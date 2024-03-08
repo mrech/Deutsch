@@ -269,12 +269,14 @@ Also all German articles can be used as demonstrative pronoun.
 E.G.:
 Kennst du diesen Mann? - Nein, den kenne ich nicht.
 Do you know that man? - No, I don't know him.
-
+---------
 Ich finde diese Hose besonders schön.
 I find these plats particularly beautiful.
-
+---------
 Mögt ihr diesen Song?: Vi piace questa canzone.
-
+---------
+Diesen Nachmittag hat Marina ihr-E (ACC.) Ruhe (F).:
+Questo pomeriggion Marina sta in pace. 
 
 
 

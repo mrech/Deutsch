@@ -97,10 +97,12 @@ TWO-WAY PREPOSITION
 
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
-an           | at, on top of     
+an           | at, on top of  
+am (an+dem)  | at, on top of   
 auf          | on, to     
 hinter       | behind     
 in           | in
+ins (in+das) | in
 im (in+dem)  | in the     
 neben        | next to     
 über         | above 

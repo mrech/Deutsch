@@ -541,9 +541,15 @@ Ihr       | mach-T
 Sie       | mach-EN   
 
 E.G.: 
-Du machst das richtig gut heute: Tu hai fatto molto bene oggi 
+Du machst das richtig gut heute: Tu hai fatto molto bene oggi
+----------
 Wir machen etwas geheimes: Noi facciamo qualcosa di segreto
-Pommes macht man aus Kartoffeln: French fies are made from potatoes
+----------
+Pommes macht man aus Kartoffeln: 
+French fies are made from potatoes
+---------
+Was machst du am Nachmittag?.: 
+What are you doing in the afternoon.
 
 
 ==================================================
@@ -975,6 +981,29 @@ Wir lieben ihr-E (ACC.) Haare (P).:
 Noi amiamo i suoi capelli.
 ----------
 Das lieben wir.: That's what we love. 
+
+
+==================================================
+GEHEN: to go | andare
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | geh-E  
+Du        | geh-ST          
+Er/Sie/Es | geh-T       
+Wir       | geh-EN          
+Ihr       | geh-T          
+Sie       | geh-EN 
+
+E.G.:
+Emma geht am (AN+DEM, DAT. - LOCATION(time)) 
+Nachmittag (M) in (ACC.- MOTION) die Bibliothek (F).: 
+Emma va in biblioteca al pomeriggio.
+---------
+Loane geht am (AN+DEM, DAT. - LOCATION(time)) 
+Nachmittag ins (IN+DAS, ACC. - MOTION).:
+Loane va in palestra al pomeriggio.
 
 
 ==================================================
