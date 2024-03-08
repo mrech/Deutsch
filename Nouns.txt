@@ -48,7 +48,9 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
 /aufzu[k|g]/  | ascensore   | der Aufzug        | die Aufzüge
               | vacation/   |                   |
               | vacanza     | der Urlaub        | die Urlaube
-              | parco       | der Park          | die Parks       
+              | parco       | der Park          | die Parks   
+              | soil /      |                   |
+              | pavimento   | der Boden         | die Böden
 
 
 ==================================================
@@ -108,6 +110,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
                      | tram/metro      | die Straßenbahn      | die Straßenbahnen
 /kl[ai]'dʊng/        | abbigliamento/  |                      | 
 kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
+                     | cucina          | die Küche            |
 
 
 ==================================================

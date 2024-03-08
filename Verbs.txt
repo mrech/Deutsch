@@ -958,6 +958,26 @@ Ma non può mostrare la sua casa.
 
 
 ==================================================
+LIEBEN: amare | to love
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | lieb-E    
+Du        | lieb-ST          
+Er/Sie/Es | lieb-T       
+Wir       | lieb-EN          
+Ihr       | lieb-T          
+Sie       | lieb-EN 
+
+E.G.:
+Wir lieben ihr-E (ACC.) Haare (P).: 
+Noi amiamo i suoi capelli.
+----------
+Das lieben wir.: That's what we love. 
+
+
+==================================================
 BEANTWORTEN: rispondere 
 ==================================================
 
