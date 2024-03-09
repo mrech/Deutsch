@@ -131,7 +131,7 @@ NEUTRUM/NEUTRO
              |             | Stadtviertel      | 
              |             | Wort              | Worte
              |             | das Deutsch       |
-             |             | das Haus          | die Häuser
+/di H[oi]sɐ/ |             | das Haus          | die Häuser
              |             | das Café          | die Cafés
              |             | das Hallo         |
              |             | Gute              |
