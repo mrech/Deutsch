@@ -5,6 +5,7 @@ CONTENT:
     - Stem-changing (e -> i)
     - Stem-changing (a -> ä)
 > REGULAR VERB
+    - Stem Endings (-d, -t)
 > SEPARABLE VERB
 > PAST PARTICIPLE
 > MODAL VERB
@@ -45,6 +46,7 @@ Seid ihr neu in Berlin?
 ==================================================
 HABEN: avere
 ==================================================
+
 The verb haben (to have) is a very frequent irregular German verb. 
 It indicates the possession of an object or a state referring to a noun. 
 It is also used with fixed phrases. 
@@ -600,7 +602,7 @@ Du        | sag-ST    |
 Er/Sie/Es | sag-T     |
 Wir       | sag-EN    |
 Ihr       | sag-T     |
-Sie       | sag-EN  |
+Sie       | sag-EN    |
 
 E.G.: 
 Es sagt mir nichts: Non mi dice nulla
@@ -1021,6 +1023,92 @@ Sie       |
 
 
 
+##################################################
+Stem Endings (-d, -t)
+##################################################
+
+Regular German verbs form the present tense by joining the 
+stem of the infinitive with the following endings. 
+If the verb stem ends in -D or-T, the verb endings -st of 
+the du-form and the -t ending in the er/es/sie and ihr 
+forms expands to -EST and -ET.
+
+==================================================
+ARBEITEN: to work
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       |           
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+Arbeit-E
+Arbeit-EST
+Arbeit-ET
+Arbeit- EN
+Arbeit-ET
+Arbeit- EN
+
+E.G.:
+TODO
+
+==================================================
+FINDEN: to find
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       |           
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+Find-E
+Find-EST
+Find-ET
+Find-EN
+Find-ET
+Find-EN
+
+E.G.:
+Max findet ein-E (ACC.) Tomate (F).:
+Max find a tomato.
+------------
+Er findet auch ein-EN (ACC.) Zettel (M).:
+He also finds a piece of paper.
+
+==================================================
+WARTEN: to wait
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       |           
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+wart-E
+wart-EST 
+wart-ET
+wart-EN
+wart-ET
+wart-EN
+
+E.G.:
+Max kann nicht bis später warten.:
+Max can’t wait until later.
+
+
+
 
 ##################################################
 ################# SEPARABLE VERB #################
@@ -1031,44 +1119,86 @@ The respective prefix of a verb determines whether the verb is
 separated or not. The verb is always conjugated the same way as 
 the simple verb without prefix.
 
+==================================================
+AUFWACHEN /Auf[v]a[ç]en/: to wake up
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       |           
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+wach-E auf
+wach-ST auf
+wach-T auf
+wach-EN auf
+wach-T auf
+wach-EN auf
+
 E.G.:
---------------------------------------------------
-aufwachen (to wake up): 
---------------------------------------------------
 Ich wache auf. (I wake up.)
 
 --------------------------------------------------
 losfahren (to set off): 
 --------------------------------------------------
-Das Auto fährt los. (The car begins to drive.)
+Das Auto fährt los. (The car set off.)
 
---------------------------------------------------
-einkaufen (to buy): 
---------------------------------------------------
-Mein Vater kauft Tomaten ein.(My father buys tomatoes.)
+==================================================
+EINKAUFEN: to buy | fare la spesa
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       |           
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |    
+
+kauf-E ein
+kauf-ST ein
+kauf-T ein
+kauf-EN ein
+kauf-T ein
+kauf-EN ein
+
+E.G.:
+Ich kaufe später ein.: 
+Faccio la spesa più tardi.
+
+Mein Vater kauft Tomaten ein.:
+My father buys tomatoes.
 
 
-The most important prefixes that designate separable verbs: 
-ab-, an-, auf-, aus-, ein-, gegen-, hoch-, los-, mit-, nach-, 
-vor-, weg-, weiter-, zurück-, da-, hin-, her-, raus-, rein-, 
-rüber- and runter-.
+The most important prefixes that designate separable verbs:
+AB-, AN-, AUF-, AUS-, EIN-, GEGEN-,HOCH-, LOS-, MIT-, NACH-, 
+VOR-, WEG-, WEITER-, ZÜRUCK-, DA-, HIN-, HER-, RAUS-, REIN-, 
+RÜBER- and RUNTER-.
 
-A separable verb separates from its prefix in the following scenarios:
+A separable verb separates from its prefix in the following 
+scenarios:
 
 > when conjugated: Er macht die Tür auf. (He opens the door.)
 > when the participle II is formed, a -ge- is placed between 
-the prefix and the root: 
-Meine Tante ist mitgekommen. (My aunt came with us.)
+  the prefix and the root: 
+  Meine Tante ist mitgekommen. (My aunt came with us.)
 
 
 A separable verb does not separate from its prefix 
 if it appears together with a modal verb:
 
-Wir müssen die Polizei anrufen.: We have to call the police.
+E.G.:
+Wir müssen die Polizei anrufen.: 
+We have to call the police.
 
 
 The following prefixes never separate from their verb stem: 
-be-, emp-, ent-, er-, ge-, ver- and zer-
+BE-, EMP-, ENT-, ER-, GE-, VER- and ZER-
 
 
 ==================================================
