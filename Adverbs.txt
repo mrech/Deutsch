@@ -76,3 +76,21 @@ TIME
     E.G.:
     Deswegen macht sie ihr (ACC.) Bett nie.:
     Per questo non fà mai il suo letto.
+----------
+> Gerade /grade/: just now
+    E.G.:
+    Max ist gerade aufgewacht.:
+    Max si è appena svegliato.
+----------
+> Später: later
+    E.G.:
+    Ich kaufe später ein.:
+    Faccio la spesa più tardi
+----------
+> Bis später: ultil later
+    E.G.:
+    Max kann nicht bis später warten.:
+    Max can't wait until later.
+----------
+
+
