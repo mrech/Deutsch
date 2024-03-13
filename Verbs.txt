@@ -1143,9 +1143,9 @@ TODO
 
 
 ##################################################
-################# PAST PARTICIPLE ################
+######## PAST PARTICIPLE (Partizip II) ###########
 ##################################################
-The past participle is a verb form and used to build compound tenses
+The past participle (Partizip II) is a verb form and used to build compound tenses
 such as the present perfect, the past perfect, the passive voices
 and the future perfect.
 
@@ -1157,16 +1157,16 @@ With regular verbs, the past participle is formed with the prefix GE-,
 the root of the verb, and a -T at the end.
 
 E.G.:
-machen > gemacht: to make|to do > made|done
-kochen > ge kocht: to cook > cooked 
+> machen - gemacht (to make - made)
+> kochen - gekocht (to cook - cooked)
 
 
 When the root of the verb ends in -T or -D, an additional E is added. 
 This happens also after some consonants to make it easier to pronounce.
 
 E.G.:
-/arbaiten/ arbeiten > gearbeitet: to work > worked
-öffnen > geöffnet: to open > opened
+> /arb[ai]ten/ arbeiten - gearbeitet (to work - worked)
+> öffnen - geöffnet: (to open - opened)
 
 
 Verbs that end with -IEREN or begin with inseparable prefixes 
@@ -1174,10 +1174,44 @@ such as BE-, ENT-, ER-, VER-, ZER- form the past participle
 without GE-.
 
 E.G.:
-telefonieren > telefoniert: to call > called
-studieren > studiert: to study > studied
-besuchen > besucht: to visit > visited
-erzählen > erzählt: to tell > told
+> telefonieren - telefoniert (to call - called)
+> studieren - studiert (to study - studied)
+> besuchen - besucht (to visit - visited)
+> erzählen - erzählt (to tell - told)
+
+
+==================================================
+IRREGULAR VERBS
+==================================================
+Most irregular verbs form the past participle with GE- in the beginning.
+However, many have a stem change, and they end in -EN.
+
+E.G.:
+> fahren- gefahren (to drive - driven)
+> singen - gesungen (to sing - sung)
+
+With irregular verbs that have inseparable prefixes 
+they create the past participle without GE-.
+
+E.G.:
+> vergessen - vergessen (to forget - forgotten)
+> beginnen - begonnen (to begin - begun)
+
+Some irregular verbs don't follow a pattern, such as::
+> verstehen -verstanden (to understand - understood)
+> gehen - gegangen (to go - gone)
+
+
+==================================================
+SEPARABLE VERBS
+==================================================
+The past participle of separable verbs is formed with the prefix GE-, 
+the root of the verb, and -T or -EN at the end.
+
+E.G.:
+> einkaufen - eingekauft (to buy - bought)
+> einschlafen - eingeschlafen (to fall asleep - fallen asleep)
+
 
 
 ##################################################
