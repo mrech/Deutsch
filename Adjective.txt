@@ -124,7 +124,7 @@ endigns.
      DAT. | viel-EN | Ich helfe vielen Menschen 
           |         | (I help many people)
     ------|---------|------------
-     ACC. | viel-E  | Ich trinke viel Wasser 
+     ACC. | viel    | Ich trinke viel Wasser 
           |         | (I trink a lot of water)
     ------|---------|------------
      GEN. | viel-ER | Die Freude vieler Menschen

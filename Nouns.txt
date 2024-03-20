@@ -51,7 +51,11 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
               | parco       | der Park          | die Parks   
               | soil /      |                   |
               | pavimento   | der Boden         | die Böden
-/na[ç]m'ittag/| afternoon   | der Nachmittag    | die Nachmittage
+/na[ç]m'ittag/| afternoon   | der Nachmittag    | die 
+/[Z]onntag/   | Sunday      | Der Sonntag       | Die Sonntage 
+              |refrigerator | der Kühlschrank   | die Kühlschränke
+              | Piece of    |                   |
+              | paper       | der Zettel        | die Zettel
 
 
 ==================================================
@@ -114,6 +118,8 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      | cucina          | die Küche            |
                      |                 | die Bibliothek       | die Bibliotheken
                      | riposo, quiete  | die Ruhe             | -
+                     |                 | die Tomate           | die Tomaten
+
 
 
 ==================================================
@@ -131,7 +137,7 @@ NEUTRUM/NEUTRO
              |             | Stadtviertel      | 
              |             | Wort              | Worte
              |             | das Deutsch       |
-             |             | das Haus          | die Häuser
+/di H[oi]sɐ/ |             | das Haus          | die Häuser
              |             | das Café          | die Cafés
              |             | das Hallo         |
              |             | Gute              |

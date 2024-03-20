@@ -35,7 +35,7 @@ on the gender and case of the noun it's attached to.
 ---------------|------------|---------------
  NOMINATIVE*   | die Katze  |     
 ---------------|------------|---------------
- GENITIVE**    | der Katz-E | of the cat
+ GENITIVE**    | der Katze  | of the cat
 ---------------|------------|---------------
  DATIVE***     | der Katze  | Ich gebe der Katze die piazza.:
                |            | I give the pizza to the cat.
@@ -290,11 +290,11 @@ NOTE:
 
 ** The GENITIVE CASE is the second German case. The genitive case
    shows possession. You can ask for the genitive case 
-   with WESSEN? (WHOSE?).
+   with WESSEN? (WHOSE? / DI CHI? - DI CHE COSA?).
    
 
    The following prepositions always require the genitive:
-   - wegen /vegen/: a cause di | because of 
+   - wegen /vegen/: a causa di | because of 
    - während:
    - trotz:
    - innerhallb:
