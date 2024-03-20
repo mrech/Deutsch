@@ -5,10 +5,16 @@ Wer bist du?: who are you?
 Ich heiße Morena
 Ich bin Morena
 Wie heiße ich?: what's my name?
+Mein Name ist Robinson.: Il mio nome è Robinson
 --------------------------------------------------
 Wo kommst du her?: Where are you from?
 Ich komme aus Verona.
 Ich bin Veronerin.
+--------------------------------------------------
+Wie geht's dir?: Come stai? (Come va a te?)
+Mir geht's gut/Mir geht es gut.: Sto bene! (A me va bene.)
+Wie geht es Ihnen?: Come sta? (Formal)
+Freut mich: Piacere (Mi fa piacere!)
 
 
 ==================================================
@@ -27,6 +33,12 @@ Bis morgen!: A domani
 Mach's gut!: stammi bene
 Gute Nacht: Buonanotte
 Willkommen: benvenuto
+Hallo!: Ciao
+Danke: Grazie
+Vielen Dank.: Molte grazie.
+Herr: signor
+Frau: signora
+Bitte: Per favore
 
 
 ==================================================
