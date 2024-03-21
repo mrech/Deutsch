@@ -1009,6 +1009,23 @@ Loane va in palestra al pomeriggio.
 
 
 ==================================================
+BUCHSTABIEREN: fare lo spelling 
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | buchstabier-E              
+Du        | buchstabier-ST         
+Er/Sie/Es | buchstabier-T      
+Wir       | buchstabier-EN         
+Ihr       | buchstabier-T         
+Sie       | buchstabier-EN       
+
+E.G.:
+Wie buchstabiert man das?: Come si scrive (lett. si fa lo spelling di) questo?
+
+
+==================================================
 BEANTWORTEN: rispondere 
 ==================================================
 

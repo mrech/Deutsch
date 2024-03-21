@@ -1,5 +1,6 @@
 ::TODO
-Herz
+Herz: cuore
+Bild: immagine
 
 ==================================================
 MASKULINUM/MASCHILE

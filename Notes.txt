@@ -126,3 +126,35 @@ NEW WORDS
 ----------
 > Ich kaufe später ein.: Faccio la dpesa più tardi.
 ----------
+
+
+==================================================
+DAS ALPHABET
+==================================================
+
+A /a/ 
+B /be/ 
+C /ce/ 
+D /de/ 
+E /e/
+F /ef/ 
+G /gh/ 
+H /ah/ 
+I /i/ 
+** J /iot/ **
+K /ka/ 
+L /el/ 
+M /em/ 
+N /en/ 
+O /o/
+P /pe/ 
+Q  
+R /er/ 
+S /es/ 
+T /te/
+U 
+** V /fao/ **
+** W /ve/ **
+X /ex/ 
+Y /upsilon/ 
+Z /zed/
