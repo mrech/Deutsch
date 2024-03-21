@@ -1,3 +1,6 @@
+::TODO
+Herz
+
 ==================================================
 MASKULINUM/MASCHILE
 ==================================================
@@ -56,6 +59,7 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
               |refrigerator | der Kühlschrank   | die Kühlschränke
               | Piece of    |                   |
               | paper       | der Zettel        | die Zettel
+              | lettera     | der Buchstabe     |
 
 
 ==================================================
