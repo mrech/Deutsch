@@ -1,6 +1,8 @@
 ::TODO
 Herz: cuore
 Bild: immagine
+Meer: Mare
+Mehr: più
 
 ==================================================
 MASKULINUM/MASCHILE
@@ -61,6 +63,8 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
               | Piece of    |                   |
               | paper       | der Zettel        | die Zettel
               | lettera     | der Buchstabe     |
+              | son         | der Sohn          |
+              | cortile     | der Hof           |
 
 
 ==================================================
@@ -124,6 +128,7 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      |                 | die Bibliothek       | die Bibliotheken
                      | riposo, quiete  | die Ruhe             | -
                      |                 | die Tomate           | die Tomaten
+                     | figlia          | die Tochter          | 
 
 
 
@@ -183,6 +188,8 @@ NEUTRUM/NEUTRO
 /[Ve][ge]    | shared room |                   |                 
 /zi'mm[ɐ]/   | appartment  | das WG-Zimmer     | die WG-Zimmer
              |             | das Fitnessstudio | die Fitnessstudios
+             | party       | das Fest          |
+            
 
 
 ##################################################

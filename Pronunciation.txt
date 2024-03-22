@@ -1,18 +1,55 @@
-> La *i* è corta se è seguita da due consonanti. 
+##################################################
+VOCALI
+##################################################
+
+La pronuncia delle vocali è CORTA se è seguita da 
+due consonanti. 
+    
+> I: *i* corta
     E.G.:
     Bitte: Prego
     Bist du Britta?
-----------
-> Quando è seguita da un'unica consonante, 
-  la pronuncia della i è solitamente lunga.
-----------
+> E: *e* corta
+    E.G.:
+    Fest: festa
+    Herr: Signore
+
+
+Quando la vocale è seguita da un'unica consonante, 
+la pronuncia della è solitamente LUNGA.
+Inoltre, è sempre lunga quando è seguita da un'altra
+*e* oppure dalla *h*.
+
 > [ie]: *i* lunga
     E.G.:
-    Wie: We
+    Wie: Come?
     Bier: Beer
     Auf Weidersehen.: Arrivederci
-----------
+> E: *e* lunga
+    E.G.:
+    Wer: chi?
 > [ih]: *i* lunga
     E.G.:
     Ihnen: you (formal)
-----------
+> [ee]: *e* lunga
+    E.G.:
+    Meer: Mare
+> [eh]: *e* lunga
+    E.G.:
+    Mehr: more/più
+
+
+---
+La *e* alla fine di una parola. 
+---
+Se una parola termina in -e o -en, la *e* è atona.
+    E.G.:
+    Danke: grazie
+    Bitte: prego
+    Gehen: andare
+
+
+---
+ß
+---
+> La lettera ß si pronuncia come una doppia s in italiano

@@ -1,10 +1,14 @@
---------------------------------------------------
-Wer?: Who?/Chi?
-Wen?: Who?
---------------------------------------------------
-E.G.: 
-Wer bist du?: Who are you? | chi sei tu?
-
+> WER?: Who?/Chi?
+    E.G.: 
+    Wer bist du?: Who are you? | chi sei tu?
+    Wer ist das? Chi è questo/questa?
+----------
+> WIR?: Come?
+    E.G.: 
+    Wie heiße ich?: Come mi chiamo?
+    Wie kann man sich entspannen? come si può rilassarsi?
+    Wie geht's dir?: Come stai? (Come va a te?)
+----------
 
 --------------------------------------------------
 Woher?: Where from?/Da dove?
@@ -20,13 +24,6 @@ E.G.:
 Wo können wir ein ticket kaufen?: Dove possiamo comprare un biglietto
 Wor kann man klettern?: Dove può uno arrampicarsi?
 
-
---------------------------------------------------
-Wie?: Come?
---------------------------------------------------
-E.G.: 
-Wie heiße ich?: Come mi chiamo?
-Wie kann man sich entspannen? come si può rilassarsi?
 
 --------------------------------------------------
 Was?: What?/Cosa?

@@ -53,6 +53,9 @@ Loro sono a Berlino per la prima volta.
 ----------
 Loane liegt immer im (DAT.) Bett (N).:
 Loane lies always in the bed.
+----------
+Wir sind alle im (in + dem) (DAT.) Hof (M).:
+Siamo tutti in cortile.
 
 
 ==================================================
@@ -78,7 +81,7 @@ Wir laufen durch den Park: We walk through the Park
 Ich habe einen Brief für dich: I have a letter for you.
 Die Katze springt gegen den Tisch: The cat jumps against the table
 Sie will nicht ohne Brot essen.: Non vuole mangiare senza il pane.
-
+Danke für das Geschenk, Anna.: Grazie per il regalo, Anna.
 
 Some preposition can be merged with the article to make one word:
 -------------------------
@@ -156,5 +159,7 @@ Ihr macht übungen auf Seeland.
     Ihr-E (ACC.) Haare (P) auf (DAT.) dem Boden (M) mag 
     Marina nicht.: A Marina non piacciono i suoi capelli
     sul pavimento.
-
+    ----------
+    Ich bin auf (DAT.) ein-ER Party (F).: 
+    Io sono a una festa.
 

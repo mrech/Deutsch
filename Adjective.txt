@@ -27,6 +27,19 @@ endigns.
 > Kaputt: broken
 > Schüchtern /ʃyːʃktern/: shy
 > Lieb /lib/: lovely
+> Sehr: molto
+> Nett: simpatico
+    E.G.:
+    Er ist sehr nett.:
+    Lui è molto simpatico.
+> Lustig: divertente
+    E.G.:
+    Das Fest ist sehr lustig.: 
+    La festa è molto divertente.
+> Toll: fantastica
+    E.G.:
+    Das Fest ist toll. Es ist toll.:
+    La festa è fantastica. (Essa) è fantastica.
 > Beeindruckend /be'[ai]ndrukend/: impressive
 > Nass: wet > Der Regen ist nass
 > Laut: loud
@@ -211,6 +224,30 @@ Wir haben eine kleine Wohnung: We have a small apartment.
 Es gibt keinen platz für Loanes schlechte Laune: 
 Non c'è posto per il cattivo umore di Loane.
 Worum magst du keinen Kaffee?: perchè non ti piace il Café?
+
+
+==================================================
+ADJECTIVE, NOMINATIVE CASE***
+Preceded by Definite Article or Der-word
+==================================================  
+Adjectives preceded by the definite article or a der-word 
+have special declensions depending on the gender 
+and case of the nouns they modify.
+
+ GENDER        | ENDING     | E.G.               
+---------------|------------|--------------------
+ MASCHILE      | -e         | der neu-E Wagen
+               |            | (the new car)     
+ FEMMINILE     | -e         | die schön-E Stadt   
+               |            | (the beautiful city)    
+ NEUTRO        | -e         | das alt-E Auto   
+               |            | (the old car)   
+ PLURALE       | -en        | die neu-EN Bücher
+               |            | (the new book)   
+
+E.G.:
+Ich bin (NOM.) der neu-E Nachbar (M).
+Du bist die Best-E!: Sei la migliore.
 
 
 ==================================================

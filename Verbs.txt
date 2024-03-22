@@ -11,6 +11,14 @@ CONTENT:
 > MODAL VERB
     - SUBJUNCTIVE II
 
+------------
+Il pronome **es** si riferisce a sostantivi di genere neutro, 
+che in italiano non esistono. 
+    E.G.:
+    Das Fest ist toll. Es ist toll.:
+    La festa è fantastica. (Essa) è fantastica.
+-----------
+
 
 ##################################################
 ################# IRREGULAR VERB #################
@@ -433,23 +441,6 @@ Er/Sie/Es | fÄll-T
 Wir       | fall-EN          
 Ihr       | fall-T          
 Sie       | fall-EN 
-
-E.G.:
-TODO
-
-
-==================================================
-HALTEN: to hold | attendere
-==================================================
-
-          | PRÄSENS   
-----------| ---------- 
-Ich       | halt-E    
-Du        | hÄlt-ST          
-Er/Sie/Es | hÄlt-T       
-Wir       | halt-EN          
-Ihr       | halt-T          
-Sie       | halt-EN 
 
 E.G.:
 TODO
@@ -1025,21 +1016,6 @@ E.G.:
 Wie buchstabiert man das?: Come si scrive (lett. si fa lo spelling di) questo?
 
 
-==================================================
-BEANTWORTEN: rispondere 
-==================================================
-
-          | PRÄSENS   | IMPERTATIVE
-----------|-----------|-----------  
-Ich       |           | Beantworte
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-
-
 ##################################################
 Stem Endings (-d, -t)
 ##################################################
@@ -1056,22 +1032,16 @@ ARBEITEN: to work
 
           | PRÄSENS   
 ----------|----------- 
-Ich       |           
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-Arbeit-E
-Arbeit-EST
-Arbeit-ET
-Arbeit- EN
-Arbeit-ET
-Arbeit- EN
+Ich       | Arbeit-E          
+Du        | Arbeit-EST     
+Er/Sie/Es | Arbeit-ET     
+Wir       | Arbeit- EN     
+Ihr       | Arbeit-ET     
+Sie       | Arbeit- EN
 
 E.G.:
 TODO
+
 
 ==================================================
 FINDEN: to find
@@ -1079,19 +1049,12 @@ FINDEN: to find
 
           | PRÄSENS   
 ----------|----------- 
-Ich       |           
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-Find-E
-Find-EST
-Find-ET
-Find-EN
-Find-ET
-Find-EN
+Ich       | Find-E         
+Du        | Find-EST     
+Er/Sie/Es | Find-ET     
+Wir       | Find-EN    
+Ihr       | Find-ET     
+Sie       | Find-EN   
 
 E.G.:
 Max findet ein-E (ACC.) Tomate (F).:
@@ -1100,31 +1063,71 @@ Max find a tomato.
 Er findet auch ein-EN (ACC.) Zettel (M).:
 He also finds a piece of paper.
 
+
 ==================================================
 WARTEN: to wait
 ==================================================
 
           | PRÄSENS   
 ----------|----------- 
-Ich       |           
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-wart-E
-wart-EST 
-wart-ET
-wart-EN
-wart-ET
-wart-EN
+Ich       | wart-E          
+Du        | wart-EST      
+Er/Sie/Es | wart-ET     
+Wir       | wart-EN      
+Ihr       | wart-ET     
+Sie       | wart-EN   
 
 E.G.:
 Max kann nicht bis später warten.:
 Max can’t wait until later.
 
 
+==================================================
+HALTEN: to hold | attendere
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | halt-E    
+Du        | hÄlt-EST          
+Er/Sie/Es | hÄlt-ET       
+Wir       | halt-EN          
+Ihr       | halt-ET          
+Sie       | halt-EN 
+
+E.G.:
+TODO
+
+
+==================================================
+VERHEIRATET: sposare
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | verheirat-E          
+Du        | verheirat-EST     
+Er/Sie/Es | verheirat-ET        
+Wir       | verheirat-EN
+Ihr       | verheirat-ET      
+Sie       | verheirat-EN  
+
+E.G.:
+Ihr seid verheiratet.: Voi siete sposati.
+
+
+==================================================
+BEANTWORTEN: rispondere 
+==================================================
+
+          | PRÄSENS   | IMPERTATIVE
+----------|-----------|-----------  
+Ich       |           | Beantworte
+Du        |      
+Er/Sie/Es |      
+Wir       |      
+Ihr       |      
+Sie       |   
 
 
 ##################################################
