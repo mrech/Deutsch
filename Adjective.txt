@@ -154,7 +154,7 @@ endigns.
 > COLOURS:
     - Schwarz /ʃvarz/: black
     - Weiß /v[ai]is/: bianco
-    - Rot: red
+    - Rot /rɔt/: rosso
     - Grün: green
       E.G.:
       Das Hemd ist grün.: The shirt is green.

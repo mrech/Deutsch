@@ -3,6 +3,7 @@ Herz: cuore
 Bild: immagine
 Meer: Mare
 Mehr: più
+Lehrerin: teacher
 
 ==================================================
 MASKULINUM/MASCHILE
@@ -65,6 +66,7 @@ sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
               | lettera     | der Buchstabe     |
               | son         | der Sohn          |
               | cortile     | der Hof           |
+              | corso       | der Kurs          |
 
 
 ==================================================
@@ -76,7 +78,7 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 
  IPA                 | TRANLATION      | SINGOLARE            | PLURALE
 ---------------------|-----------------|----------------------|---------------------
-                     |                 | Frau                 | Frauen
+                     |                 | Frau                 | Frauen      
                      |                 | Milch                |
                      |                 | Zeitung              |
                      |                 | Frange: question     |

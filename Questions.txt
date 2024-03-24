@@ -9,13 +9,13 @@
     Wie kann man sich entspannen? come si può rilassarsi?
     Wie geht's dir?: Come stai? (Come va a te?)
 ----------
-
---------------------------------------------------
-Woher?: Where from?/Da dove?
---------------------------------------------------
-E.G.:
-Wo kommst du her?: Where are you from?
-
+> WOHER?: Where from?/Da dove?
+    E.G.:
+    Woher kommst du?: Where are you from?
+----------
+> WELCHE?: Which?|Quale?
+    E.G.: 
+    Welche Sprachen sprichst du?: Che lingue parli?
 
 --------------------------------------------------
 Wo?: Where?/Dove?

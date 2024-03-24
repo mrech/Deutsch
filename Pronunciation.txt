@@ -1,7 +1,6 @@
-##################################################
+---
 VOCALI
-##################################################
-
+---
 La pronuncia delle vocali è CORTA se è seguita da 
 due consonanti. 
     
@@ -53,3 +52,38 @@ Se una parola termina in -e o -en, la *e* è atona.
 ß
 ---
 > La lettera ß si pronuncia come una doppia s in italiano
+
+
+---
+Umlaute
+---
+Molto spesso ä, ö, ü si trovano nella forma plurale dei nomi.
+
+> a /aː/ -> ä /ɛ:/
+    E.G.:
+    Bär /Bɛ:ɐ/: orso
+    Käse /kɛ:se/: formaggio
+    Hand | Hände /Hɛ:nde/: Mano 
+    Männer /Mɛ:nneɐ/: uomini
+---------
+> o /ɔ/ -> ö /øː/ 
+    E.G.:
+    schon /ʃɔn/: già
+    schön /ʃøːn/ : bello
+    Ohr /ɔ:ɐ/: orecchio
+    Öl /øːl/: olio
+    Söhne /Zøːne/: figli
+    Blöd /Bløːd/: stupido
+    rot /rɔt/: rosso
+---------
+> u /ʊ/ -> ü /yː/
+    E.G.:
+    Küsse /kyːsse/: baci
+    Fuß /Fʊss/: piedi
+    Füße /Fy:sse/: piedi
+    Bruder /Brʊdeɐ/: fratello
+    Tür /Ty:ɐ/: porta 
+    Süß /Zyːss/
+
+
+
