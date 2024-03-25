@@ -39,6 +39,9 @@ Vielen Dank.: Molte grazie.
 Herr: signor
 Frau: signora
 Bitte: Per favore
+Bitteschön /bitteʃøːn/: Prego
+Kein Problem, gerne!: Nessun problema, è stato un piacere.
+
 
 
 ==================================================
@@ -74,6 +77,9 @@ NEW WORDS
     Ich bin nicht sicher.: Non ne sono certo.
 ----------
 > Da: there
+> Dran: turno
+    E.G.:
+    Wir sind dran!: è il nostro turno.
 > Nein /nain/: no
 > weg /vek/: gone
 > zusammen /zuzammen/: together
@@ -123,6 +129,10 @@ NEW WORDS
 ----------
 > Ich kaufe später ein.: Faccio la dpesa più tardi.
 ----------
+> Also, mal sehen: allora, vediamo 
+> In Ordnung /ordn[ʊ]ng/: Va bene
+> Geschafft!: fatto
+> Stimmt! Lass uns gehen.: Esatto! Andiamo.
 
 
 ==================================================
@@ -153,7 +163,7 @@ U
 ** V /fao/ **
 ** W /ve/ **
 X /ex/ 
-Y /upsilon/ 
+** Y /upsilon/ **
 Z /zed/
 
 
@@ -177,3 +187,24 @@ LANGUAGES
 > Italienisch
 > Spanisch
 > Polnisch
+
+
+==================================================
+NUMBERS
+==================================================
+> Null: Zero
+> Eins /Ains/: uno
+> Zwei /Zvai/: due
+> Drei /Drai/: tre
+> Vier /Fiiɐ/: quattro
+> Fünf /fyːnf/: cinque
+> Sechs /Zeçs/: six
+> Sieben /ziiben/: sette
+> Acht: otto
+> Neun /Noin/: nove
+> Zehn: dieci
+
+==================================================
+CARDINAL NUMBER
+==================================================
+Erste: first
