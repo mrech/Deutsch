@@ -4,70 +4,79 @@ Bild: immagine
 Meer: Mare
 Mehr: più
 Lehrerin: teacher
+Zimmer: stanza
+Hilfe: help
+
+NB.: Non dimenticarti che i nomi/sostantivi in tedesco hanno sempre
+     la lettera iniziale maiuscola. 
 
 ==================================================
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA          | TRANSLATE   |  SINGOLARE        | PLURALE
---------------|-------------|-------------------|----------
-              |             | Mann              | Männer
-              |             | Junge             | Jungen
-              |             | Apfel             | Äpfel
-              |             | Tag               |
-              |             | Der Hund          |
-              | La sera     | Der Abend         | die Abende          
-              |             | Der Morgen        |         
-              |             | Der Tag           |
-              |             | Der Saft          | Die Säfte
-              |             | Der Kaffee        | Die Kaffees
- /[ʃ]uhe/     |             | Der Schuh         | Die Schuhe
-              |             | Der Verb          |
-              |             | Der Wein          |
- /zin/        | Il senso    | Der Sinn          | Die Sinne
- /kraç/       | noise       | Der Krach         | -
- /kvatʃ/      | nonsense/   |                   |
-              | stupidagini | der Quatsch       | -
- /ʁɛgan/      | pioggia     | der Regen         | die Regen
-              |             | der ticketautomat | die ticketautomaten
-/zuk/         |             |                   |
-/Zyːghe/      | train       | der Zug           | die Züge
-/hongaʁ/      | fame/hunger | der Hunger        | - 
-/hammaʁ/      | awesome     | der Hammer        | die Hämmer
-              | piazza      |                   |
-              | posto/luogo | der Platz         | die Plätze /plɛtze/
-              | amico/amici |                   |
-/fr[oi]nd/    | fidanzato   | der Freund        | die Freunden
-/man[tʃ]/     | individuo/  |                   |
-              | persona     | der Mensch        | die Menschen
-              | cactus      | der Kaktus        | die Kaktusse, 
-              |             |                   | die Kakteen
-              |             | der Song          | 
-/Baum -       |             |                   |
-Bɔyme/        | tree        | der Baum          | die Bäume
-/gheburtstag/ | birthday    | der Geburtstag    | die Geburtstage
-/spa[s]       |             |                   |
-sp[ɛ:][s]e/   | fun         | der Spaß          | die Späße|die Spässe
-/Na[ç]b[ɐ]/   | neighbors   | der Nachbar       | die Nachbarn
-              | letter/     |                   | 
-              | (mail)      | der Brief         |
-              | elevator/   |                   |
-/aufzu[k|g]/  | ascensore   | der Aufzug        | die Aufzüge
-              | vacation/   |                   |
-              | vacanza     | der Urlaub        | die Urlaube
-              | parco       | der Park          | die Parks   
-              | soil /      |                   |
-              | pavimento   | der Boden         | die Böden
-/na[ç]m'ittag/| afternoon   | der Nachmittag    | die 
-/[Z]onntag/   | Sunday      | Der Sonntag       | Die Sonntage 
-              |refrigerator | der Kühlschrank   | die Kühlschränke
-              | Piece of    |                   |
-              | paper       | der Zettel        | die Zettel
-              | lettera     | der Buchstabe     |
-              | son         | der Sohn          |
-              | cortile     | der Hof           |
-              | corso       | der Kurs          |
-
+ IPA          | TRANSLATE       |  SINGOLARE        | PLURALE
+--------------|-----------------|-------------------|----------
+              |                 | Mann              | Männer
+              |                 | Junge             | Jungen
+              |                 | Apfel             | Äpfel
+              |                 | Tag               |
+              |                 | Der Hund          |
+              | La sera         | Der Abend         | die Abende          
+              |                 | Der Morgen        |         
+              |                 | Der Tag           |
+              |                 | Der Saft          | Die Säfte
+              |                 | Der Kaffee        | Die Kaffees
+ /[ʃ]uhe/     |                 | Der Schuh         | Die Schuhe
+              |                 | Der Verb          |
+              |                 | Der Wein          |
+ /zin/        | Il senso        | Der Sinn          | Die Sinne
+ /kraç/       | noise           | Der Krach         | -
+ /kvatʃ/      | nonsense/       |                   |
+              | stupidagini     | der Quatsch       | -
+ /ʁɛgan/      | pioggia         | der Regen         | die Regen
+              |                 | der ticketautomat | die ticketautomaten
+/zuk/         |                 |                   |
+/Zyːghe/      | train           | der Zug           | die Züge
+/hongaʁ/      | fame/hunger     | der Hunger        | - 
+/hammaʁ/      | awesome         | der Hammer        | die Hämmer
+              | piazza          |                   |
+              | posto/luogo     | der Platz         | die Plätze /plɛtze/
+              | amico/amici     |                   |
+/fr[oi]nd/    | fidanzato       | der Freund        | die Freunden
+/man[tʃ]/     | individuo/      |                   |
+              | persona         | der Mensch        | die Menschen
+              | cactus          | der Kaktus        | die Kaktusse, 
+              |                 |                   | die Kakteen
+              |                 | der Song          | 
+/Baum -       |                 |                   |
+Bɔyme/        | tree            | der Baum          | die Bäume
+/gheburtstag/ | birthday        | der Geburtstag    | die Geburtstage
+/spa[s]       |                 |                   |
+sp[ɛ:][s]e/   | fun             | der Spaß          | die Späße|die Spässe
+/Na[ç]b[ɐ]/   | neighbors       | der Nachbar       | die Nachbarn
+              | letter/         |                   | 
+              | (mail)          | der Brief         |
+              | elevator/       |                   |
+/aufzu[k|g]/  | ascensore       | der Aufzug        | die Aufzüge
+              | vacation/       |                   |
+              | vacanza         | der Urlaub        | die Urlaube
+              | parco           | der Park          | die Parks   
+              | soil /          |                   |
+              | pavimento       | der Boden         | die Böden
+/na[ç]m'ittag/| afternoon       | der Nachmittag    | die 
+/[Z]onntag/   | Sunday          | Der Sonntag       | Die Sonntage 
+              |refrigerator     | der Kühlschrank   | die Kühlschränke
+              | Piece of        |                   |
+              | paper           | der Zettel        | die Zettel
+              | lettera         | der Buchstabe     |
+              | son             | der Sohn          |
+              | cortile         | der Hof           |
+              | corso           | der Kurs          |
+              | il nome         | der Name          |
+/forname/     | il nome         | der Vorname       |
+/naçname/     | cognome         | der Nachname      |
+/Anmeldʊng/   | registrazione   |                   |
+              | della residenza | der Anmeldung     |
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -131,7 +140,11 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      | riposo, quiete  | die Ruhe             | -
                      |                 | die Tomate           | die Tomaten
                      | figlia          | die Tochter          | 
-
+/Haʊsnʊmmeɐ/         | numero civico   | die Hausnummer       |
+                     | calligrafia     | die Schrift          |
+                     | certificato     |                      |   
+                     | di avvenuta     |                      |
+                     | registrazione   | die Meldebestätigung |
 
 
 ==================================================
@@ -191,7 +204,7 @@ NEUTRUM/NEUTRO
 /zi'mm[ɐ]/   | appartment  | das WG-Zimmer     | die WG-Zimmer
              |             | das Fitnessstudio | die Fitnessstudios
              | party       | das Fest          |
-            
+             | il paese    | das Land          |           
 
 
 ##################################################

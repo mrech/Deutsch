@@ -1,3 +1,9 @@
+::TODO
+> wegen: because of
+  E.G.:
+  Wir sind hier wegen der Anmeldung.:
+  Siamo qui per la Anmeldung (registrazione della residenza)
+
 ==================================================
 PREPOSITION, DATIVE CASE
 ==================================================

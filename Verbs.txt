@@ -1,3 +1,11 @@
+::TODO
+> Bedeutet: significare
+    E.G.:
+    Was bedeutet Vorname und Nachname, Anna?
+    Cosa significano Vorname e Nachname, Anna?
+
+
+
 CONTENT:
 ^^^^^^^^
 > IRREGULAR VERB
@@ -346,7 +354,8 @@ Ihr       | nehm-T
 Sie       | nehm-EN      
 
 E.G.:
-TODO
+Welche U-Bahn Linie nehmen wir?:
+Quale linea della metro prendiamo?
 
 
 ==================================================
@@ -388,7 +397,7 @@ Eine jacke trägt man: una giacca si indossa
 
 
 ==================================================
-FAHREN: to drive | andare (con un veicolo) 
+FAHREN: to drive | andare 
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -410,6 +419,9 @@ They take the elevator.
 Janusz fährt gefährlich:. 
 Janusz guida in mode pericoloso.
 Es fährt nicht mehr.: Non va più.
+----------
+Komm, wir fahren nach Kreuzberg und essen Eis.:
+Dai, andiamo a Kreuzberg e mangiamo un gelato. 
 
 
 ==================================================
@@ -708,6 +720,8 @@ Luane sucht einen platz in Marinas Wohnung
 ==================================================
 WOHNEN: abitare / to live
 ==================================================
+Usa wohnen per dire il tuo indirizzo di casa, poichè
+spesso è temporaneo.
 
           | PRÄSENS   
 ----------|-----------  
@@ -997,6 +1011,8 @@ Emma va in biblioteca al pomeriggio.
 Loane geht am (AN+DEM, DAT. - LOCATION(time)) 
 Nachmittag ins (IN+DAS, ACC. - MOTION).:
 Loane va in palestra al pomeriggio.
+---------
+Stimmt! Lass uns gehen.: Esatto! Andiamo.
 
 
 ==================================================
@@ -1014,6 +1030,7 @@ Sie       | buchstabier-EN
 
 E.G.:
 Wie buchstabiert man das?: Come si scrive (lett. si fa lo spelling di) questo?
+Bitte buchstabieren Sie das.: Per favore faccia lo spelling. 
 
 
 ##################################################
