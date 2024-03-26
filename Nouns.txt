@@ -10,6 +10,12 @@ Hilfe: help
 NB.: Non dimenticarti che i nomi/sostantivi in tedesco hanno sempre
      la lettera iniziale maiuscola. 
 
+N.B.: in base a genere del sostantivo pronome corretto:
+- *er* (lui) per i sostantivi maschili
+- *sie* (lei) per i sostantivi femminili
+- *es* (esso/a) per i sostantivi neutri
+- *sie* (loro) per i sostantivi plurali
+
 ==================================================
 MASKULINUM/MASCHILE
 ==================================================
@@ -77,6 +83,7 @@ sp[ɛ:][s]e/   | fun             | der Spaß          | die Späße|die Spässe
 /naçname/     | cognome         | der Nachname      |
 /Anmeldʊng/   | registrazione   |                   |
               | della residenza | der Anmeldung     |
+              | giardino        | der Garten        |
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -204,7 +211,8 @@ NEUTRUM/NEUTRO
 /zi'mm[ɐ]/   | appartment  | das WG-Zimmer     | die WG-Zimmer
              |             | das Fitnessstudio | die Fitnessstudios
              | party       | das Fest          |
-             | il paese    | das Land          |           
+             | il paese    | das Land          |   
+             | quartiere   | das Viertel       |        
 
 
 ##################################################

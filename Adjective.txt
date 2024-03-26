@@ -14,6 +14,17 @@ it remains in its basic form.
 E.G.:
 Die Haare der Frau sind rot.: The woman's hair is red.
 
+Puoi dire SEHR (molto) prima di un aggettivo per 
+intensificarlo:
+    E.G.:
+    Die Wonung ist sehr schön.: 
+    L'appartamento è molto bello.
+E puoi dire NICHT (non) prima di un aggettivo per 
+negarlo:    
+    E.G.:
+    Die Nachbar sind nicht nett.:
+    I vicini non sono simpatici.
+
 ==================================================
 PREDICTIVE ADJECTIVE - NO CASE
 ==================================================  
@@ -146,7 +157,15 @@ endigns.
     E.G.:
     Du sollst nicht so viel (NOM.) Kaffee (M) trinken.:
     Non dovresti bere così tanto caffè.
-    --------
+--------
+> Bunt: colorato
+> Lebendig: vivace 
+    E.G.:
+    Das viertel ist sehr lebendig.:
+    Il quartiere è molto vivace.
+> Teuer: expensive
+> Billig /billiʃ/: cheap
+> Gemütlish /gemyːtliʃ/: accogliente
 
     
 
