@@ -6,6 +6,9 @@ Mehr: più
 Lehrerin: teacher
 Zimmer: stanza
 Hilfe: help
+Schokoeis: gelato al cioccolato.
+
+
 
 NB.: Non dimenticarti che i nomi/sostantivi in tedesco hanno sempre
      la lettera iniziale maiuscola. 
@@ -84,6 +87,9 @@ sp[ɛ:][s]e/   | fun             | der Spaß          | die Späße|die Spässe
 /Anmeldʊng/   | registrazione   |                   |
               | della residenza | der Anmeldung     |
               | giardino        | der Garten        |
+/kuʃen/       | torta           | der Kuchen        |
+              | sportello       | der Schalter      |
+              
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -152,12 +158,21 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      | certificato     |                      |   
                      | di avvenuta     |                      |
                      | registrazione   | die Meldebestätigung |
+                     | amaca           | die Hängematte       |
+                     | girella (lumaca)|                      |
+                     | alla cannella   | die Zimtschnecke     |   
+                     | la coca         | die Cola             |
+
 
 
 ==================================================
 NEUTRUM/NEUTRO
 ==================================================
 > Nouns starting with 'Ge-' such as das Getränk and das Geheime are neuter.
+
+> La desinenza -CHEN forma il vezzeggiativo (farlo carino) del sostantivo.
+  Quindi, **Brötchen** è il vezzeggiativo di **Brot**. I sostantivo che 
+  terminano in CHEN sono sempre neutri. 
 
              |             | SINGOLARE         | PLURALE
 -------------|-------------|-------------------|--------------
@@ -212,8 +227,14 @@ NEUTRUM/NEUTRO
              |             | das Fitnessstudio | die Fitnessstudios
              | party       | das Fest          |
              | il paese    | das Land          |   
-             | quartiere   | das Viertel       |        
-
+             | quartiere   | das Viertel       |       
+             | gelato      | das Eis           |
+             | panino      | das Brötchen      |
+             | pane        |                   |
+             | integrale   | das Vollkornbrot? |
+             | la birra    | das Bier          |
+             | il castello | das Schloss       |
+              
 
 ##################################################
 ==================================================

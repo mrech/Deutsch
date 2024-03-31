@@ -3,6 +3,30 @@
     E.G.:
     Was bedeutet Vorname und Nachname, Anna?
     Cosa significano Vorname e Nachname, Anna?
+> Einladen: to invite
+    E.G.:
+    Du musst mich mal einladen.
+    Mi devi invitare una volta.
+> Backen: to bake 
+    E.G.:
+    Sie backen immer Kuchen für mich.:
+    Mi preparano sempre delle torte.
+> Kosten: to cost 
+    E.G.:
+    Das Vollkornbrot kostet 3,10 Euro (Drei Euro zehn).:
+    Il pane integrale costa 3,10 Euro.
+    ----------
+    Ein Brötchen kostet 0,10 (Zhen Cent) Euro.:
+    Un panino costa dieci centesimi.
+> Zahlen: pagare 
+    E.G.:
+    Wir möchten zahlen bitte.:
+    Vorremmo pagare, per favore.
+> Fragen: chiedere
+    E.G.:
+    Komm, wir gehen zum Schalter und fragen.
+    Dai, andiamo allo sportello e chiediamo.
+
 
 
 
@@ -144,6 +168,27 @@ E.G.:
 Was tun Sie da?: What are you doing there?.
 
 
+==================================================
+NEHMEN: prendere
+==================================================
+
+ PRONOUN  | 
+----------| ---------- 
+Ich       | nehm-E
+Du        | nimm-ST          
+Er/Sie/Es | nimm-T        
+Wir       | nehm-EN          
+Ihr       | nehm-T          
+Sie       | nehm-EN          
+
+E.G.:
+Das nehme ich.: Lo prendo.
+----------
+Was nimmst du?: Cosa prendi?
+----------
+Ich nehme ein Bier.: Prendo una birra.
+
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 IRREGULAR VERBS WITH VOWEL CHANGE
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -190,7 +235,8 @@ Ihr       | seh-T
 Sie       | seh-EN
 
 E.G.: 
-TODO
+Ich möchte das Schloss sehen.: 
+Vorrei vedere il castello
 
 
 ==================================================
@@ -399,7 +445,10 @@ Eine jacke trägt man: una giacca si indossa
 ==================================================
 FAHREN: to drive | andare 
 ==================================================
-
+Se si va da qualche parte con un mezzo di trasporto, 
+in genere si usa il verbo FAHREN, che letteralmente
+significa guidare.
+ 
  PRONOUN  | PRÄSENS   
 ----------| ---------- 
 Ich       | fahr-E 
@@ -412,7 +461,7 @@ Sie       | fahr-EN
 E.G.:
 Der Zuk fährt ohne uns: il treno se ne va senza di noi
 Ich fahre Fahrrad.: Io vado in bici. 
-Du fährst Straßenbahn. Tu vai in tram.
+Du fährst Straßenbahn.: Tu vai in tram.
 Sie fahren mit dem (DAT.) aufzug (M).:
 They take the elevator.
 ---------- 
@@ -993,6 +1042,9 @@ Das lieben wir.: That's what we love.
 ==================================================
 GEHEN: to go | andare
 ==================================================
+Il verbo GEHEN è più generico. Lo si usa se ci si
+sta recando in un posto a piedi o se il mezzo di
+trasporto non è specificato.
 
           | PRÄSENS   
 ----------| ---------- 
@@ -1553,6 +1605,10 @@ E.G.:
 (Subjunctive II)
 Manchmal möchte Marina alleine leben.: 
 Sometimes Marina would like to live alone.
+---------
+Was möchten Sie?
+Cosa desidera?
+---------
 
 
 

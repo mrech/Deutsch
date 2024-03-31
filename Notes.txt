@@ -65,7 +65,10 @@ Every day you become a bit better | Ogni giorno migliori un pochino
 Bis nächstes Mal: alla prossima | Until next time
 Nicht Schlecht: Niente male!
 Ganz Genau: exactly
-glückwunsch /gly:ckvʊnʃ/: congratulation
+Glückwunsch /gly:ckvʊnʃ/: congratulation
+Einen schönen Tag noch.: Buona giornata.
+Oh wie schön!: Che bello!
+
 
 
 
@@ -88,7 +91,7 @@ NEW WORDS
     E.G.: 
     Habt ihr heute Zeit? Avete tempo oggi?
 ----------
-> Ahnung /Ahn[ʊ]ng/: Idea
+> Keine Ahnung /Ahn[ʊ]ng/: Non ne ho idea
     E.G.: 
     Du hast keine Ahnung!: Non hai idea!
 ----------
@@ -108,6 +111,7 @@ NEW WORDS
 > Es mag sein: Può essere, Può darsi.| It may be.
 ----------
 > Es gibt: there is | C'è
+> Es gibt sogar: c'è addirittura
 ----------
 > Mehr /meh[ɐ]/: more
     E.G.:
@@ -133,8 +137,18 @@ NEW WORDS
 > In Ordnung /ordn[ʊ]ng/: Va bene
 > Geschafft!: fatto
 > Stimmt! Lass uns gehen.: Esatto! Andiamo.
-> Erzähl mal, Freddy.: Dimmi, Freddy.
+> Stimmt so.: A posto così.
+> Erzähl mal, Freddy.: Dimmi un pò, Freddy.
 > Klingt gut!: Mi sembra ottimo
+> Das klingt toll!: Mi sembra ottimo.
+> Klar, mache ich.: Certo, lo farò.
+> Noch etwas?: Nient'altro?
+> Nien danke. Das ist alles?: No grazie. Basta così.
+> Sher gerne.: Molto bene (lett. volentieri)
+> Entschuldigung: Mi scusi.
+> Zusammen oder getrennt?: Insieme o separatamente?
+> Ebenso: Altrettanto.
+
 
 
 ==================================================

@@ -3,7 +3,7 @@
     Wer bist du?: Who are you? | chi sei tu?
     Wer ist das? Chi è questo/questa?
 ----------
-> WIR?: Come?
+> WIE?: Come?
     E.G.: 
     Wie heiße ich?: Come mi chiamo?
     Wie kann man sich entspannen? come si può rilassarsi?
@@ -16,30 +16,40 @@
 > WELCHE?: Which?|Quale?
     E.G.: 
     Welche Sprachen sprichst du?: Che lingue parli?
+----------
+> WAS?: What?/Cosa?
+    E.G.:
+    Was hast du?: What do you have? | Cos'hai?
+    Was macht ein Popostar beruflich?: cosa fa una pop star professionalmente?
+    Was kann man trinken und ist schwarz? Cosa può uno bere che è nero?
+    Was darf Janusz nicht vergessen?: Cosa non deve dimenticare Janusz?
+----------
+> WOHIN?: Dove? 
+  Se vuoi sapere dove VA qualcuno o qualcosa (moto a luogo).
+    E.G.:
+    Wohin fahren wir?: Dove andiamo?
+----------
+> WANN?: quando?
+    E.G.: 
+    Wann habt ihr Urlaub? When do you have vacation.
+    Wann fährt der nächste Zug?: 
+    Quando parte (lett. va) il prossimo treno?
+----------
+> WO?: Where?/Dove?
+  Se vuoi sapere dove SI TROVA qualcuno o qualcosa 
+  (stato in luogo), allora usi WO.
+    E.G.: 
+    Wo können wir ein ticket kaufen?: 
+    Dove possiamo comprare un biglietto
+    --------
+    Wor kann man klettern?: Dove può uno arrampicarsi?
+    Wo bist du?: Dove sei?
 
---------------------------------------------------
-Wo?: Where?/Dove?
---------------------------------------------------
-E.G.: 
-Wo können wir ein ticket kaufen?: Dove possiamo comprare un biglietto
-Wor kann man klettern?: Dove può uno arrampicarsi?
 
 
---------------------------------------------------
-Was?: What?/Cosa?
---------------------------------------------------
-E.G.:
-Was hast du?: What do you have? | Cos'hai?
-Was macht ein Popostar beruflich?: cosa fa una pop star professionalmente?
-Was kann man trinken und ist schwarz? Cosa può uno bere che è nero?
-Was darf Janusz nicht vergessen?: Cosa non deve dimenticare Janusz?
 
 
---------------------------------------------------
-Wann?: quando?
---------------------------------------------------
-E.G.: 
-Wann habt ihr Urlaub? When do you have vacation.
+
 
 
 --------------------------------------------------
