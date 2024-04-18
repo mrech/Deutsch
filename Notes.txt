@@ -218,6 +218,10 @@ NUMBERS
 > Acht: otto
 > Neun /Noin/: nove
 > Zehn: dieci
+> Elf: undici
+> Zwölf: dodici
+> Dreizehn: tredici
+> Vierzehn: quattordici
 
 
 ==================================================
