@@ -107,7 +107,8 @@ Ich habe keinen platz in meiner Wohnung.: I have no space in my appartment
 Ich habe ein Auto: I have a car
 Jeremy hat eine Brille: Jeremy has glasses
 Wir haben keine Zeit: We have no time
-Ich habe dich lieb: I love you.
+Ich habe dich lieb/Ich lieb dich: I love you.
+Ich habe kein Fahrrad.: Non ho una bicicletta.
 
 
 ==================================================
@@ -459,7 +460,8 @@ Ihr       | fahr-T
 Sie       | fahr-EN      
 
 E.G.:
-Der Zuk fährt ohne uns: il treno se ne va senza di noi
+Der Zug fährt ohne uns: il treno se ne va senza di noi
+Der Zug fährt von Gleis 12.: Il treno parte dal binario 12.
 Ich fahre Fahrrad.: Io vado in bici. 
 Du fährst Straßenbahn.: Tu vai in tram.
 Sie fahren mit dem (DAT.) aufzug (M).:
