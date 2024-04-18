@@ -8,6 +8,7 @@
     Wie heiße ich?: Come mi chiamo?
     Wie kann man sich entspannen? come si può rilassarsi?
     Wie geht's dir?: Come stai? (Come va a te?)
+    Wie ist das Wetter?. Com'è il tempo?
 ----------
 > WOHER?: Where from?/Da dove?
     E.G.:
