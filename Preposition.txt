@@ -107,7 +107,9 @@ TWO-WAY PREPOSITION
 PREPOSITION  | TRANSLATION  
 -------------| ---------- 
 an           | at, on top of  
-am (an+dem)  | at, on top of   
+am (an+dem)  | at, on top of
+- Si usa *am* sia per i giorni della settimana che per i momenti 
+  della giornata.
 auf          | on, to     
 hinter       | behind     
 in           | in
