@@ -164,6 +164,8 @@ endigns.
     Das viertel ist sehr lebendig.:
     Il quartiere è molto vivace.
 > Teuer: expensive
+    E.G.:
+    Die Wohnungen sind teur.: Gli appartamenti sono cari. 
 > Billig /billiʃ/: cheap
 > Gemütlish /gemyːtliʃ/: accogliente
 > Lecker: buono
