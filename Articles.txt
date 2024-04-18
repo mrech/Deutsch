@@ -232,8 +232,8 @@ DECLENSIONS - NOMINATIVE*  CASE
  PLURAL     | -e      | Keine Äpfel (no apples)
 
 E.G.:
-Das sind kein-E (NOM.) Bücher (P).:
-Questi non sono libri.
+Das sind kein-E (NOM.) Bücher (P).: Questi non sono libri.
+Das ist kein (NOM.) Fahrrad (N).: Questa non è una bicicletta.
 
 
 
@@ -266,6 +266,7 @@ DECLENSIONS - ACCUSATIVE****
 E.G.:
 Es macht alles kein-EN (ACC.) Sinn (M):
 Tutto questo non ha senso.
+Ich habe kein-E (NOM.) Fahrkarte (F).: Non ho un biglietto. 
 
 
 
