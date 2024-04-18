@@ -23,7 +23,8 @@ N.B.: in base a genere del sostantivo pronome corretto:
 MASKULINUM/MASCHILE
 ==================================================
 
- IPA          | TRANSLATE       |  SINGOLARE        | PLURALE
+ IPA          | TRANSLATE       | EINZAHL /         | MEHRZAHL
+                                | SINGOLARE         | PLURALE
 --------------|-----------------|-------------------|----------
               |                 | Mann              | Männer
               |                 | Junge             | Jungen
@@ -98,6 +99,9 @@ Almost all nouns ending with -EI, -HEIT, -IN, -KEIT, -SCHAFT, -UNG are feminine.
 So are nouns that come from a foreign language and which end on -UR, -AGE, -IK, 
 -ITIS, -ION, -ENZ, -TÄT, -IE. 
 
+N.B.: Per la maggior parte dei sostantivi femminili basta aggiungere -(E)N 
+      alla fine della parola.
+
  IPA                 | TRANLATION      | SINGOLARE            | PLURALE
 ---------------------|-----------------|----------------------|---------------------
                      |                 | Frau                 | Frauen      
@@ -162,6 +166,9 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      | girella (lumaca)|                      |
                      | alla cannella   | die Zimtschnecke     |   
                      | la coca         | die Cola             |
+                     | il biglietto    | die Fahrkarte        | die Fahrkarten
+                     | il biglietto    |                      |
+                     | giornaliero     | die Tageskarte       | die Tageskarten
 
 
 
@@ -234,6 +241,7 @@ NEUTRUM/NEUTRO
              | integrale   | das Vollkornbrot? |
              | la birra    | das Bier          |
              | il castello | das Schloss       |
+             | il binario  | das Gleis         |
               
 
 ##################################################
