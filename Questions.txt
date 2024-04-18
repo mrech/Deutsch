@@ -17,12 +17,20 @@
     E.G.: 
     Welche Sprachen sprichst du?: Che lingue parli?
 ----------
+> VON WELCHEM?: Da quale?
+  E.G.:
+  Von welchem Gleis fährt der Zug? Da quale binario parte il treno?
+----------
 > WAS?: What?/Cosa?
     E.G.:
     Was hast du?: What do you have? | Cos'hai?
     Was macht ein Popostar beruflich?: cosa fa una pop star professionalmente?
     Was kann man trinken und ist schwarz? Cosa può uno bere che è nero?
     Was darf Janusz nicht vergessen?: Cosa non deve dimenticare Janusz?
+----------
+> WAS KOSTET?: Quanto costa?
+  E.G.:
+  Was kostet eine Fahrkarte?: Quanto costa un biglietto?
 ----------
 > WOHIN?: Dove? 
   Se vuoi sapere dove VA qualcuno o qualcosa (moto a luogo).
