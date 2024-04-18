@@ -40,7 +40,8 @@ Herr: signor
 Frau: signora
 Bitte: Per favore
 Bitteschön /bitteʃøːn/: Prego
-Kein Problem, gerne!: Nessun problema, è stato un piacere.
+Kein Problem, gerne!: Nessun problema, è stato un piacere
+Bis nächstes Mal: alla prossima | Until next time
 
 
 
@@ -62,7 +63,6 @@ Du machst das richtig gut heute.: You have done really well today
 Aua!: ahi! | Ouch!
 Jeden Tag wirst du ein Stückchen besser!: 
 Every day you become a bit better | Ogni giorno migliori un pochino
-Bis nächstes Mal: alla prossima | Until next time
 Nicht Schlecht: Niente male!
 Ganz Genau: exactly
 Glückwunsch /gly:ckvʊnʃ/: congratulation
@@ -219,7 +219,56 @@ NUMBERS
 > Neun /Noin/: nove
 > Zehn: dieci
 
+
 ==================================================
 CARDINAL NUMBER
 ==================================================
 Erste: first
+
+N.B.: Se la frase inizia con un verbo, il complemento di tempo viene 
+      dopo il soggetto. 
+      E.G.:
+      Kochen wir am Freitagabend?: Cuciniamo venerdì sera?
+      Frühstückt ihr am Sonntagmorgen?: Fate colazione domenica mattina?
+
+==================================================
+DAY OF THE WEEK
+==================================================
+> Montag: Lunedì 
+  Montagabend (Montag + Abend): Lunedì sera
+  E.G.:
+  Ich arbeite am Montagmorgen.: Io lavoro il lunedì mattina
+> Dienstag: Martedì
+  Dienstagvormittag (Dienstag + Vormittag): Martedì tarda mattinata
+> Mittwoche: Mercoledì
+> Donnertag: Giovedì
+> Freitag: Venerdì
+  E.G.:
+  Kochen wir am Freitagabend?: Cuciniamo venerdì sera?
+  Machst du am Freitagabend Yoga?: Fai il sabato sera Yoga?
+> Samstag: Sabato
+  Samstagnachmittag (Samstag + Nachmittag): Sabato pomeriggio 
+> Sonntag: Domenica
+  Sonntagmorgen (Sonntag + Morgen): Domenica mattina
+  E.G.:
+  Am Sonntagmorgen mache ich ein leckers Frühstück.:
+  On sunday morning I make a delicious breakfast.  
+
+==================================================
+TIME OF THE DAY
+==================================================
+> am Morgen: periodo dall'alba alle 10am
+    E.G.:
+    Am Morgen frühstücke ich: La mattina faccio colazione
+> am Vormittag: (lett. prima di mezzogiorno) indica il periodo dalle 10am alle 12am
+    E.G.:
+    Ich arbeite am Vormittag.: Lavoro in mattinata.
+> am Nachmittag: il pomeriggio
+    E.G.:
+    Am Nachmittag putze ich.: Il pomeriggio pulisco.
+> am Abend: la sera 
+    E.G.:
+    Ich koche am Abend.: Cucino la sera.
+    Am Abend kochen sie.: Alla sera loro cucinano.
+> am Wochenende: il fine settimana
+  Was macht ihr am Wochenended? Cosa fanno il fine settimana?
