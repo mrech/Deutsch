@@ -222,6 +222,7 @@ NUMBERS
 > Zwölf: dodici
 > Dreizehn: tredici
 > Vierzehn: quattordici
+> 
 
 
 ==================================================
@@ -276,3 +277,19 @@ TIME OF THE DAY
     Am Abend kochen sie.: Alla sera loro cucinano.
 > am Wochenende: il fine settimana
   Was macht ihr am Wochenended? Cosa fanno il fine settimana?
+
+
+==================================================
+DOCH
+==================================================
+Puoi usare la *doch* per contraddire una frase nagativa.
+
+E.G.: 
+Hast du kein Fahrrad? Doch, Ich habe ein Fahrrad!
+Hast du keine Lust? Doch, ich habe Lust!: Non hai voglia? Si ho vogia!
+
+Ricorda che puoi usare *doch* solo per contraddire un'espressione
+negativa. 
+
+E.G.:
+Hast du Lust? Ja, Ich habe Lust.
