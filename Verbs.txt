@@ -81,6 +81,7 @@ Ich bin Cindy: Io sono Cindy
 Wer bist du?: Who are you?
 Wir sind heute in Berlin
 Seid ihr neu in Berlin?
+Es sind 19 Grad.: Ci sono 19 Grad.
 
 
 ==================================================
@@ -109,6 +110,7 @@ Jeremy hat eine Brille: Jeremy has glasses
 Wir haben keine Zeit: We have no time
 Ich habe dich lieb/Ich lieb dich: I love you.
 Ich habe kein Fahrrad.: Non ho una bicicletta.
+Hast du ein Fahrrad, Freddy?: Hai una bicicletta, Freddy?
 
 
 ==================================================
