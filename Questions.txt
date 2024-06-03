@@ -21,6 +21,7 @@
 > VON WELCHEM?: Da quale?
   E.G.:
   Von welchem Gleis fährt der Zug? Da quale binario parte il treno?
+   - Von Gleis elf.: Dal binario undici.
 ----------
 > WAS?: What?/Cosa?
     E.G.:
@@ -37,6 +38,10 @@
   Se vuoi sapere dove VA qualcuno o qualcosa (moto a luogo).
     E.G.:
     Wohin fahren wir?: Dove andiamo?
+    Also, wohin fahren wir?: Allora, dove andiamo
+    --------
+    Doch! Aber wohin fahren wir? Nach Postsdam!
+    Si! Ma dove andiamo? A Potsdam!
 ----------
 > WANN?: quando?
     E.G.: 
