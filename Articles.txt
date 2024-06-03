@@ -266,7 +266,12 @@ DECLENSIONS - ACCUSATIVE****
 E.G.:
 Es macht alles kein-EN (ACC.) Sinn (M):
 Tutto questo non ha senso.
-Ich habe kein-E (NOM.) Fahrkarte (F).: Non ho un biglietto. 
+Ich habe kein-E (ACC.) Fahrkarte (F).: Non ho un biglietto. 
+--------
+Ich habe kein (ACC.) Fahrrad (N). Kein Problem! Ich habe zwei:
+Io non ho una bicicletta. Nessun problema! Ne ho due.
+--------
+Hast du keine (ACC.) Lust (F)? Non hai voglia?
 
 
 
