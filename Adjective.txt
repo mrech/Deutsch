@@ -82,6 +82,9 @@ endigns.
     E.G.:
     Ihr mögt das schön-E (ACC.) Wetter (N).: 
     Vi piace il bel tempo. 
+    ----------
+    Schön! Die Sonne Scheint. Es ist warm.:
+    Bello! Il sole splende. Fa (lett. è) caldo.
 > Stark: strong
     E.G.:
     Ich bin stark.: Io sono forte.
