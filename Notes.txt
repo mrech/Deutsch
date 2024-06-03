@@ -56,7 +56,7 @@ Sehr gut gemacht: Very well done
 Gut gemacht!: Well done
 Du wirst immer besser!: You get getting better and better! | Diventi sempre più bravo
 Ab zum nächsten Deck!: Off we go to the next Deck
-Super!:
+Super!: Ottimo!
 Deine Arbeit zahlt sich aus: your work is paying off
 Deine Deutsch ist beeindruckend: your german is impressive
 Du machst das richtig gut heute.: You have done really well today
@@ -68,6 +68,7 @@ Ganz Genau: exactly
 Glückwunsch /gly:ckvʊnʃ/: congratulation
 Einen schönen Tag noch.: Buona giornata.
 Oh wie schön!: Che bello!
+Tolle Idee!: Ottima idea!
 
 
 
@@ -148,7 +149,24 @@ NEW WORDS
 > Entschuldigung: Mi scusi.
 > Zusammen oder getrennt?: Insieme o separatamente?
 > Ebenso: Altrettanto.
-
+> Alles klar: Perfetto.
+> Kommt drauf an.: Dipende.
+> Super, dann machen wir eine (ACC.) Fahrradtour (F).:
+  Ottimo, allora facciamo un giro in bicicletta.
+> Nicht schon wieder das Schloss ...
+  Il castello di nuovo no...
+---------
+> Draußen: 
+    E.G.:
+    Ist es warm draußen? Ja, es ist warm.:
+    Fa caldo fuori? Si, fa caldo!
+---------
+> zu weit: troppo lontano
+    E.G.: 
+    Hast du keine Lust?: Non hai voglia
+    Doch, aber Bernau ist zu weit.: Sì, ma Bernau è troppo lontano.
+    Alles klar. Dann fahren wir nach Köpenick.: D'accordo. Allora andiamo a Köpenick.
+    Das sind nur 16 oder 17 Kilometer.: Sono solo 16 o 17 kilometri.
 
 
 ==================================================
@@ -218,10 +236,17 @@ NUMBERS
 > Acht: otto
 > Neun /Noin/: nove
 > Zehn: dieci
+    E.G.:
+    Zehn Euro bitte.
 > Elf: undici
 > Zwölf: dodici
 > Dreizehn: tredici
 > Vierzehn: quattordici
+> Fünfzehn: quindici
+> Sechzehn: sedici
+> Siebzehn: diciassette
+> Achtzehn: diciotto
+> Zwanzig: venti
 > 
 
 
@@ -235,6 +260,7 @@ N.B.: Se la frase inizia con un verbo, il complemento di tempo viene
       E.G.:
       Kochen wir am Freitagabend?: Cuciniamo venerdì sera?
       Frühstückt ihr am Sonntagmorgen?: Fate colazione domenica mattina?
+
 
 ==================================================
 DAY OF THE WEEK
@@ -258,6 +284,7 @@ DAY OF THE WEEK
   E.G.:
   Am Sonntagmorgen mache ich ein leckers Frühstück.:
   On sunday morning I make a delicious breakfast.  
+
 
 ==================================================
 TIME OF THE DAY
