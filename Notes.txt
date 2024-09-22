@@ -27,11 +27,13 @@ Hi: Ciao
 Auf Wiedersehen: Goodbye
 Tschüss /tʃːks/: Bye| Arrivederci!
 Bis später! /spɛ:ter/: A più tardi!
+Bis später ihr zwei: A dopo (voi due).
 Guten Abend: Buonasera
 Bis bald!: A presto
 Bis morgen!: A domani
 Mach's gut!: stammi bene
 Gute Nacht: Buonanotte
+Gute Idee.: Ottima idea.
 Willkommen: benvenuto
 Hallo!: Ciao
 Danke: Grazie
@@ -53,6 +55,7 @@ Gib nicht auf!: non mollare/Don't give up.
 Weiter so!: keep it up
 Das war's.: That was it
 Sehr gut gemacht: Very well done
+Sehr gerne!: Molto volentieri
 Gut gemacht!: Well done
 Du wirst immer besser!: You get getting better and better! | Diventi sempre più bravo
 Ab zum nächsten Deck!: Off we go to the next Deck
@@ -68,7 +71,12 @@ Ganz Genau: exactly
 Glückwunsch /gly:ckvʊnʃ/: congratulation
 Einen schönen Tag noch.: Buona giornata.
 Oh wie schön!: Che bello!
+Ah schön!: Ah, bello!
 Tolle Idee!: Ottima idea!
+Tolle Party, oder?: Bella Festa, vero?
+Na toll!: Fantastico
+Das ist aber lieb von euch.: é carino da parte vostra.
+Klar!: Chiaro!
 
 
 
@@ -149,10 +157,12 @@ NEW WORDS
 > Entschuldigung: Mi scusi.
 > Zusammen oder getrennt?: Insieme o separatamente?
 > Ebenso: Altrettanto.
-> Alles klar: Perfetto.
+> Alles klar: Perfetto | Va bene.
 > Kommt drauf an.: Dipende.
 > Super, dann machen wir eine (ACC.) Fahrradtour (F).:
   Ottimo, allora facciamo un giro in bicicletta.
+> Dann los!: Allora, andiamo!
+> Lass uns die Sachen suchen.: Cerchiamo le cose.
 > Nicht schon wieder das Schloss ...
   Il castello di nuovo no...
 ---------
@@ -165,8 +175,17 @@ NEW WORDS
     E.G.: 
     Hast du keine Lust?: Non hai voglia
     Doch, aber Bernau ist zu weit.: Sì, ma Bernau è troppo lontano.
-    Alles klar. Dann fahren wir nach Köpenick.: D'accordo. Allora andiamo a Köpenick.
+    ---
+    Alles klar. Dann fahren wir nach Köpenick.: 
+    D'accordo. Allora andiamo a Köpenick.
+    ---
     Das sind nur 16 oder 17 Kilometer.: Sono solo 16 o 17 kilometri.
+> beschäftigt: occupato
+    E.G.:
+    Anna ist total beschäftigt und hat keine Zeit.: 
+    Anna è totalmente occupata e non ha tempo.
+> Passt das?: Ti va bene?
+> Nein, das ist zu frü.: No, è troppo presto.
 
 
 ==================================================
@@ -210,6 +229,7 @@ COUNTRIES
 > Schweden: Sweden  
 > Deutschland
 > Frankreich: France
+> Franzose: francese
 
 
 ==================================================
@@ -268,11 +288,18 @@ DAY OF THE WEEK
 > Montag: Lunedì 
   Montagabend (Montag + Abend): Lunedì sera
   E.G.:
-  Ich arbeite am Montagmorgen.: Io lavoro il lunedì mattina
+    Ich arbeite am Montagmorgen.: Io lavoro il lunedì mattina
+    Am Montag arbeite ich.: Lunedì lavoro
 > Dienstag: Martedì
   Dienstagvormittag (Dienstag + Vormittag): Martedì tarda mattinata
-> Mittwoche: Mercoledì
-> Donnertag: Giovedì
+  E.G.:
+    Am Dienstag singe ich.: Martedì canto.
+> Mittwoch: Mercoledì
+  E.G.:
+    Am Mittwoch koche ich.: Mercoledì cucino.
+> Donnerstag: Giovedì
+  E.G.:
+    Am Donnerstag tanze ich.: Giovedì ballo.
 > Freitag: Venerdì
   E.G.:
   Kochen wir am Freitagabend?: Cuciniamo venerdì sera?
@@ -292,7 +319,8 @@ TIME OF THE DAY
 > am Morgen: periodo dall'alba alle 10am
     E.G.:
     Am Morgen frühstücke ich: La mattina faccio colazione
-> am Vormittag: (lett. prima di mezzogiorno) indica il periodo dalle 10am alle 12am
+> am Vormittag: (lett. prima di mezzogiorno) 
+    indica il periodo dalle 10am alle 12am
     E.G.:
     Ich arbeite am Vormittag.: Lavoro in mattinata.
 > am Nachmittag: il pomeriggio
@@ -303,7 +331,8 @@ TIME OF THE DAY
     Ich koche am Abend.: Cucino la sera.
     Am Abend kochen sie.: Alla sera loro cucinano.
 > am Wochenende: il fine settimana
-  Was macht ihr am Wochenended? Cosa fanno il fine settimana?
+    E.G.:
+    Was macht ihr am Wochenended? Cosa fanno il fine settimana?
 
 
 ==================================================
@@ -320,3 +349,8 @@ negativa.
 
 E.G.:
 Hast du Lust? Ja, Ich habe Lust.
+
+
+==================================================
+LE ORE
+==================================================

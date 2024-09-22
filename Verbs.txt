@@ -7,10 +7,6 @@
     E.G.:
     Du musst mich mal einladen.
     Mi devi invitare una volta.
-> Backen: to bake 
-    E.G.:
-    Sie backen immer Kuchen für mich.:
-    Mi preparano sempre delle torte.
 > Kosten: to cost 
     E.G.:
     Das Vollkornbrot kostet 3,10 Euro (Drei Euro zehn).:
@@ -103,14 +99,16 @@ Ihr       | hab-T
 Sie       | hab-EN           
 
 E.G.: 
-Sie hat kein Geld: Lei non ha soldi
-Ich habe keinen platz in meiner Wohnung.: I have no space in my appartment
-Ich habe ein Auto: I have a car
-Jeremy hat eine Brille: Jeremy has glasses
-Wir haben keine Zeit: We have no time
+Sie hat kein Geld (N): Lei non ha soldi
+Ich habe keinen platz (M) in meiner Wohnung.: I have no space in my appartment
+Ich habe ein Auto (N): I have a car
+Jeremy hat eine Brille (F): Jeremy has glasses
+Wir haben keine Zeit (F): We have no time
 Ich habe dich lieb/Ich lieb dich: I love you.
-Ich habe kein Fahrrad.: Non ho una bicicletta.
-Hast du ein Fahrrad, Freddy?: Hai una bicicletta, Freddy?
+Ich habe kein Fahrrad (N).: Non ho una bicicletta.
+Hast du ein Fahrrad (N), Freddy?: Hai una bicicletta, Freddy?
+Freddy hat heute Geburtstag.: Oggi è il compleanno di Freddy.
+Wir haben den Kuchen vergessen.: Abbiamo dimenticato la torta.
 
 
 ==================================================
@@ -131,6 +129,10 @@ Weißt du noch, als du kein Deutsch konntest?:
 Do you still remember when you could not speak German?
 --------
 Das weiß ich leider nicht.: I don't know that unfortunately.
+--------
+Du weißt doch, Ich trinke keinen Alkohol..
+Lo sai, non bevo alcool. 
+-------
 
 
 ==================================================
@@ -449,7 +451,7 @@ Eine jacke trägt man: una giacca si indossa
 FAHREN: to drive | andare 
 ==================================================
 Se si va da qualche parte con un mezzo di trasporto, 
-in genere si usa il verbo FAHREN, che letteralmente
+(bici, auto) in genere si usa il verbo FAHREN, che letteralmente
 significa guidare.
  
  PRONOUN  | PRÄSENS   
@@ -546,6 +548,27 @@ Loane schlÄft und isst im Bett.:
 Loane dorme e mangia sul letto. 
 
 
+==================================================
+BACKEN: to bake | 
+==================================================
+
+          | PRÄSENS   
+----------| ---------- 
+Ich       | back-E    
+Du        | bÄck-ST          
+Er/Sie/Es | bÄck-T       
+Wir       | back-EN          
+Ihr       | back-T          
+Sie       | back-EN 
+
+E.G.:
+Sie backen immer Kuchen für mich.:
+Mi preparano sempre delle torte.
+-------
+Wir backen ein-EN (ACC.) Kuchen (M). Für Freddy.:
+Prepariamo una torta. Per Freddy.
+
+
 ##################################################
 ################## REGULAR VERB ##################
 ##################################################
@@ -608,6 +631,8 @@ French fies are made from potatoes
 ---------
 Was machst du am Nachmittag?.: 
 What are you doing in the afternoon.
+---------
+Machen wir heute was zusammen?: Facciamo qualcosa insieme oggi. 
 
 
 ==================================================
@@ -623,7 +648,12 @@ Wir       | trink-EN  |
 Ihr       | trink-T   |
 Sie       | trink-EN  |
 
-E.G.: Du tinkst milch. Sie trinken nichts
+E.G.: 
+Du tinkst milch.: Tu bevi latte. 
+Sie trinken nichts.: Loro non bevono.
+-------
+Anna trinkt keinen Alkohol. Und Max auch nicht.:
+Anna non beve alcool. E nemmeno Max. 
 
 
 ==================================================
@@ -715,7 +745,7 @@ Ihr       | glaub-T
 Sie       | glaub-EN          
 
 E.G.: 
-TODO
+Ich glaube auch.: I think/believe so too.
 
 
 
@@ -1061,7 +1091,7 @@ Sie       | geh-EN
 
 E.G.:
 Emma geht am (AN+DEM, DAT. - LOCATION(time)) 
-Nachmittag (M) in (ACC.- MOTION) die Bibliothek (F).: 
+Nachmittag (M) in die (ACC.- MOTION) Bibliothek (F).: 
 Emma va in biblioteca al pomeriggio.
 ---------
 Loane geht am (AN+DEM, DAT. - LOCATION(time)) 
@@ -1069,6 +1099,10 @@ Nachmittag ins (IN+DAS, ACC. - MOTION).:
 Loane va in palestra al pomeriggio.
 ---------
 Stimmt! Lass uns gehen.: Esatto! Andiamo.
+---------
+Ich gehe schnell zum (ZU+DEM, DAT. - LOCATION) 
+Supermarkt und kaufe Zucker.: Vado subito al 
+supermercato e compro (lo) zucchero. 
 
 
 ==================================================
@@ -1087,6 +1121,57 @@ Sie       | buchstabier-EN
 E.G.:
 Wie buchstabiert man das?: Come si scrive (lett. si fa lo spelling di) questo?
 Bitte buchstabieren Sie das.: Per favore faccia lo spelling. 
+
+
+==================================================
+BRAUCHEN: to need | avere bisogno | servire
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | brauch-E              
+Du        | brauch-ST         
+Er/Sie/Es | brauch-T      
+Wir       | brauch-EN         
+Ihr       | brauch-T         
+Sie       | brauch-EN       
+
+E.G.:
+Ich brauche noch ein paar Sachen für die Geburtstagsparty.:
+Ho bisogno ancora di un paio di cose per la festa di compleanno. 
+------
+Ich brauche noch einen (ACC.) Saft (M).: 
+Io ho ancora bisogno di un succo.
+------
+Also, Ich brauche nur den Zucker. 
+Allora, io ho bisogno solo dello zucchero.
+------
+Nien, ich brauche keinen Zucker.:
+No, non ho bisogno dello zucchero. 
+-----
+Braucht ihr Hilfe? Ja bitte. Wir brauchen Hilfe.
+Avete bisogni di aiuto? Sì, grazie. Abbiamo bisogno di aiuto.  
+-----
+Freddy braucht ein-E (ACC) Zitrone (F).:
+A Freddy serve un limone.
+
+
+==================================================
+FEIERN: to celebrate | festeggiare 
+==================================================
+
+          | PRÄSENS   
+----------|-----------  
+Ich       | feier-E              
+Du        | feier-ST         
+Er/Sie/Es | feier-T      
+Wir       | feier-N         
+Ihr       | feier-T         
+Sie       | feier-N       
+
+E.G.:
+Heute Abend feiern wir ein (ACC.) Fest (N.):
+Stasera facciamo (lett. festeggiamo) una festa!
 
 
 ##################################################
@@ -1445,11 +1530,11 @@ Modal verbs appear together with a second verb most of the time to modify
 the meaning of the sentence. 
 There are five modal verbs: 
 
-> können (to be able to/to can)
+> können (to be able to/to can) | capacità
 > wollen (to want to)
 > sollen (to be supposed to/should)
-> müssen (to have to)
-> dürfen (to be allowed to). 
+> müssen (to have to) | obbligo
+> dürfen (to be allowed to) | permesso. 
 
 The verb **mögen/möchten (to like to)** is a special kind of modal verb. 
 It is used in the subjunctive (see below: Subjunctive II).
@@ -1459,7 +1544,7 @@ verb remains in the infinitive. The conjugated modal verb takes the
 second position in the sentence, while the full verb is at the end of the sentence.
 
 ==================================================
-KÖNNEN: to be able to
+KÖNNEN: to be able to | capacità, possibilità
 ==================================================
 The modal verb können expresses a possibility, 
 the ability to do something or permission: 
@@ -1482,6 +1567,13 @@ Weißt du noch, als du kein Deutsch konntest?:
 Do you still remember when you could not speak German? 
 Sie können das nicht.: They can't
 Er kann kein-E Gitarre (F) spielen.: He can't play the guitar.
+Kannst du kochen?: Sai cucinare?
+Ich kann Gitarre spielen.: So suonare la chitarra.
+Wir können ins Kino gehen.: Possiamo andare al cinema.
+Leider kann ich heute nicht.: Purtroppo oggi non posso.
+Ich kann schwimmen.: So nuotare.
+Sie können noch nicht laufen.: Non sanno ancora camminare. 
+
 
 ==================================================
 WOLLEN /volen/: to want to
@@ -1613,6 +1705,7 @@ Sometimes Marina would like to live alone.
 Was möchten Sie?
 Cosa desidera?
 ---------
+Was möchtest du trinken, Karl? Cosa vuoi bere, Karl?
 
 
 

@@ -10,13 +10,12 @@
     Wie geht's dir?: Come stai? (Come va a te?)
     Wie ist das Wetter?. Com'è il tempo?
 ----------
-> WOHER?: Where from?/Da dove?
-    E.G.:
-    Woher kommst du?: Where are you from?
-----------
-> WELCHE?: Which?|Quale?
+> WELCH-E?: Which?|Quale?
+> WELCH-ES?: Which?|Quale?
     E.G.: 
-    Welche Sprachen sprichst du?: Che lingue parli?
+    Welches Tier (N) macht "Uhuhu"?: Quale animale fa "Uhuhu"?
+    Welches ist ein Modalverb (N)? Qual'è un verbo modale?
+    Welche Sprachen (P) sprichst du?: Che lingue parli?
 ----------
 > VON WELCHEM?: Da quale?
   E.G.:
@@ -29,25 +28,17 @@
     Was macht ein Popostar beruflich?: cosa fa una pop star professionalmente?
     Was kann man trinken und ist schwarz? Cosa può uno bere che è nero?
     Was darf Janusz nicht vergessen?: Cosa non deve dimenticare Janusz?
+    Was macht ihr?: Cosa fate?
+    Was machst du denn hier?: Cosa (ci) fai qui?
+    Was brauchen wir?: Di cosa abbiamo bisogno.
 ----------
 > WAS KOSTET?: Quanto costa?
   E.G.:
   Was kostet eine Fahrkarte?: Quanto costa un biglietto?
-----------
-> WOHIN?: Dove? 
-  Se vuoi sapere dove VA qualcuno o qualcosa (moto a luogo).
-    E.G.:
-    Wohin fahren wir?: Dove andiamo?
-    Also, wohin fahren wir?: Allora, dove andiamo
-    --------
-    Doch! Aber wohin fahren wir? Nach Postsdam!
-    Si! Ma dove andiamo? A Potsdam!
-----------
-> WANN?: quando?
-    E.G.: 
-    Wann habt ihr Urlaub? When do you have vacation.
-    Wann fährt der nächste Zug?: 
-    Quando parte (lett. va) il prossimo treno?
+  -----
+  Was machst du am Mittwoch?: Cosa fai Mercoledì?
+  NB.: Se la frase inizia con un pronome interrogativo, il
+       giorno si trova dopo il soggetto.
 ----------
 > WO?: Where?/Dove?
   Se vuoi sapere dove SI TROVA qualcuno o qualcosa 
@@ -58,24 +49,40 @@
     --------
     Wor kann man klettern?: Dove può uno arrampicarsi?
     Wo bist du?: Dove sei?
-
-
-
-
-
-
-
-
---------------------------------------------------
-Warum?: perchè? why?
---------------------------------------------------
-E.G.: 
-Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?
-
-
---------------------------------------------------
-Welches?: Which?|Quale?
---------------------------------------------------
-E.G.: 
-Welches Tier macht "Uhuhu"?: Quale animale fa "Uhuhu"?
-Welches ist ein Modalverb? Qual'è un verbo modale?
+    --------
+    Wo ist denn der Kuchen? Dov'è la torta?
+----------
+> WOHER?: Where from?/Da dove?
+    E.G.:
+    Woher kommst du?: Where are you from?
+----------
+> WOHIN?: Dove vai? 
+  Se vuoi sapere dove VA qualcuno o qualcosa (moto a luogo).
+    E.G.:
+    Wohin fahren wir?: Dove andiamo?
+    Also, wohin fahren wir?: Allora, dove andiamo
+    --------
+    Doch! Aber wohin fahren wir? Nach Postsdam!
+    Si! Ma dove andiamo? A Potsdam!
+    --------
+    Wohin fährst du am Donnerstag?:
+    Dove vai giovedì?
+----------
+> WANN?: quando?
+    E.G.: 
+    Wann habt ihr Urlaub? When do you have vacation.
+    -----
+    Wann fährt der nächste Zug?: 
+    Quando parte (lett. va) il prossimo treno?
+    -----
+    Wann kommst du am Montag?: Quando vieni lunedì?
+    NB.: Se la frase inizia con un pronome interrogativo, il
+         giorno si trova dopo il soggetto.  
+    -----
+    Wann hast du Zeit?: Quando hai tempo?
+-----------
+> WARUM?: perchè? why?
+    E.G.: 
+    Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?
+----------
+> UM WIE VIEL UHR?: A che ora?

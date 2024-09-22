@@ -277,6 +277,9 @@ Mögt ihr diesen Song?: Vi piace questa canzone.
 ---------
 Diesen Nachmittag hat Marina ihr-E (ACC.) Ruhe (F).:
 Questo pomeriggion Marina sta in pace. 
+---------
+Gehen wir diese Woche ins Kino?:
+Andiamo al cinema questa settimana?
 
 
 

@@ -76,7 +76,7 @@ TIME
     E.G.:
     Manchmal möchte Marina alleine leben.
 ----------
-> oft: often
+> Oft: often
     E.G.:
     Junge Leute sind oft verrükt.:
     Young people are often creazy.
@@ -101,5 +101,7 @@ TIME
     Max kann nicht bis später warten.:
     Max can't wait until later.
 ----------
-
+> Da: Per allora
+    E.G.:
+    Da kann ich nicht.: Per allora non posso. 
 

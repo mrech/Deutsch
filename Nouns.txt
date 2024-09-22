@@ -90,7 +90,10 @@ sp[ɛ:][s]e/   | fun             | der Spaß          | die Späße|die Spässe
               | giardino        | der Garten        |
 /kuʃen/       | torta           | der Kuchen        |
               | sportello       | der Schalter      |
-              
+              | zucchero        | der Zucker        | UNCOUNTABLE
+              | l'alcool        | der Alkohol       | UNCOUNTABLE
+
+
 
 ==================================================
 FEMININUM/FEMMINILE
@@ -169,6 +172,11 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
                      | il biglietto    | die Fahrkarte        | die Fahrkarten
                      | il biglietto    |                      |
                      | giornaliero     | die Tageskarte       | die Tageskarten
+                     | campanello      | die Klingel          | die Klingeln
+                     | idea            | die Idee             | die Ideen
+                     | il limone       | die Zitrone          | die Zitronen
+                     | prove con la    |                      |
+                     | banda           |  die Bandprobe       |
 
 
 
@@ -232,7 +240,7 @@ NEUTRUM/NEUTRO
 /[Ve][ge]    | shared room |                   |                 
 /zi'mm[ɐ]/   | appartment  | das WG-Zimmer     | die WG-Zimmer
              |             | das Fitnessstudio | die Fitnessstudios
-             | party       | das Fest          |
+             | party       | das Fest          | die Feste
              | il paese    | das Land          |   
              | quartiere   | das Viertel       |       
              | gelato      | das Eis           |
@@ -242,7 +250,10 @@ NEUTRUM/NEUTRO
              | la birra    | das Bier          |
              | il castello | das Schloss       |
              | il binario  | das Gleis         |
-              
+             | il curry    | das Curry         |
+             | il cinema   | das Kino          | die Kinos
+             | lo Yoga     | das Yoga          |
+             | il teatro   | das Theater       |
 
 ##################################################
 ==================================================
@@ -269,6 +280,9 @@ Ich bin eine Frau: I am a woman
  DEFINITE      | Der        | Die        | Das        | Die
 ---------------|------------|------------|------------|------------
  INDEFINITE    | Ein        | Eine       | Ein        | -
+
+E.G.:
+Der Kuchen ist lecker.: La torta è deliziosa.
 
 
 
@@ -341,11 +355,31 @@ always require the accusative.
 E.G.:
 Ich fahre durch die Stadt: I drive through the city
 
+
  ACCUSATIVE    | MASCULINE  | FEMININE   | NEUTRO     | PLURALE
 ---------------|------------|------------|------------|------------
  DEFINITE      | Den        | Die        | Das        | Die
 ---------------|------------|------------|------------|------------
  INDEFINITE    | Einen      | Eine       | Ein        | -
+
+
+*NOTE*: All'accusativo, rispetto al nominativo, cambiano solo
+gli articoli corrispondenti ai *sostantivi maschili*: 
+- *der* diventa *den*
+E.G.:
+     Ich esse den Kuchen.: Mangio la torta.
+     Ich backe den Kuchen.: Preparo la torta.
+- *ein* diventa *einen*
+E.G.:
+     Ich esse einen Kuchen.: Mangio una torta.
+     Ich backe einen Kuchen.: Preparo una torta. 
+- *kein* diventa *keinen* 
+E.G.:
+     Ich esse keinen Kuchen.: Io non mangio torta.
+     Ich backe keinen Kuchen.: Non preparo una torta.
+
+
+
 
 
 
