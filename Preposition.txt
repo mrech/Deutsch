@@ -124,6 +124,10 @@ zurück       | back
 
 E.G.:
 Ihr macht übungen auf Seeland.
+------
+Ich stehe vor dem (DAT.) Kino (N) und warte.:
+Sono davanti al cinema e aspetto. 
+
 
 
 > If the verb is describing MOTION FROM ONE PLACE TO ANOTHER, 

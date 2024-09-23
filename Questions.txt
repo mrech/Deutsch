@@ -86,3 +86,4 @@
     Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?
 ----------
 > UM WIE VIEL UHR?: A che ora?
+> WIE VIEL UHR IST ES?: Che ora è?

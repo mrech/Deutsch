@@ -152,6 +152,7 @@ NEW WORDS
 > Das klingt toll!: Mi sembra ottimo.
 > Klar, mache ich.: Certo, lo farò.
 > Noch etwas?: Nient'altro?
+> Noch zu Hause: Ancora a casa. 
 > Nien danke. Das ist alles?: No grazie. Basta così.
 > Sher gerne.: Molto bene (lett. volentieri)
 > Entschuldigung: Mi scusi.
@@ -186,6 +187,12 @@ NEW WORDS
     Anna è totalmente occupata e non ha tempo.
 > Passt das?: Ti va bene?
 > Nein, das ist zu frü.: No, è troppo presto.
+> schon: già
+    E.G.:
+    Es ist schon acht Uhr.: Sono già le otto. 
+> erst: Ancora
+    E.G.:
+    Es ist erst halb acht.: Sono ancora le sette e mezza. 
 
 
 ==================================================
@@ -354,3 +361,31 @@ Hast du Lust? Ja, Ich habe Lust.
 ==================================================
 LE ORE
 ==================================================
+> Per dire l'ora si usa sempre: *Es ist..* seguito dal numero e da *Uhr*.
+    E.G.: 
+    Es ist acht Uhr.: Sono le otto. 
+> Per indicare la mezz'ora in tedesco ci si riferisce all'ora successiva.
+    E.G.:
+    Es ist halb acht.: Sone le sette e mezza.
+    5:30. Es ist halb sechs.
+    02:30. Es ist halb drei. 
+> Fino a 20 minuti *dopo* l'ora si usa NACH:
+    E.G.:
+    14:20. Es ist zwanzig nach zwei.
+> Fino a 20 minuti *prima* si usa VOR:
+    E.G.:
+    06:50. Es ist zehn vor sieben.
+> NB.: Con NACH e VOR si usano soltanto i numeri da zero a dodici.
+       Le 24 si usano i contesti formali. 
+> Un quarto d'ora si dice VIERTEL, quindi VIRTEL VOR (meno un quarto)
+  oppure VIERTEL NACH (e un quarto).
+    E.G.:
+    14:45. Es ist Viertel vor drei. 
+    17:15. Es ist Viertel nach fünf. 
+> Per dire che è una certa ora e venticinque, in tedesco si dice cinque
+  prima della mezza. 
+    E.G.:
+    17:25. Es ist fünf vor halb sechs.
+> Per dire e trentacinque si dice cinque dopo la mezza.
+    E.G.:
+    17:35. Es ist fünf nach halb sechs. 
