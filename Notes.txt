@@ -310,6 +310,8 @@ DAY OF THE WEEK
 > Mittwoch: Mercoledì
   E.G.:
     Am Mittwoch koche ich.: Mercoledì cucino.
+    Sag mal, Anna, hast du am Mittwochabend Zeit?:
+    Dimmi un pò, Anna, hai tempo mercoledì sera?
 > Donnerstag: Giovedì
   E.G.:
     Am Donnerstag tanze ich.: Giovedì ballo.
@@ -346,6 +348,7 @@ TIME OF THE DAY
 > am Wochenende: il fine settimana
     E.G.:
     Was macht ihr am Wochenended? Cosa fanno il fine settimana?
+
 
 
 ==================================================
