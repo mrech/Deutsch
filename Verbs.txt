@@ -1575,6 +1575,7 @@ Wir können ins Kino gehen.: Possiamo andare al cinema.
 Leider kann ich heute nicht.: Purtroppo oggi non posso.
 Ich kann schwimmen.: So nuotare.
 Sie können noch nicht laufen.: Non sanno ancora camminare. 
+Ich kann kochen. Kochen wir zusammen?: So cucinare. Cuciniamo insieme?
 
 
 ==================================================
