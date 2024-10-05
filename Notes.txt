@@ -298,6 +298,11 @@ N.B.: Se la frase inizia con un verbo, il complemento di tempo viene
 ==================================================
 DAY OF THE WEEK
 ==================================================
+NOTE: Aggiungendo la -s al nome del giorno o al momento della giornata,
+      si indica che un azione viene compiuta regolarmente.
+      E.G.:
+      **Am Morgen** significa la mattina di un giorno specifico,
+      mentre **morgens** significa di mattina, cioè ogni mattina.
 > Montag: Lunedì 
   Montagabend (Montag + Abend): Lunedì sera
   E.G.:
@@ -307,6 +312,7 @@ DAY OF THE WEEK
   Dienstagvormittag (Dienstag + Vormittag): Martedì tarda mattinata
   E.G.:
     Am Dienstag singe ich.: Martedì canto.
+    Dienstags gehe ich schwimmen.: I martedì vado a nuotare.
 > Mittwoch: Mercoledì
   E.G.:
     Am Mittwoch koche ich.: Mercoledì cucino.
@@ -331,13 +337,20 @@ DAY OF THE WEEK
 ==================================================
 TIME OF THE DAY
 ==================================================
+NOTE: Aggiungendo la -s al nome del giorno o al momento della giornata,
+      si indica che un azione viene compiuta regolarmente.
+      E.G.:
+      **Am Morgen** significa la mattina di un giorno specifico,
+      mentre **morgens** significa di mattina, cioè ogni mattina.
 > am Morgen: periodo dall'alba alle 10am
     E.G.:
     Am Morgen frühstücke ich: La mattina faccio colazione
+    Morgens mache ich Frühstück.: La mattina preparo la colazione.
 > am Vormittag: (lett. prima di mezzogiorno) 
     indica il periodo dalle 10am alle 12am
     E.G.:
     Ich arbeite am Vormittag.: Lavoro in mattinata.
+    Vormittags arbeite ich.: In mattinata lavoro.
 > am Nachmittag: il pomeriggio
     E.G.:
     Am Nachmittag putze ich.: Il pomeriggio pulisco.
@@ -345,6 +358,7 @@ TIME OF THE DAY
     E.G.:
     Ich koche am Abend.: Cucino la sera.
     Am Abend kochen sie.: Alla sera loro cucinano.
+    Abends mache Ich Abendessen.: La sera preparo la cena.
 > am Wochenende: il fine settimana
     E.G.:
     Was macht ihr am Wochenended? Cosa fanno il fine settimana?
