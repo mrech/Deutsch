@@ -31,6 +31,7 @@ Bis später ihr zwei: A dopo (voi due).
 Guten Abend: Buonasera
 Bis bald!: A presto
 Bis morgen!: A domani
+Bis gleich: A tra poco
 Mach's gut!: stammi bene
 Gute Nacht: Buonanotte
 Gute Idee.: Ottima idea.
@@ -193,6 +194,11 @@ NEW WORDS
 > erst: Ancora
     E.G.:
     Es ist erst halb acht.: Sono ancora le sette e mezza. 
+> Echt?: davvero?
+> wieder vor: di nuovo avanti
+    E.G.:
+    Dann geht meine Uhr wieder vor: 
+    Allora il mio orologio va di nuovo avanti.
 
 
 ==================================================
@@ -200,7 +206,7 @@ DAS ALPHABET
 ==================================================
 A /a/ 
 B /be/ 
-C /ce/ 
+C /tze/ 
 D /de/ 
 E /e/
 F /ef/ 
