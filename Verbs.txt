@@ -22,7 +22,9 @@
     E.G.:
     Komm, wir gehen zum Schalter und fragen.
     Dai, andiamo allo sportello e chiediamo.
-
+> Losfahren: avviarsi/to set off/to depart
+    E.G.:
+    Ich fahre jetzt los.: Mi avvio allora.
 
 
 
