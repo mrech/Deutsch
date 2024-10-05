@@ -367,6 +367,9 @@ Hast du Lust? Ja, Ich habe Lust.
 ==================================================
 LE ORE
 ==================================================
+> Wie viel Uhr ist es?: Che ora è?
+> Wie spät ist es?: Che ore sono?
+> Um wie viel Uhr?: A che ora?
 > Per dire l'ora si usa sempre: *Es ist..* seguito dal numero e da *Uhr*.
     E.G.: 
     Es ist acht Uhr.: Sono le otto. 
@@ -396,3 +399,4 @@ LE ORE
 > Per dire e trentacinque si dice cinque dopo la mezza.
     E.G.:
     17:35. Es ist fünf nach halb sechs. 
+> Um 14 Uhr: Alle quattordici
