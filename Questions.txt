@@ -3,12 +3,16 @@
     Wer bist du?: Who are you? | chi sei tu?
     Wer ist das? Chi è questo/questa?
 ----------
-> WIE?: Come?
+> WIE?: Come?/Che?
     E.G.: 
     Wie heiße ich?: Come mi chiamo?
     Wie kann man sich entspannen? come si può rilassarsi?
     Wie geht's dir?: Come stai? (Come va a te?)
     Wie ist das Wetter?. Com'è il tempo?
+> Wie viel Uhr ist es?: Che ora è?
+> Wie spät ist es?: Che ore sono?
+> Um wie viel Uhr?: A che ora?
+
 ----------
 > WELCH-E?: Which?|Quale?
 > WELCH-ES?: Which?|Quale?
@@ -85,5 +89,3 @@
     E.G.: 
     Warum magst du keinen Kaffee?:  Perchè non ti piace il caffe?
 ----------
-> UM WIE VIEL UHR?: A che ora?
-> WIE VIEL UHR IST ES?: Che ora è?
