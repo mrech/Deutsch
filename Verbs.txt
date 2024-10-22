@@ -1294,66 +1294,11 @@ Sie       |
 ################# SEPARABLE VERB #################
 ##################################################
 
-These verbs are separated from the prefix in their conjugated form.
-The respective prefix of a verb determines whether the verb is 
-separated or not. The verb is always conjugated the same way as 
-the simple verb without prefix.
-
-==================================================
-AUFWACHEN /Auf[v]a[ç]en/: to wake up
-==================================================
-
-          | PRÄSENS   
-----------|----------- 
-Ich       |           
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-wach-E auf
-wach-ST auf
-wach-T auf
-wach-EN auf
-wach-T auf
-wach-EN auf
-
-E.G.:
-Ich wache auf. (I wake up.)
-
---------------------------------------------------
-losfahren (to set off): 
---------------------------------------------------
-Das Auto fährt los. (The car set off.)
-
-==================================================
-EINKAUFEN: to buy | fare la spesa
-==================================================
-
-          | PRÄSENS   
-----------|----------- 
-Ich       |           
-Du        |      
-Er/Sie/Es |      
-Wir       |      
-Ihr       |      
-Sie       |    
-
-kauf-E ein
-kauf-ST ein
-kauf-T ein
-kauf-EN ein
-kauf-T ein
-kauf-EN ein
-
-E.G.:
-Ich kaufe später ein.: 
-Faccio la spesa più tardi.
-
-Mein Vater kauft Tomaten ein.:
-My father buys tomatoes.
-
+These verbs (TRENNBARE) are separated from the prefix in their 
+conjugated form. The respective prefix of a verb determines whether 
+the verb is separated or not. 
+The verb is always conjugated the same way as the simple verb 
+without prefix.
 
 The most important prefixes that designate separable verbs:
 AB-, AN-, AUF-, AUS-, EIN-, GEGEN-,HOCH-, LOS-, MIT-, NACH-, 
@@ -1380,6 +1325,57 @@ We have to call the police.
 The following prefixes never separate from their verb stem: 
 BE-, EMP-, ENT-, ER-, GE-, VER- and ZER-
 
+==================================================
+AUFWACHEN /Auf[v]a[ç]en/: to wake up
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       | wach-E auf          
+Du        | wach-ST auf     
+Er/Sie/Es | wach-T auf     
+Wir       | wach-EN auf     
+Ihr       | wach-T auf     
+Sie       | wach-EN auf   
+
+E.G.:
+Ich wache auf. (I wake up.)
+
+==================================================
+LOSFAHREN //: to set off | to depart
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       | fahr-E los          
+Du        | fähr-ST los     
+Er/Sie/Es | fähr-T los     
+Wir       | fahr-EN los     
+Ihr       | fahr-T los     
+Sie       | fahr-EN los   
+
+E.G.:
+Das Auto fährt los. (The car set off.)
+
+==================================================
+EINKAUFEN: to buy | fare la spesa
+==================================================
+
+          | PRÄSENS   
+----------|----------- 
+Ich       | kauf-E ein          
+Du        | kauf-ST ein     
+Er/Sie/Es | kauf-T ein     
+Wir       | kauf-EN ein     
+Ihr       | kauf-T ein     
+Sie       | kauf-EN ein
+ 
+E.G.:
+Ich kaufe später ein.: 
+Faccio la spesa più tardi.
+
+Mein Vater kauft Tomaten ein.:
+My father buys tomatoes.
 
 ==================================================
 ZUHÖREN: ascoltare
@@ -1434,9 +1430,8 @@ Sie       | lern-EN kennen
 E.G.:
 Sie wollen Berlin kennenlernen: volgiono conoscere Berlino
 
-
 ==================================================
-WEGFAHREN: 
+WEGFAHREN: to drive away | to leave
 ==================================================
 
  PRONOUN  | PRÄSENS   
@@ -1449,7 +1444,44 @@ Ihr       | fahr-T weg
 Sie       | fahr-EN weg          
 
 E.G.:
-TODO
+Ich fahre morgen früh weg.: 
+    I am ldriving away/leaving early tomorrow. 
+
+==================================================
+ANZIEHEN: to wear | indossare
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | zieh-E an 
+Du        | zieh-ST an          
+Er/Sie/Es | zieh-T an          
+Wir       | zieh-EN an          
+Ihr       | zieh-T an
+Sie       | zieh-EN an          
+
+E.G.:
+Der Junge zieht die Hose an.:
+    Il giovane indossa i pantaloni. 
+
+==================================================
+AUSZIEHEN: to take off or to move out
+==================================================
+
+ PRONOUN  | PRÄSENS   
+----------| ---------- 
+Ich       | zieh-E aus 
+Du        | zieh-ST aus          
+Er/Sie/Es | zieh-T aus          
+Wir       | zieh-EN aus          
+Ihr       | zieh-T aus
+Sie       | zieh-EN aus          
+
+E.G.:
+Ich ziehe nächste Woche aus.:
+    I am moving out next week. 
+Zieh bitte deine Schuhe aus!.
+    Please take off your shoes!
 
 
 ##################################################
