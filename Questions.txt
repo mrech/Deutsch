@@ -9,6 +9,7 @@
     Wie kann man sich entspannen? come si può rilassarsi?
     Wie geht's dir?: Come stai? (Come va a te?)
     Wie ist das Wetter?. Com'è il tempo?
+    Wie ist dein typischer Tag so?: com'è la tua giornata tipica?
 > Wie viel Uhr ist es?: Che ora è?
 > Wie spät ist es?: Che ore sono?
 > Um wie viel Uhr?: A che ora?

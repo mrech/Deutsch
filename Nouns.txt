@@ -264,6 +264,7 @@ NEUTRUM/NEUTRO
              | la nave     | das Shiff         |
              | animale     |
              | domestico   | das Haustier      | die Haustiere
+             | colazione   | das Frühstück     |
 
 
 ##################################################

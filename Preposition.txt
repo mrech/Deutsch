@@ -88,6 +88,7 @@ Ich habe einen Brief für dich: I have a letter for you.
 Die Katze springt gegen den Tisch: The cat jumps against the table
 Sie will nicht ohne Brot essen.: Non vuole mangiare senza il pane.
 Danke für das Geschenk, Anna.: Grazie per il regalo, Anna.
+Ich muss bis 18 Uhr arbeiten.: Devo lavorare fino alle 18.
 
 Some preposition can be merged with the article to make one word:
 -------------------------
