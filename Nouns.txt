@@ -92,6 +92,7 @@ sp[ɛ:][s]e/   | fun             | der Spaß          | die Späße|die Spässe
               | sportello       | der Schalter      |
               | zucchero        | der Zucker        | UNCOUNTABLE
               | l'alcool        | der Alkohol       | UNCOUNTABLE
+              | parcheggio      | der Parkplatz     |
 
 
 
@@ -105,78 +106,80 @@ So are nouns that come from a foreign language and which end on -UR, -AGE, -IK,
 N.B.: Per la maggior parte dei sostantivi femminili basta aggiungere -(E)N 
       alla fine della parola.
 
- IPA                 | TRANLATION      | SINGOLARE            | PLURALE
----------------------|-----------------|----------------------|---------------------
-                     |                 | Frau                 | Frauen      
-                     |                 | Milch                |
-                     |                 | Zeitung              |
-                     |                 | Frange: question     |
-                     |                 | die Katze            |
-                     |                 | die Berlinerin       | die Berlinerinnen
-                     |                 | die Universität      |
-                     | team            | die Mannschaft       |
-                     | patatine fritte | die Pommes           | die Pommes
-                     |                 | die Kartoffel        | die Kartoffeln
-                     |                 | Die Nacht            |
-                     |                 | Die Limonade         | Die Limonaden  
-                     |                 | Die Jacke            | Die Jacken
-/myːtse              | capello         | Die Mütze            | Die Mützen
-/[Z].../             |                 | Die Sonnenbrille     | Die Sonnenbrillen
-/perzon/             |                 | Die Person           | Die Personen
-                     |                 | Wurst                |
-/ʏːbongen/           | esercizio       | die Übung            | Die Übungen
-/ʃtimme/             | voices          | die Stimme           | die Stimmen
-                     |                 | die musik            |
-/ʃtat/               | città           | die Stadt            | die Städte /ʃtɛ:te/ 
-                     |                 | die Gitarre          | die Gitarren
-/infoɐmatzion/       |                 | die information      | die informationen
-/banan/              |                 | die banane           | die bananen
-/ʃtʁase/             | strada          | die Straße           | die Straßen
-/Begrʏsʊng/          | saluto          | die Begrüßung        | die Begrüßungen
-/Poizai/             |                 | die Polizei          | die Polizeien 
-/poɐtzion/           | porzione        | die Portion          | die Portionen
-//                   | metro           | die U-Bahn           | die U-Bahnen
-/vonʊng/vonʊnghen/   | appartamento    | die Wohnung          | die Wohnungen
-                     | umore/capriccio | die Laune            | die Launen 
-                     | amiche          |                      |
-/fr[oi]ndn/          | fidanzata/amica | die Freundin         | die Freudinnen
-/arb[ai]t/           | lavoro          | die Arbeit           | die Arbeiten
-                     |                 | die Party            | die Partys
-                     | news            |                      |
-/n[oi]i[gl|ʃ]k[ai]/t | notizia/novità  | die Neuigkeit        | die Neuigkeiten
-/[oi]le/             | owl/gufo        | die Eule             | die Eulen            
-/Haus'aufgabe/       | compiti         | die Hausaufgabe      | die Hausaufgaben
-/[v]o[ç]e/           | week            | die Woche            | die Wochen
-/ahnʊng/ahnʊnghen/   | idea            | die Ahnung           | die Ahnungen
-                     | people          | die Leute            | die Leute
-                     |                 | die Pizza            | die Pizzen
-                     |                 | die Bank             | die Bank
-                     | corner          | die Ecke             | die Ecken
-                     | tram/metro      | die Straßenbahn      | die Straßenbahnen
-/kl[ai]'dʊng/        | abbigliamento/  |                      | 
-kl[ai]'ʊnghen/       | vestiario       | die Kleidung         | die Kleindungen
-                     | cucina          | die Küche            |
-                     |                 | die Bibliothek       | die Bibliotheken
-                     | riposo, quiete  | die Ruhe             | -
-                     |                 | die Tomate           | die Tomaten
-                     | figlia          | die Tochter          | 
-/Haʊsnʊmmeɐ/         | numero civico   | die Hausnummer       |
-                     | calligrafia     | die Schrift          |
-                     | certificato     |                      |   
-                     | di avvenuta     |                      |
-                     | registrazione   | die Meldebestätigung |
-                     | amaca           | die Hängematte       |
-                     | girella (lumaca)|                      |
-                     | alla cannella   | die Zimtschnecke     |   
-                     | la coca         | die Cola             |
-                     | il biglietto    | die Fahrkarte        | die Fahrkarten
-                     | il biglietto    |                      |
-                     | giornaliero     | die Tageskarte       | die Tageskarten
-                     | campanello      | die Klingel          | die Klingeln
-                     | idea            | die Idee             | die Ideen
-                     | il limone       | die Zitrone          | die Zitronen
-                     | prove con la    |                      |
-                     | banda           |  die Bandprobe       |
+ IPA                 | TRANLATION      | SINGOLARE                | PLURALE
+---------------------|-----------------|--------------------------|---------------------
+                     |                 | Frau                     | Frauen      
+                     |                 | Milch                    |
+                     |                 | Zeitung                  |
+                     |                 | Frange: question         |
+                     |                 | die Katze                |
+                     |                 | die Berlinerin           | die Berlinerinnen
+                     |                 | die Universität          |
+                     | team            | die Mannschaft           |
+                     | patatine fritte | die Pommes               | die Pommes
+                     |                 | die Kartoffel            | die Kartoffeln
+                     |                 | Die Nacht                |
+                     |                 | Die Limonade             | Die Limonaden  
+                     |                 | Die Jacke                | Die Jacken
+/myːtse              | capello         | Die Mütze                | Die Mützen
+/[Z].../             |                 | Die Sonnenbrille         | Die Sonnenbrillen
+/perzon/             |                 | Die Person               | Die Personen
+                     |                 | Wurst                    |
+/ʏːbongen/           | esercizio       | die Übung                | Die Übungen
+/ʃtimme/             | voices          | die Stimme               | die Stimmen
+                     |                 | die musik                |
+/ʃtat/               | città           | die Stadt                | die Städte /ʃtɛ:te/ 
+                     |                 | die Gitarre              | die Gitarren
+/infoɐmatzion/       |                 | die information          | die informationen
+                     |                 | die Touristeninformation |
+/ʃtʁase/             | strada          | die Straße               | die Straßen
+/banan/              |                 | die banane               | die bananen
+/Begrʏsʊng/          | saluto          | die Begrüßung            | die Begrüßungen
+/Poizai/             |                 | die Polizei              | die Polizeien 
+/poɐtzion/           | porzione        | die Portion              | die Portionen
+//                   | metro           | die U-Bahn               | die U-Bahnen
+/vonʊng/vonʊnghen/   | appartamento    | die Wohnung              | die Wohnungen
+                     | umore/capriccio | die Laune                | die Launen 
+                     | amiche          |                          |
+/fr[oi]ndn/          | fidanzata/amica | die Freundin             | die Freudinnen
+/arb[ai]t/           | lavoro          | die Arbeit               | die Arbeiten
+                     |                 | die Party                | die Partys
+                     | news            |                          |
+/n[oi]i[gl|ʃ]k[ai]/t | notizia/novità  | die Neuigkeit            | die Neuigkeiten
+/[oi]le/             | owl/gufo        | die Eule                 | die Eulen            
+/Haus'aufgabe/       | compiti         | die Hausaufgabe          | die Hausaufgaben
+/[v]o[ç]e/           | week            | die Woche                | die Wochen
+/ahnʊng/ahnʊnghen/   | idea            | die Ahnung               | die Ahnungen
+                     | people          | die Leute                | die Leute
+                     |                 | die Pizza                | die Pizzen
+                     |                 | die Bank                 | die Bank
+                     | corner          | die Ecke                 | die Ecken
+                     | tram/metro      | die Straßenbahn          | die Straßenbahnen
+/kl[ai]'dʊng/        | abbigliamento/  |                          | 
+kl[ai]'ʊnghen/       | vestiario       | die Kleidung             | die Kleindungen
+                     | cucina          | die Küche                |
+                     |                 | die Bibliothek           | die Bibliotheken
+                     | riposo, quiete  | die Ruhe                 | -
+                     |                 | die Tomate               | die Tomaten
+                     | figlia          | die Tochter              | 
+/Haʊsnʊmmeɐ/         | numero civico   | die Hausnummer           |
+                     | calligrafia     | die Schrift              |
+                     | certificato     |                          |   
+                     | di avvenuta     |                          |
+                     | registrazione   | die Meldebestätigung     |
+                     | amaca           | die Hängematte           |
+                     | girella (lumaca)|                          |
+                     | alla cannella   | die Zimtschnecke         |   
+                     | la coca         | die Cola                 |
+                     | il biglietto    | die Fahrkarte            | die Fahrkarten
+                     | il biglietto    |                          |
+                     | giornaliero     | die Tageskarte           | die Tageskarten
+                     | campanello      | die Klingel              | die Klingeln
+                     | idea            | die Idee                 | die Ideen
+                     | il limone       | die Zitrone              | die Zitronen
+                     | prove con la    |                          |
+                     | banda           | die Bandprobe            |
+                     | farmacia        | die Apotheke             |
 
 
 
@@ -254,6 +257,10 @@ NEUTRUM/NEUTRO
              | il cinema   | das Kino          | die Kinos
              | lo Yoga     | das Yoga          |
              | il teatro   | das Theater       |
+             |             | das Restaurant    |
+             |             | das Hotel         |
+             | la nave     | das Shiff         |
+
 
 ##################################################
 ==================================================
