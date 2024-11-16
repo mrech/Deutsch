@@ -52,7 +52,7 @@ MASKULINUM/MASCHILE
               | piazza          |                   |
               | posto/luogo     | der Platz         | die Plätze /plɛtze/
               | amico/amici     |                   |
-/fr[oi]nd/    | fidanzato       | der Freund        | die Freunden
+/fr[oi]nd/    | fidanzato       | der Freund        | die Freunde
 /man[tʃ]/     | individuo/      |                   |
               | persona         | der Mensch        | die Menschen
               | cactus          | der Kaktus        | die Kaktusse, 
@@ -108,9 +108,10 @@ N.B.: Per la maggior parte dei sostantivi femminili basta aggiungere -(E)N
 
  IPA                 | TRANLATION      | SINGOLARE                | PLURALE
 ---------------------|-----------------|--------------------------|---------------------
-                     |                 | Frau                     | Frauen      
-                     |                 | Milch                    |
-                     |                 | Zeitung                  |
+                     |                 | die Frau                 | Frauen      
+                     |                 | die Milch                |
+                     | il giornale     | die Zeitung              |
+                     | it tempo        | die Zeit                 |
                      |                 | Frange: question         |
                      |                 | die Katze                |
                      |                 | die Berlinerin           | die Berlinerinnen
@@ -180,6 +181,7 @@ kl[ai]'ʊnghen/       | vestiario       | die Kleidung             | die Kleindu
                      | prove con la    |                          |
                      | banda           | die Bandprobe            |
                      | farmacia        | die Apotheke             |
+                     | amica
 
 
 
@@ -194,8 +196,8 @@ NEUTRUM/NEUTRO
 
              |             | SINGOLARE         | PLURALE
 -------------|-------------|-------------------|--------------
-             |             | Mädchen           | Mädchen
-             |             | Kind              | Kinder
+             |             | das Mädchen       | die Mädchen
+             |             | das Kind          | did Kinder
              |             | das Wasser        | die Wässer
              |             | das Brot          | die Brote
  /buːç/      |             | Das Buch          | Die Bücher /byːçɐ/
@@ -260,6 +262,8 @@ NEUTRUM/NEUTRO
              |             | das Restaurant    |
              |             | das Hotel         |
              | la nave     | das Shiff         |
+             | animale     |
+             | domestico   | das Haustier      | die Haustiere
 
 
 ##################################################
